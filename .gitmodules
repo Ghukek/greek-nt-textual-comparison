@@ -1,0 +1,9 @@
+[submodule "sources/ght"]
+	path = sources/ght
+	url = https://github.com/Ghukek/ght-formats.git
+[submodule "sources/robinson-pierpont"]
+	path = sources/robinson-pierpont
+	url = https://github.com/byztxt/byzantine-majority-text.git
+[submodule "sources/statistical-restoration"]
+	path = sources/statistical-restoration
+	url = https://github.com/Center-for-New-Testament-Restoration/SR.git

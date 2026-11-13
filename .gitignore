@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Generated reports
+reports/*.csv
+reports/*.json
+reports/*.txt
+
+# Temporary downloads and extracted archives
+*.zip
+*.tmp
