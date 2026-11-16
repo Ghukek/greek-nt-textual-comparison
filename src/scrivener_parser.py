@@ -38,31 +38,44 @@ def parse_scrivener(path, book=None):
     words = []
     root = ET.parse(Path(path)).getroot()
 
-    for marker in root.iter("scripture"):
-        match = re.fullmatch(r"(.+?)\s+(\d+):(\d+)", marker.get("passage", ""))
-        if not match:
-            continue
+    for paragraph in root.iter("p"):
+        children = list(paragraph)
 
-        book_name, chapter, verse = match.groups()
-        book_code = BOOK_NAMES.get(book_name)
+        for i, marker in enumerate(children):
+            if marker.tag != "scripture":
+                continue
 
-        if book_code is None:
-            raise ValueError(f"Unknown Scrivener book name: {book_name}")
+            match = re.fullmatch(
+                r"(.+?)\s+(\d+):(\d+)",
+                marker.get("passage", ""),
+            )
+            if not match:
+                continue
 
-        if book and book_code != book:
-            continue
+            book_name, chapter, verse = match.groups()
+            book_code = BOOK_NAMES.get(book_name)
 
-        sup = marker.getnext() if hasattr(marker, "getnext") else None
-        if sup is None:
-            raise ValueError(f"Could not locate verse text after {marker.get('passage')}")
+            if book_code is None:
+                raise ValueError(
+                    f"Unknown Scrivener book name: {book_name}"
+                )
 
-        text = sup.tail or ""
+            if book and book_code != book:
+                continue
 
-        for word in text.split():
-            words.append({
-                "word": word,
-                "chapter": int(chapter),
-                "verse": int(verse),
-            })
+            if i + 1 >= len(children) or children[i + 1].tag != "sup":
+                raise ValueError(
+                    f"Could not locate verse number after "
+                    f"{marker.get('passage')}"
+                )
+
+            text = children[i + 1].tail or ""
+
+            for word in text.split():
+                words.append({
+                    "word": word,
+                    "chapter": int(chapter),
+                    "verse": int(verse),
+                })
 
     return words

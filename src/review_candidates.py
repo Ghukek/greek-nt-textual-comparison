@@ -7,6 +7,7 @@ from src.ght_parser import parse_ght
 from src.rp_parser import parse_rp
 from src.tr_parser import parse_tr
 from src.sr_parser import parse_sr
+from src.scrivener_parser import parse_scrivener
 from tests.test_normalization import normalize_word
 
 
@@ -51,7 +52,11 @@ for book, (ght_file, rp_file, sr_file) in books.items():
             root / "robinson-pierpont" / "tei-xml-unicode"
             / "no-accents" / rp_file
         ),
-        "TR": parse_tr(
+        "TR": parse_scrivener(
+            root / "Scrivener" / "gntscr.xml",
+            book=book,
+        ),
+        "ST": parse_tr(
             root / "textus-receptus" / "data" / "gnt.flat.json",
             book=book,
         ),

@@ -5,6 +5,7 @@ from src.ght_parser import parse_ght
 from src.rp_parser import parse_rp
 from src.sr_parser import parse_sr
 from src.tr_parser import parse_tr
+from src.scrivener_parser import parse_scrivener
 
 
 ROOT = Path("sources")
@@ -53,7 +54,11 @@ def load_sources():
                 ROOT / "robinson-pierpont" / "tei-xml-unicode"
                 / "no-accents" / rp_file
             ),
-            "TR": parse_tr(
+            "TR": parse_scrivener(
+                ROOT / "Scrivener" / "gntscr.xml",
+                book=book,
+            ),
+            "ST": parse_tr(
                 ROOT / "textus-receptus" / "data" / "gnt.flat.json",
                 book=book,
             ),
