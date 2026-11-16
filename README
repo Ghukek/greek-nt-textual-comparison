@@ -1,0 +1,5 @@
+A variant unit that contains a word removed from one place and a different word added in another place counts as one transposition and one swap rathe than an addition and a removal. (e.g. "και ακουσας" vs "ακουσας δε")
+
+An exception to the above is if the words are not functioning in roughly the same purpose, such as Matthew 14:27, which has SR dropping ο ιησους and adding επι την θαλασσαν οι δε μαθηται ιδοντες.
+
+Differences in spelling that map to the same meaning are ignored. 

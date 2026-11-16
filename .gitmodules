@@ -7,3 +7,6 @@
 [submodule "sources/statistical-restoration"]
 	path = sources/statistical-restoration
 	url = https://github.com/Center-for-New-Testament-Restoration/SR.git
+[submodule "sources/textus-receptus"]
+	path = sources/textus-receptus
+	url = https://github.com/honza/textus-receptus.git
