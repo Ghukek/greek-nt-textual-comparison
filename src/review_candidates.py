@@ -108,8 +108,8 @@ def candidate_regions(words_a, words_b, merge_gap=3):
             if (
                 a_gap == b_gap
                 and 0 <= a_gap <= merge_gap
-                and a_start - previous[0] <= 12
-                and b_start - previous[2] <= 12
+                #and a_start - previous[0] <= 12
+                #and b_start - previous[2] <= 12
             ):
                 previous[1] = a_end
                 previous[3] = b_end
