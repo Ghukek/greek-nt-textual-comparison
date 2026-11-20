@@ -1,5 +1,11 @@
-A variant unit that contains a word removed from one place and a different word added in another place counts as one transposition and one swap rathe than an addition and a removal. (e.g. "και ακουσας" vs "ακουσας δε")
+This project seeks to quantify the differences between three major schools of thought with regard to textual criticism of the New Testament. The SR, Statistical Restoration, by Alan Bunning stands in place of the more well-known Nestle Aland, which is under copyright restrictions, for the NA/WH/UBS mainstream reconstruction from which most modern versions are translated. The RP, Robinson Pierpont, by Maurice Robinson with William Pierpont, represents a rising contender known as Byzantine-priority. The TR, Textus Receptus, is using Scrivener's final revision of the TR line and represents the textual basis used for the King James Version and several other translations contemporary to it. The GHT is my back-translation of Garth's Hyper-literal Translation which is effectively its own critical text since Garth used his own reasoning in analyzing each variant for himself.
 
-An exception to the above is if the words are not functioning in roughly the same purpose, such as Matthew 14:27, which has SR dropping ο ιησους and adding επι την θαλασσαν οι δε μαθηται ιδοντες.
+The project uses pair-wise comparison to determine how far each text is from each other. The determination of the "a" text and the "b" text for each pair is representative of my own personal preference for which I consider most accurate. However, nothing in this project can serve to settle the question of which text is the most accurate reconstruction in each variant. Thus, words "added", "removed", "substituted", or "transposed" by the "b" text relative to the "a" text could very easily be the other way around.
+
+A variant unit that contains a word removed from one place and a different word added in another place counts as one transposition and one swap rather than an addition and a removal. (e.g. "και ακουσας" vs "ακουσας δε")
+
+An exception to the above is if the words are not functioning in roughly the same purpose, such as Matthew 14:27, which has SR dropping ο ιησους and adding επι την θαλασσαν οι δε μαθηται ιδοντες. This is marked as 2 subtractions and 7 additions.
 
 Differences in spelling that map to the same meaning are ignored. 
+
+I understand that the resulting percentages, represented as a percentage of words changed relative to the total number of words in the "a" text will greatly exaggerate the differences. Most of these differences are extremely inconsequential. 

@@ -37,6 +37,74 @@ def required_count_fields(component):
 def valid_count(value):
     return isinstance(value, int) and not isinstance(value, bool) and value >= 0
 
+
+def normalized_region(candidate, side):
+    return [
+        normalize_word(word, normalize_final_sigma=False)
+        for word in candidate[f"source_{side}_region"]
+    ]
+
+
+def matching_component(candidate, other_candidate, component, other_component):
+    if candidate["id"] == other_candidate["id"]:
+        return None
+
+    if component["stage1_decision"] != other_component.get("stage1_decision"):
+        return None
+
+    candidate_a = normalized_region(candidate, "a")
+    candidate_b = normalized_region(candidate, "b")
+    other_a = normalized_region(other_candidate, "a")
+    other_b = normalized_region(other_candidate, "b")
+
+    if candidate_a == other_a and candidate_b == other_b:
+        return "same"
+
+    if candidate_a == other_b and candidate_b == other_a:
+        return "reverse"
+
+    return None
+
+
+def propagate_component(candidate, component, candidates, components):
+    propagated = 0
+
+    for other in candidates:
+        if other["id"] == candidate["id"]:
+            continue
+
+        if (
+            other["id"] not in components
+            or components[other["id"]].get("status") != "manual_review"
+        ):
+            continue
+
+        match = matching_component(
+            candidate,
+            other,
+            component,
+            components[other["id"]],
+        )
+
+        if match is None:
+            continue
+
+        copied = component.copy()
+
+        if (
+            match == "reverse"
+            and component["stage1_decision"] == "textual_difference"
+        ):
+            copied["words_added"], copied["words_removed"] = (
+                copied["words_removed"],
+                copied["words_added"],
+            )
+
+        components[other["id"]] = copied
+        propagated += 1
+
+    return propagated
+
 def main():
     candidates = load_json(CANDIDATES_PATH)
     components = load_json(COMPONENTS_PATH)
@@ -227,8 +295,22 @@ def main():
                 continue
 
             component["status"] = "manual"
+
+            propagated = propagate_component(
+                candidate,
+                component,
+                candidates,
+                components,
+            )
+
             save_json(COMPONENTS_PATH, components)
+
             print("Saved.")
+            if propagated:
+                print(
+                    f"Applied this classification to "
+                    f"{propagated} matching candidate(s)."
+                )
             break
 
     print("\nReview session complete.")
