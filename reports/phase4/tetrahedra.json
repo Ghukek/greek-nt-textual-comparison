@@ -1,0 +1,3362 @@
+[
+  {
+    "book": "MAT",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -0.8912559425832498,
+        -0.5998253758808965,
+        0.14679306661651054
+      ],
+      "TR": [
+        0.01244065818497131,
+        -0.8873729221429238,
+        0.35571209492599676
+      ],
+      "SR": [
+        -0.16188477412688237,
+        3.88687695073723,
+        1.5206937208961966
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.0842858668945625
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.9560944343553038
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 4.176904176904177
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.9710809945576779
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 4.748692775584249
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 4.917421417155034
+      }
+    ]
+  },
+  {
+    "book": "MAT",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        1.2664603562004184,
+        -0.036531841496965145,
+        -0.15614818331235764
+      ],
+      "TR": [
+        0.6826203819246399,
+        -0.840600096279335,
+        -0.38236259344623613
+      ],
+      "SR": [
+        -2.42186051246624,
+        3.733676837214205,
+        -1.5615555716869813
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.2765730157034505
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.148381583164192
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 4.71637645550689
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 1.0191014832995413
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 5.458328886991783
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 5.652637187000533
+      }
+    ]
+  },
+  {
+    "book": "MRK",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -0.8471682355554722,
+        0.9778014795071334,
+        0.41688014070206036
+      ],
+      "TR": [
+        0.014301478575792947,
+        1.104052013795995,
+        0.8503974790808085
+      ],
+      "SR": [
+        0.9244621080627572,
+        6.453949955647465,
+        -3.056275452469055
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.3592567102546456
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.3936682725395733
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 7.2006194081211286
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.9726286796350492
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 6.722327422964365
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 6.686695278969958
+      }
+    ]
+  },
+  {
+    "book": "MRK",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -1.6069087266813877,
+        -0.17886333793358317,
+        0.5360313009912362
+      ],
+      "TR": [
+        -1.2003830398534414,
+        0.6177158494347594,
+        1.052790032944324
+      ],
+      "SR": [
+        -4.749279259946008,
+        5.2745978095777195,
+        -3.3436671710256
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.7033723331039228
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.7119752236751546
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 7.845836200963524
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 1.0328800137717336
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 7.3936994319159925
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 7.3218884120171674
+      }
+    ]
+  },
+  {
+    "book": "LUK",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.32079969160955835,
+        -0.2610477411092964,
+        -0.26691112325874633
+      ],
+      "TR": [
+        -0.23429547530542832,
+        -0.21585942083084303,
+        -0.18153791049247858
+      ],
+      "SR": [
+        -0.01167471131743275,
+        1.76234352076361,
+        -1.1776677467854513
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.4922396905921945
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.36666834095132855
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.119644381937817
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.5634369654894859
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.2436864875742026
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.2260102276145592
+      }
+    ]
+  },
+  {
+    "book": "LUK",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -0.39777668392240095,
+        0.1133321179695995,
+        -0.2668884668893038
+      ],
+      "TR": [
+        0.130106506448399,
+        0.2908313771763464,
+        -0.18148024489046433
+      ],
+      "SR": [
+        0.7100936715111544,
+        -1.622636928111896,
+        -1.1825380570046675
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.4922396905921945
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.36666834095132855
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.1296900899090865
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.5634369654894859
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.2537478619579434
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.236037300711922
+      }
+    ]
+  },
+  {
+    "book": "JHN",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.8081556441385347,
+        -0.050196645903056225,
+        -0.04502130104032953
+      ],
+      "TR": [
+        0.4372175090258205,
+        0.34973527131810817,
+        -0.39505726093079274
+      ],
+      "SR": [
+        -0.1999741580470148,
+        -1.501465757162279,
+        -1.1235943068443974
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.8109637266612183
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.6852329163261457
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.8859621550260892
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.648124842688145
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.0702240120815505
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.08895301424001
+      }
+    ]
+  },
+  {
+    "book": "JHN",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.8081556441385347,
+        -0.050196645903056225,
+        -0.04502130104032953
+      ],
+      "TR": [
+        0.4372175090258205,
+        0.34973527131810817,
+        -0.39505726093079274
+      ],
+      "SR": [
+        -0.1999741580470148,
+        -1.501465757162279,
+        -1.1235943068443974
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.8109637266612183
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.6852329163261457
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.8859621550260892
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.648124842688145
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.0702240120815505
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.08895301424001
+      }
+    ]
+  },
+  {
+    "book": "ACT",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -1.249491956020428,
+        -0.614177545757296,
+        -0.0778358534340512
+      ],
+      "TR": [
+        -0.5367174371046204,
+        -0.9176885032307701,
+        -0.390770029313354
+      ],
+      "SR": [
+        -1.1191664747684253,
+        0.8604131371661389,
+        -0.598635994271626
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.3944542394614523
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.132660148528076
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.5333653897526314
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.835520325638691
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.569278560334208
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.8825781748564134
+      }
+    ]
+  },
+  {
+    "book": "ACT",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -1.249491956020428,
+        -0.614177545757296,
+        -0.0778358534340512
+      ],
+      "TR": [
+        -0.5367174371046204,
+        -0.9176885032307701,
+        -0.390770029313354
+      ],
+      "SR": [
+        -1.1191664747684253,
+        0.8604131371661389,
+        -0.598635994271626
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.3944542394614523
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.132660148528076
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.5333653897526314
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.835520325638691
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.569278560334208
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.8825781748564134
+      }
+    ]
+  },
+  {
+    "book": "ROM",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.6122891581929831,
+        -1.7042312248193092,
+        0.29566516902815165
+      ],
+      "TR": [
+        0.34042535976978805,
+        -0.18580499931689304,
+        -0.10994424273912315
+      ],
+      "SR": [
+        -1.3524064265960747,
+        -0.6925942782068208,
+        -0.3982163788073206
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.834862385321101
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.4031137058659994
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.570753405615791
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 1.59500693481276
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.3162274618585297
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.7904233171408743
+      }
+    ]
+  },
+  {
+    "book": "ROM",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.6122891581929831,
+        -1.7042312248193092,
+        0.29566516902815165
+      ],
+      "TR": [
+        0.34042535976978805,
+        -0.18580499931689304,
+        -0.10994424273912315
+      ],
+      "SR": [
+        -1.3524064265960747,
+        -0.6925942782068208,
+        -0.3982163788073206
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.834862385321101
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.4031137058659994
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.570753405615791
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 1.59500693481276
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.3162274618585297
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.7904233171408743
+      }
+    ]
+  },
+  {
+    "book": "1CO",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -0.13193557551210727,
+        -1.1366428600146579,
+        -0.2726116059938627
+      ],
+      "TR": [
+        -0.3361392296392812,
+        -0.925334709358888,
+        -0.3932234994374259
+      ],
+      "SR": [
+        1.3468085927984759,
+        0.19692146763246843,
+        -0.6202515261411163
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.1762997386000582
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.0601219866395586
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.495788556491432
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.3176436615651169
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.0213687554143807
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.0355132091814636
+      }
+    ]
+  },
+  {
+    "book": "1CO",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -0.13193557551210727,
+        -1.1366428600146579,
+        -0.2726116059938627
+      ],
+      "TR": [
+        -0.3361392296392812,
+        -0.925334709358888,
+        -0.3932234994374259
+      ],
+      "SR": [
+        1.3468085927984759,
+        0.19692146763246843,
+        -0.6202515261411163
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.1762997386000582
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.0601219866395586
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.495788556491432
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.3176436615651169
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.0213687554143807
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.0355132091814636
+      }
+    ]
+  },
+  {
+    "book": "2CO",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.653133676725049,
+        0.26279321922928356,
+        0.10239594179038097
+      ],
+      "TR": [
+        0.3498572336936099,
+        0.6852025538691048,
+        0.3998457039939308
+      ],
+      "SR": [
+        0.6070002931383014,
+        -0.9090988164260345,
+        0.6839606655154022
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.7114273010226767
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.8670520231213872
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.2894619831036016
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.59906811626359
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.309074772575993
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.6397075116330602
+      }
+    ]
+  },
+  {
+    "book": "2CO",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.653133676725049,
+        0.26279321922928356,
+        0.10239594179038097
+      ],
+      "TR": [
+        0.3498572336936099,
+        0.6852025538691048,
+        0.3998457039939308
+      ],
+      "SR": [
+        0.6070002931383014,
+        -0.9090988164260345,
+        0.6839606655154022
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.7114273010226767
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.8670520231213872
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.2894619831036016
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.59906811626359
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.309074772575993
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.6397075116330602
+      }
+    ]
+  },
+  {
+    "book": "GAL",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": false,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -0.6440697043062951,
+        0.28502871528207246,
+        0.08539510036006696
+      ],
+      "TR": [
+        -0.5555364063278427,
+        0.27654521660346426,
+        0.06993884483034776
+      ],
+      "SR": [
+        0.03187693735772712,
+        -1.0155552787601485,
+        0.11706259840238872
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.7114273010226767
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.6224988883948421
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.0226767452200978
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.08880994671403197
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.4653641207815276
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.4209591474245116
+      }
+    ]
+  },
+  {
+    "book": "GAL",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": false,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -0.6440697043062951,
+        0.28502871528207246,
+        0.08539510036006696
+      ],
+      "TR": [
+        -0.5555364063278427,
+        0.27654521660346426,
+        0.06993884483034776
+      ],
+      "SR": [
+        0.03187693735772712,
+        -1.0155552787601485,
+        0.11706259840238872
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.7114273010226767
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.6224988883948421
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.0226767452200978
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.08880994671403197
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.4653641207815276
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.4209591474245116
+      }
+    ]
+  },
+  {
+    "book": "EPH",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.07262512178736388,
+        -0.6886302501852384,
+        0.24102411985422895
+      ],
+      "TR": [
+        0.4253074536726319,
+        -0.6073944534220617,
+        0.4264854391019004
+      ],
+      "SR": [
+        -1.4236827984818836,
+        0.6450753987119549,
+        1.033372255288892
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.7331975560081466
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.8553971486761711
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.8737270875763747
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.40666937779585194
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.155347702318015
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.3142509135200973
+      }
+    ]
+  },
+  {
+    "book": "EPH",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.07262512178736388,
+        -0.6886302501852384,
+        0.24102411985422895
+      ],
+      "TR": [
+        0.4253074536726319,
+        -0.6073944534220617,
+        0.4264854391019004
+      ],
+      "SR": [
+        -1.4236827984818836,
+        0.6450753987119549,
+        1.033372255288892
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.7331975560081466
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.8553971486761711
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.8737270875763747
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.40666937779585194
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.155347702318015
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.3142509135200973
+      }
+    ]
+  },
+  {
+    "book": "PHP",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.5757912763280821,
+        1.0877264963514146,
+        -0.34781123237143297
+      ],
+      "TR": [
+        0.7809978324607476,
+        0.971482062472361,
+        -0.2862204851338315
+      ],
+      "SR": [
+        0.5185791287447283,
+        2.255398387644291,
+        -0.003330310871163894
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.2789281364190013
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.2789281364190013
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.3142509135200973
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.2437538086532602
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.218769043266301
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.340645947592931
+      }
+    ]
+  },
+  {
+    "book": "PHP",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.5757912763280821,
+        1.0877264963514146,
+        -0.34781123237143297
+      ],
+      "TR": [
+        0.7809978324607476,
+        0.971482062472361,
+        -0.2862204851338315
+      ],
+      "SR": [
+        0.5185791287447283,
+        2.255398387644291,
+        -0.003330310871163894
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.2789281364190013
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.2789281364190013
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.3142509135200973
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.2437538086532602
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.218769043266301
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.340645947592931
+      }
+    ]
+  },
+  {
+    "book": "COL",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.8849975833721677,
+        0.27016995582217995,
+        -0.11352899707755168
+      ],
+      "TR": [
+        0.706594947634397,
+        -0.2119730016350856,
+        -0.3295189149650283
+      ],
+      "SR": [
+        -0.37901845553695307,
+        1.9862095236717268,
+        -0.9577789810475621
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.9322560596643878
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.8079552517091362
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.237414543194531
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.5576208178438662
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.292441140024783
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.5308641975308643
+      }
+    ]
+  },
+  {
+    "book": "COL",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.8849975833721677,
+        0.27016995582217995,
+        -0.11352899707755168
+      ],
+      "TR": [
+        0.706594947634397,
+        -0.2119730016350856,
+        -0.3295189149650283
+      ],
+      "SR": [
+        -0.37901845553695307,
+        1.9862095236717268,
+        -0.9577789810475621
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.9322560596643878
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.8079552517091362
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.237414543194531
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.5576208178438662
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.292441140024783
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.5308641975308643
+      }
+    ]
+  },
+  {
+    "book": "1TH",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -0.34699323253316494,
+        -0.6700521659859804,
+        -0.27054295770728204
+      ],
+      "TR": [
+        -0.6864161719553338,
+        -0.3493823253139043,
+        -0.5304440276511146
+      ],
+      "SR": [
+        1.6443619344124245,
+        0.05574468904935451,
+        -1.2574630428784672
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.8016032064128256
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.9352037408149633
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.070808283233133
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.5344021376085505
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.338009352037408
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.4749163879598663
+      }
+    ]
+  },
+  {
+    "book": "1TH",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -0.34699323253316494,
+        -0.6700521659859804,
+        -0.27054295770728204
+      ],
+      "TR": [
+        -0.6864161719553338,
+        -0.3493823253139043,
+        -0.5304440276511146
+      ],
+      "SR": [
+        1.6443619344124245,
+        0.05574468904935451,
+        -1.2574630428784672
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.8016032064128256
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.9352037408149633
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.070808283233133
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.5344021376085505
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.338009352037408
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.4749163879598663
+      }
+    ]
+  },
+  {
+    "book": "2TH",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -0.4295491439516127,
+        0.18668469338495086,
+        -0.37885845748673186
+      ],
+      "TR": [
+        -0.5554504009595914,
+        0.048662811994794906,
+        -0.2280441962111959
+      ],
+      "SR": [
+        0.021964198100750995,
+        -0.37002626688137924,
+        -0.3079812564075218
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.6024096385542169
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.6024096385542169
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.48192771084337355
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.24009603841536614
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.7202881152460985
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 0.7177033492822966
+      }
+    ]
+  },
+  {
+    "book": "2TH",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -0.4295491439516127,
+        0.18668469338495086,
+        -0.37885845748673186
+      ],
+      "TR": [
+        -0.5554504009595914,
+        0.048662811994794906,
+        -0.2280441962111959
+      ],
+      "SR": [
+        0.021964198100750995,
+        -0.37002626688137924,
+        -0.3079812564075218
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.6024096385542169
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.6024096385542169
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.48192771084337355
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.24009603841536614
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.7202881152460985
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 0.7177033492822966
+      }
+    ]
+  },
+  {
+    "book": "1TI",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": false,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.04739985692508114,
+        -0.3068710432420676,
+        -0.01432551224799396
+      ],
+      "TR": [
+        0.06377975076975514,
+        -0.49144162521504975,
+        -0.023453262534906837
+      ],
+      "SR": [
+        -0.993131535662767,
+        0.35600549855650687,
+        -0.02279090539243505
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.31036623215394166
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.4965859714463066
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.0552451893234016
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.1850709438618137
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.2338062924120914
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.354679802955665
+      }
+    ]
+  },
+  {
+    "book": "1TI",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": false,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.04739985692508114,
+        -0.3068710432420676,
+        -0.01432551224799396
+      ],
+      "TR": [
+        0.06377975076975514,
+        -0.49144162521504975,
+        -0.023453262534906837
+      ],
+      "SR": [
+        -0.993131535662767,
+        0.35600549855650687,
+        -0.02279090539243505
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.31036623215394166
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.4965859714463066
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.0552451893234016
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.1850709438618137
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.2338062924120914
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.354679802955665
+      }
+    ]
+  },
+  {
+    "book": "2TI",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -0.240431076863682,
+        -0.00437347996252755,
+        -0.015406153668945082
+      ],
+      "TR": [
+        -0.22881601220624703,
+        0.07462837701339131,
+        -0.011722522000888316
+      ],
+      "SR": [
+        0.3970757258508056,
+        -0.052911968216662074,
+        -0.028616651189165912
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.24096385542168677
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.24096385542168677
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.4016064257028112
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.07993605115907274
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.6394884092725819
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 0.6389776357827476
+      }
+    ]
+  },
+  {
+    "book": "2TI",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -0.240431076863682,
+        -0.00437347996252755,
+        -0.015406153668945082
+      ],
+      "TR": [
+        -0.22881601220624703,
+        0.07462837701339131,
+        -0.011722522000888316
+      ],
+      "SR": [
+        0.3970757258508056,
+        -0.052911968216662074,
+        -0.028616651189165912
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.24096385542168677
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.24096385542168677
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.4016064257028112
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.07993605115907274
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.6394884092725819
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 0.6389776357827476
+      }
+    ]
+  },
+  {
+    "book": "TIT",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": false,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -0.208307613626654,
+        -0.18701399597422502,
+        -0.09050305059532095
+      ],
+      "TR": [
+        -0.05989256566771305,
+        -0.14070429062577672,
+        -0.04113882484825279
+      ],
+      "SR": [
+        0.9245776153474764,
+        -0.4752904203953135,
+        0.17469893155356653
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.3021148036253776
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.1510574018126888
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.0574018126888218
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.15060240963855423
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.2048192771084338
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.0526315789473684
+      }
+    ]
+  },
+  {
+    "book": "TIT",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": false,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -0.208307613626654,
+        -0.18701399597422502,
+        -0.09050305059532095
+      ],
+      "TR": [
+        -0.05989256566771305,
+        -0.14070429062577672,
+        -0.04113882484825279
+      ],
+      "SR": [
+        0.9245776153474764,
+        -0.4752904203953135,
+        0.17469893155356653
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.3021148036253776
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.1510574018126888
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.0574018126888218
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.15060240963855423
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.2048192771084338
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.0526315789473684
+      }
+    ]
+  },
+  {
+    "book": "PHM",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": false,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -5.123845772410592e-06,
+        -1.1045787568714658e-05,
+        -0.07353797991842494
+      ],
+      "TR": [
+        -1.2127855487368953e-05,
+        -1.0855133370899808e-06,
+        -0.14663379515815894
+      ],
+      "SR": [
+        -7.682002407001016e-05,
+        -5.720790550653671e-05,
+        -0.9563248063429121
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.0
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.0
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.1764705882352942
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.0
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.8823529411764706
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 0.5899705014749262
+      }
+    ]
+  },
+  {
+    "book": "PHM",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": false,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -5.123845772410592e-06,
+        -1.1045787568714658e-05,
+        -0.07353797991842494
+      ],
+      "TR": [
+        -1.2127855487368953e-05,
+        -1.0855133370899808e-06,
+        -0.14663379515815894
+      ],
+      "SR": [
+        -7.682002407001016e-05,
+        -5.720790550653671e-05,
+        -0.9563248063429121
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.0
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.0
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.1764705882352942
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.0
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.8823529411764706
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 0.5899705014749262
+      }
+    ]
+  },
+  {
+    "book": "HEB",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.5531046441853905,
+        -0.08489442686907056,
+        -0.03311088828609491
+      ],
+      "TR": [
+        0.25034502572158257,
+        0.19875773380511244,
+        0.1168515237902141
+      ],
+      "SR": [
+        0.3653390091535506,
+        -0.8423691469827622,
+        0.28352706589186366
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.5605605605605605
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.34034034034034033
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.960960960960961
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.4411469821535993
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.8421896932023261
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.0606363818290974
+      }
+    ]
+  },
+  {
+    "book": "HEB",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.5531046441853905,
+        -0.08489442686907056,
+        -0.03311088828609491
+      ],
+      "TR": [
+        0.25034502572158257,
+        0.19875773380511244,
+        0.1168515237902141
+      ],
+      "SR": [
+        0.3653390091535506,
+        -0.8423691469827622,
+        0.28352706589186366
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.5605605605605605
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.34034034034034033
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.960960960960961
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.4411469821535993
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.8421896932023261
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.0606363818290974
+      }
+    ]
+  },
+  {
+    "book": "JAS",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": false,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.11176307804072125,
+        -1.1735508773547179,
+        -0.26114960694814054
+      ],
+      "TR": [
+        -0.24085712444648627,
+        -0.9675581384949721,
+        -0.12762773117957638
+      ],
+      "SR": [
+        1.2207877045126743,
+        0.011099658454872423,
+        -0.31923097426684305
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.2478729438457177
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.9642654566080544
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.2478729438457177
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.3977272727272727
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.5909090909090908
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.8130311614730876
+      }
+    ]
+  },
+  {
+    "book": "JAS",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": false,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.11176307804072125,
+        -1.1735508773547179,
+        -0.26114960694814054
+      ],
+      "TR": [
+        -0.24085712444648627,
+        -0.9675581384949721,
+        -0.12762773117957638
+      ],
+      "SR": [
+        1.2207877045126743,
+        0.011099658454872423,
+        -0.31923097426684305
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.2478729438457177
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.9642654566080544
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.2478729438457177
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.3977272727272727
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.5909090909090908
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.8130311614730876
+      }
+    ]
+  },
+  {
+    "book": "1PE",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -1.025232342268716,
+        0.6135321536774782,
+        0.264773840569781
+      ],
+      "TR": [
+        -0.9130780536375875,
+        0.21166040008587308,
+        0.4709422959306026
+      ],
+      "SR": [
+        0.6978925538166514,
+        1.9114149863390433,
+        1.137106239743715
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.2237762237762237
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.048951048951049
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.331002331002331
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.4653868528214078
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.326934264107039
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.4347826086956523
+      }
+    ]
+  },
+  {
+    "book": "1PE",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -1.025232342268716,
+        0.6135321536774782,
+        0.264773840569781
+      ],
+      "TR": [
+        -0.9130780536375875,
+        0.21166040008587308,
+        0.4709422959306026
+      ],
+      "SR": [
+        0.6978925538166514,
+        1.9114149863390433,
+        1.137106239743715
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.2237762237762237
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.048951048951049
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.331002331002331
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.4653868528214078
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.326934264107039
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.4347826086956523
+      }
+    ]
+  },
+  {
+    "book": "2PE",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.3529003894888641,
+        0.2650847416768784,
+        0.09781272323542069
+      ],
+      "TR": [
+        0.1988498647156456,
+        0.4583607357807341,
+        0.21134216842424047
+      ],
+      "SR": [
+        0.4286422482533083,
+        -0.6749141388050859,
+        0.4222090290903455
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.45207956600361665
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.5424954792043399
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.9041591320072333
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.271985494106981
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.9972801450589301
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.1754068716094033
+      }
+    ]
+  },
+  {
+    "book": "2PE",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.3529003894888641,
+        0.2650847416768784,
+        0.09781272323542069
+      ],
+      "TR": [
+        0.1988498647156456,
+        0.4583607357807341,
+        0.21134216842424047
+      ],
+      "SR": [
+        0.4286422482533083,
+        -0.6749141388050859,
+        0.4222090290903455
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.45207956600361665
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.5424954792043399
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.9041591320072333
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.271985494106981
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.9972801450589301
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.1754068716094033
+      }
+    ]
+  },
+  {
+    "book": "1JN",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.5853294711933403,
+        0.14707433291383937,
+        0.23633572031825328
+      ],
+      "TR": [
+        -0.1888924039714107,
+        1.7202292888002002,
+        0.9839611529531322
+      ],
+      "SR": [
+        0.0515203329387273,
+        -1.0815391890695802,
+        0.6245947788771522
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.6481481481481481
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.990740740740741
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.25
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 1.906090190609019
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.394700139470014
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.8349336991312297
+      }
+    ]
+  },
+  {
+    "book": "1JN",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.5853294711933403,
+        0.14707433291383937,
+        0.23633572031825328
+      ],
+      "TR": [
+        -0.1888924039714107,
+        1.7202292888002002,
+        0.9839611529531322
+      ],
+      "SR": [
+        0.0515203329387273,
+        -1.0815391890695802,
+        0.6245947788771522
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.6481481481481481
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.990740740740741
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.25
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 1.906090190609019
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.394700139470014
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.8349336991312297
+      }
+    ]
+  },
+  {
+    "book": "2JN",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -0.015732731055300046,
+        -1.219410706708415,
+        5.991315133160312e-05
+      ],
+      "TR": [
+        -0.015732731055472658,
+        -1.2194107067094,
+        5.989306561943939e-05
+      ],
+      "SR": [
+        -0.13802757318051842,
+        0.38235316610238596,
+        -1.754854200669822e-05
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.2195121951219512
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.2195121951219512
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.40650406504065045
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.0
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.6064257028112447
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.6064257028112447
+      }
+    ]
+  },
+  {
+    "book": "2JN",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -0.015732731055300046,
+        -1.219410706708415,
+        5.991315133160312e-05
+      ],
+      "TR": [
+        -0.015732731055472658,
+        -1.2194107067094,
+        5.989306561943939e-05
+      ],
+      "SR": [
+        -0.13802757318051842,
+        0.38235316610238596,
+        -1.754854200669822e-05
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.2195121951219512
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.2195121951219512
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.40650406504065045
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.0
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.6064257028112447
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.6064257028112447
+      }
+    ]
+  },
+  {
+    "book": "3JN",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": false,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        4.864740237374307e-13,
+        6.463649603853198e-13,
+        -0.0019519221923976165
+      ],
+      "TR": [
+        0.43388012351740335,
+        -0.5299779606435386,
+        0.6125681747137326
+      ],
+      "SR": [
+        -0.4338957936179759,
+        0.5299655095811564,
+        0.6125678506727982
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.0
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.9174311926605505
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.9174311926605505
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.9216589861751152
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.9216589861751152
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.36986301369863
+      }
+    ]
+  },
+  {
+    "book": "3JN",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": false,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        4.864740237374307e-13,
+        6.463649603853198e-13,
+        -0.0019519221923976165
+      ],
+      "TR": [
+        0.43388012351740335,
+        -0.5299779606435386,
+        0.6125681747137326
+      ],
+      "SR": [
+        -0.4338957936179759,
+        0.5299655095811564,
+        0.6125678506727982
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.0
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.9174311926605505
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.9174311926605505
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.9216589861751152
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.9216589861751152
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.36986301369863
+      }
+    ]
+  },
+  {
+    "book": "JUD",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": false,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        3.17181113634144,
+        -2.292954798228778,
+        -0.4789346776320078
+      ],
+      "TR": [
+        3.1176547483824373,
+        -1.4058271795451223,
+        -0.23697424943776296
+      ],
+      "SR": [
+        1.2682853387537527,
+        0.8035026372364196,
+        0.28278447402965273
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 3.9045553145336225
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 3.470715835140998
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.5184381778741864
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.8888888888888888
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 3.7777777777777777
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.8634361233480177
+      }
+    ]
+  },
+  {
+    "book": "JUD",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": false,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        3.17181113634144,
+        -2.292954798228778,
+        -0.4789346776320078
+      ],
+      "TR": [
+        3.1176547483824373,
+        -1.4058271795451223,
+        -0.23697424943776296
+      ],
+      "SR": [
+        1.2682853387537527,
+        0.8035026372364196,
+        0.28278447402965273
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 3.9045553145336225
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 3.470715835140998
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.5184381778741864
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.8888888888888888
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 3.7777777777777777
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.8634361233480177
+      }
+    ]
+  },
+  {
+    "book": "REV",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -0.8835747803904449,
+        -0.5870245023932792,
+        0.6182219709950969
+      ],
+      "TR": [
+        -0.4426501984495494,
+        1.6637720262166422,
+        1.3066413211021866
+      ],
+      "SR": [
+        0.5993382588351513,
+        -0.567311684897384,
+        0.5364162206709482
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.227803145611365
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 2.1613394216133943
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.9842719431760528
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 2.3946650500151563
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.4852985753258563
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.5800622427467124
+      }
+    ]
+  },
+  {
+    "book": "REV",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        -0.8835747803904449,
+        -0.5870245023932792,
+        0.6182219709950969
+      ],
+      "TR": [
+        -0.4426501984495494,
+        1.6637720262166422,
+        1.3066413211021866
+      ],
+      "SR": [
+        0.5993382588351513,
+        -0.567311684897384,
+        0.5364162206709482
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.227803145611365
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 2.1613394216133943
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.9842719431760528
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 2.3946650500151563
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.4852985753258563
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.5800622427467124
+      }
+    ]
+  },
+  {
+    "book": "NT",
+    "metric": "textual",
+    "metric_title": "Textual variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.7749914577136059,
+        -0.6511008759031868,
+        0.08281482286764152
+      ],
+      "TR": [
+        0.047895165646735016,
+        -0.7855739570413544,
+        0.5059785001743258
+      ],
+      "SR": [
+        1.2024057108872468,
+        1.5824626367624333,
+        1.3507042720565108
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.015579836850632
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.9356466381666749
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.402991785436457
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.8519504241913963
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.603657535908212
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.7665960200844912
+      }
+    ]
+  },
+  {
+    "book": "NT",
+    "metric": "total",
+    "metric_title": "Total variance (%)",
+    "exact_euclidean_geometry": true,
+    "vertices": {
+      "GHT": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "RP": [
+        0.8052798448485053,
+        -0.6959518994915893,
+        0.1081232249468343
+      ],
+      "TR": [
+        0.06460875887869028,
+        -0.830444332255299,
+        0.5308766252605948
+      ],
+      "SR": [
+        1.2405497426640124,
+        1.689953008501066,
+        1.416382453798273
+      ]
+    },
+    "edges": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.0698202216718884
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.9877459551660398
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.530028476202031
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.8633668452860883
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.7556386417313004
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.9187943615492937
+      }
+    ]
+  }
+]

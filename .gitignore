@@ -3,6 +3,10 @@ __pycache__/
 .venv/
 .env
 
+# Report visuals
+*.png
+*.pdf
+
 # Temporary downloads and extracted archives
 *.zip
 *.tmp

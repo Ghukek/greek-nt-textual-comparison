@@ -160,26 +160,25 @@ def make_figure(book, rows, field, metric_title):
 
     coords, view_distortion = optimize_view(coords, edges)
 
-    fig = plt.figure(figsize=(10, 8), constrained_layout=True)
-    ax = fig.add_subplot(111, projection="3d")
+    fig, ax = plt.subplots(figsize=(10, 8), constrained_layout=True)
     points = np.array([coords[v] for v in VERTICES])
     for a, b in PAIRS:
         pa, pb = coords[a], coords[b]
         ax.plot(
-            [pa[0], pb[0]], [pa[1], pb[1]], [pa[2], pb[2]],
+            [pa[0], pb[0]], [pa[1], pb[1]],
             linewidth=1.8,
         )
         midpoint = (pa + pb) / 2
         ax.text(
-            midpoint[0], midpoint[1], midpoint[2],
+            midpoint[0], midpoint[1],
             f"{edges[(a, b)]:.3f}%",
             fontsize=9, ha="center", va="center",
             bbox=dict(boxstyle="round,pad=0.18", fc="white", alpha=0.88, ec="none"),
         )
     for name in VERTICES:
         p = coords[name]
-        ax.scatter([p[0]], [p[1]], [p[2]], s=55, depthshade=False)
-        ax.text(p[0], p[1], p[2], f"  {name}", fontsize=11, weight="bold")
+        ax.scatter([p[0]], [p[1]], s=55)
+        ax.text(p[0], p[1], f"  {name}", fontsize=11, weight="bold")
 
     title = f"{book} — {metric_title}"
     if valid:
@@ -196,24 +195,18 @@ def make_figure(book, rows, field, metric_title):
     )
     ax.set_title(f"{title}\n{subtitle}", fontsize=12, pad=18)
 
-    # Use an orthographic top-down view of the optimized XY projection.
-    ax.view_init(elev=90, azim=-90)
-    ax.set_proj_type("ortho")
+    # Display the optimized projection without 3D-axis distortion.
+    ax.set_aspect("equal", adjustable="datalim")
     ax.set_xticks([])
     ax.set_yticks([])
-    ax.set_zticks([])
     ax.grid(False)
-    try:
-        ax.set_box_aspect((1, 1, 0.8))
-    except Exception:
-        pass
     fig.text(
         0.5, 0.01,
         "Edge labels are the original Stage 3 percentages. "
         "Vertex positions have no independent textual-historical meaning.",
         ha="center", fontsize=8,
     )
-    return fig, valid
+    return fig, valid, coords, edges
 
 
 def make_overview(rows, output_path):
@@ -266,10 +259,31 @@ def main():
 
     pdf_path = args.output_dir / "phase4_tetrahedra.pdf"
     manifest = []
+    viewer_data = []
     with PdfPages(pdf_path) as pdf:
         for book in books:
             for field, metric_title, slug in METRICS:
-                fig, valid = make_figure(book, rows, field, metric_title)
+                fig, valid, coords, edges = make_figure(
+                    book, rows, field, metric_title
+                )
+                viewer_data.append({
+                    "book": book,
+                    "metric": slug,
+                    "metric_title": metric_title,
+                    "exact_euclidean_geometry": valid,
+                    "vertices": {
+                        name: [float(value) for value in coords[name]]
+                        for name in VERTICES
+                    },
+                    "edges": [
+                        {
+                            "source_a": a,
+                            "source_b": b,
+                            "value": edges[(a, b)],
+                        }
+                        for a, b in PAIRS
+                    ],
+                })
                 png_path = args.output_dir / f"{book.lower()}_{slug}.png"
                 fig.savefig(png_path, dpi=180, bbox_inches="tight")
                 pdf.savefig(fig, bbox_inches="tight")
@@ -286,6 +300,11 @@ def main():
     (args.output_dir / "manifest.json").write_text(
         json.dumps(manifest, indent=2) + "\n", encoding="utf-8"
     )
+    viewer_path = args.output_dir / "tetrahedra.json"
+    viewer_path.write_text(
+        json.dumps(viewer_data, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
     print(f"Generated {len(manifest)} tetrahedron graphics.")
     print(f"PDF: {pdf_path}")
     print(f"Overview: {overview_path}")
@@ -294,6 +313,7 @@ def main():
         "Exact Euclidean tetrahedra: "
         f"{sum(x['exact_euclidean_geometry'] for x in manifest)} / {len(manifest)}"
     )
+    print(f"Viewer data: {viewer_path}")
 
 
 if __name__ == "__main__":
