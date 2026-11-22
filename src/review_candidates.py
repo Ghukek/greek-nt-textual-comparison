@@ -181,19 +181,23 @@ def candidate_records(book, name_a, words_a, name_b, words_b, context=5, merge_g
             ],
             "source_a_start_reference": (
                 [words_a[a_start]["chapter"], words_a[a_start]["verse"]]
-                if a_start < a_end else None
+                if a_start < a_end else
+                [words_b[b_start]["chapter"], words_b[b_start]["verse"]]
             ),
             "source_a_end_reference": (
                 [words_a[a_end - 1]["chapter"], words_a[a_end - 1]["verse"]]
-                if a_start < a_end else None
+                if a_start < a_end else
+                [words_b[b_end - 1]["chapter"], words_b[b_end - 1]["verse"]]
             ),
             "source_b_start_reference": (
                 [words_b[b_start]["chapter"], words_b[b_start]["verse"]]
-                if b_start < b_end else None
+                if b_start < b_end else
+                [words_a[a_start]["chapter"], words_a[a_start]["verse"]]
             ),
             "source_b_end_reference": (
                 [words_b[b_end - 1]["chapter"], words_b[b_end - 1]["verse"]]
-                if b_start < b_end else None
+                if b_start < b_end else
+                [words_a[a_end - 1]["chapter"], words_a[a_end - 1]["verse"]]
             ),
             "source_a_context_before": [
                 item["word"]

@@ -87,7 +87,7 @@
     "book": "2CO",
     "metric": "textual",
     "png": "2co_textual.png",
-    "exact_euclidean_geometry": true
+    "exact_euclidean_geometry": false
   },
   {
     "book": "2CO",
@@ -231,13 +231,13 @@
     "book": "JAS",
     "metric": "textual",
     "png": "jas_textual.png",
-    "exact_euclidean_geometry": false
+    "exact_euclidean_geometry": true
   },
   {
     "book": "JAS",
     "metric": "total",
     "png": "jas_total.png",
-    "exact_euclidean_geometry": false
+    "exact_euclidean_geometry": true
   },
   {
     "book": "1PE",

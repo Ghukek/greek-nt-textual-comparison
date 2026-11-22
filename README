@@ -6,6 +6,8 @@ A variant unit that contains a word removed from one place and a different word 
 
 An exception to the above is if the words are not functioning in roughly the same purpose, such as Matthew 14:27, which has SR dropping ο ιησους and adding επι την θαλασσαν οι δε μαθηται ιδοντες. This is marked as 2 subtractions and 7 additions.
 
+If a pair of words is replaced by a single-word contraction that has the same meaning in the Hyper-literal, this will be marked as a segmentation difference and not counted with genuine textual differences. For example, "του ουρανου εσονται εκπιπτοντες" and "εσονται εκ του ουρανου πιπτοντες" are merely a transposition variant.
+
 Differences in spelling that map to the same meaning are ignored. 
 
 I understand that the resulting percentages, represented as a percentage of words changed relative to the total number of words in the "a" text will greatly exaggerate the differences. Most of these differences are extremely inconsequential. 

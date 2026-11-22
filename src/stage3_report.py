@@ -208,7 +208,34 @@ def main():
                 row[field] += component.get(field, 0)
         else:
             row["unclassified_units"] += 1
+#"""
+    print("\nUnclassified MRK GHT -> SR candidates:")
 
+    for candidate_id, candidate in candidate_items.items():
+        if (
+            candidate["book"] != "MRK"
+            or candidate["source_a"] != "GHT"
+            or candidate["source_b"] != "SR"
+        ):
+            continue
+
+        decision_entry = decisions.get(candidate_id)
+        decision = (
+            decision_entry.get("decision")
+            if decision_entry else None
+        )
+
+        if (
+            decision not in EXCLUDED_DECISIONS
+            and candidate_id not in components
+        ):
+            print(
+                candidate_id,
+                candidate.get("source_a_start_reference"),
+                candidate.get("source_b_start_reference"),
+                "decision:", decision,
+            )
+#"""
     book_rows = [
         finish_report_row(row)
         for row in rows.values()

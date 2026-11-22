@@ -683,15 +683,7 @@
     "decision": "textual_difference",
     "note": ""
   },
-  "0e60b0e7d298e69a": {
-    "decision": "textual_difference",
-    "note": ""
-  },
   "42dc67c0ab4f8c7c": {
-    "decision": "transposition",
-    "note": ""
-  },
-  "77b6a4c39a9e28e7": {
     "decision": "transposition",
     "note": ""
   },
@@ -1851,6 +1843,1178 @@
     "decision": "textual_difference",
     "note": ""
   },
+  "f7c7aac0e5feb4e4": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "ffca9b62f3d5435c": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "fb8c757e4e7ebc10": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "6c468b086643930d": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "4069b915d1f98526": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "e8e7c2000c68a6cd": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "356333621f09ac34": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "a831d59e30c35392": {
+    "decision": "spelling",
+    "note": ""
+  },
+  "fe6fe292009cebc7": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "f4329fd05c45052c": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "bc2bea32a3c028ff": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "e7d3f2ab19617bd4": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "99f32c1568cce304": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "d5cb75a61a0eeba1": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "d34b69f83c23fbec": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "57f79feb71ee216c": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "d4b14085828d8d04": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "246673fcd58e3e04": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "93b1f3ba0fc3f67a": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "fdecbd64fd0d24e2": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "2dafd9c85f4f87a0": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "e38acaa57864ae94": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "82609d419facb570": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "994482f645bf24da": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "0b49eedcb9f7a8e5": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "8a41ac745aa34701": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "2a34e67ce77f9559": {
+    "decision": "spelling",
+    "note": ""
+  },
+  "82eb3b107a5d9f9b": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "179c00be8693679e": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "9c3d25a5782d9089": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "617615e1790a8ae3": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "b519a76f576acfdb": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "f51b63cc6db5b729": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "c30d0641eb436bfa": {
+    "decision": "spelling",
+    "note": ""
+  },
+  "0572eecdebbf2360": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "5e97236796ad3491": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "d8e2ec01f7eea32f": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "d7613986a218b359": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "32a28c8b3ce8713a": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "6fc7c61600aaf8a3": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "9471412fba6e850c": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "60c36ed8c4edc664": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "d7b0a108a6d340b2": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "922577bee2c7a7fa": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "4ed61c79288898a4": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "0935acd98a092ee0": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "7ae06da0c9178d9c": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "487de7284fa3c536": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "a5e68bb8c95a863f": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "ac005a32519bb122": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "cc1216e5c9dd70be": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "b5def6848ae7eaac": {
+    "decision": "word_segmentation",
+    "note": ""
+  },
+  "627223d18858109d": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "06a8a2cf69752683": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "00ffc78afa451ad1": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "9d2979e6cf5e4351": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "5dae7c74c7eb39a3": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "94b75f80d5d2797f": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "5fca9ca4a5784e1a": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "fc180e0d96b57691": {
+    "decision": "spelling",
+    "note": ""
+  },
+  "6086b39fb1d8a72b": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "0bae64910c4255cc": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "534932a13fe57f62": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "af975af04be4866a": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "345d86aaac7d342a": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "4417cf2c2b61b20b": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "981aa8e7da5af84c": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "cd3299ec37bd07fc": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "92b2b38c7abb011e": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "22253d7ae8272d80": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "8a203a2a861f364e": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "5d048fa5e594d047": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "c9b10fb687f66304": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "07f1fe63eecb0717": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "e6872f62d6f63d88": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "2bc416f12b087aa0": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "50152093f6551fe1": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "6dc763698c35d002": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "6b2a0fc9ab1f3baf": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "597a6917dbcecdcb": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "ae9f368b9e763b47": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "0250e9c95b2b4968": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "ceeb28df77beaa1b": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "bb81bb3d7a2f532c": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "88e012006994a3de": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "be03cf1d5447101c": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "4d4efa604dafc480": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "d5e0e29d9f5a376f": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "4ca6c09353b4ed4a": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "62b21ee8361561d7": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "51d4c0bcdde6e0c0": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "88d4e054ca7fad88": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "2e4668b6575208c4": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "3369f2b201dce383": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "dd74c6689e1cfe00": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "81196e5c92f89dae": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "3c0f5efb87e9d339": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "9873fe39e8dad099": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "d97f53d3573ea6ef": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "0add88354655be2f": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "7ba3099d10eac7af": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "97551998501b1dae": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "29ee32bb13528cf7": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "c4adabdaf46f6112": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "23267047410bb198": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "cc6b6926daceb8e7": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "69c2b32f72a19d9c": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "8a3c6044f012975d": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "2ce4985494d390e3": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "72465ff92584e899": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "df3c8caf0d58f4c8": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "92fb406368cbcbc4": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "5a6d03fe6a318aec": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "3da686d8e6e78439": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "9e80d9616ff4bea0": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "ec59383a43e6cd9c": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "ef935622927e5b71": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "ed3118eaa3d862ad": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "2a648e08a8a0513e": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "543713bb6e6b78c1": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "745479df9e7af46b": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "229b1d7f716c0aac": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "eedd228b3fdcfd76": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "754c1fdd102fc3ef": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "48ef54d9a4ef22a6": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "8e2c791bd213c8f6": {
+    "decision": "spelling",
+    "note": ""
+  },
+  "88b68cb4d3cd9d94": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "16bf2e076f2e9ac8": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "b17f06f40ef3498c": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "b91b08536e86c69c": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "6fcbf2a71851ad66": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "addd8073dffe85e9": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "deae353e80e259fc": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "dd9bbd16bc6cb3cf": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "2dee2a2ad583ba2a": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "4d1be9f6e94d9f3e": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "ba9015903a6f336f": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "9701536ca66805af": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "ef622dde8b1659d6": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "ce3eb14cd53d6982": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "ac4f88cd0e8f7f78": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "34057a85cf70997f": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "62d08d1b11d1319d": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "34232bb0da82b624": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "d2b8cf9dd2a30f22": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "6fe2528ce53baff1": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "ae2dbdef1f6e1e7a": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "d59eba7dc7282fda": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "7679cc08a99088c9": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "05d60a3c74d2cec6": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "af8808e17cfddd17": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "df3c4d21a9c0ce1e": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "4aea9dcfd4fd67c2": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "22cb22819758b8c7": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "6fa4797b0012c260": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "101466a561eb33c4": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "900064ac26b9ee2f": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "f2e7ca32428761f9": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "0191a3f569af8e1f": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "64477cc9be4ca141": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "9c82f654eb1e262a": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "44e658021521d4a6": {
+    "decision": "spelling",
+    "note": ""
+  },
+  "9345aaf9751b0e97": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "feaa58dde18482c7": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "507cd0bb7452838b": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "9fe7a9d23a6ab122": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "44866e8092f24958": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "86651e9954cbb6cd": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "2ff6a215cc4a678c": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "5144a79780a30160": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "53c87db9eb3a062b": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "0abebfa2c903f33b": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "6b99b20c96595e8f": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "2d83b0b9f0ac8984": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "3adf7e4be3764c2d": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "086f6db6163ff7ae": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "60e387f5b122feac": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "5248e4a5070afa12": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "ad98a6881ee3e20f": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "96d2da818b41a2ca": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "d85b97ea92ca535a": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "892d2aed7fb336e7": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "a14231dafb266997": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "981620c5c39d1d7b": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "c52ebb93bba6f461": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "f0caeb00b1b4cbb5": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "032fd3fd1a496872": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "64f1d08bc1351fce": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "9630a78b3e06bff5": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "6c475560ad94270b": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "d66de70f8d8ce092": {
+    "decision": "word_segmentation",
+    "note": ""
+  },
+  "37fb95123495e685": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "1e7ad659c319b108": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "5bf56f9bdd0dc78e": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "3250ec358d927483": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "6e06b6ee37722965": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "aa4b6922e3d15c68": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "5431df9ac455ab3e": {
+    "decision": "word_segmentation",
+    "note": ""
+  },
+  "5c73cbcec5b0faae": {
+    "decision": "spelling",
+    "note": ""
+  },
+  "b0fa195aec0c9a94": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "a551de5d11c4a58b": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "6cd398f1c99b360a": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "b1d52404a220d8a0": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "ac67fa9aff243f7f": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "7603546f83a30b5c": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "0b059326acb0d330": {
+    "decision": "spelling",
+    "note": ""
+  },
+  "6b9ea0e7694a006d": {
+    "decision": "spelling",
+    "note": ""
+  },
+  "6ffc795d4b772354": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "7bd1a97082b1f18a": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "6977e8b5f240b1e3": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "b221a787b938d4bb": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "242a8f1f3deda6b0": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "33d583d1289dc930": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "179cdb89ba20f167": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "ba757114d185770e": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "4abb486776900392": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "fd986db81bd098f1": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "cfddc5038786d952": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "6288ca73d0f1f85b": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "c9ed63214ea7fb5d": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "65973387c59f3145": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "a5dc311be5e382bf": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "82a0b9fe0625b31b": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "d6ac0c71a9d875cd": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "6d2c8feab71a743b": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "fb5be924f8845129": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "a3c0c8b3572a3a9a": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "914ea415d6ebd315": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "fefe0693d6f67bdd": {
+    "decision": "spelling",
+    "note": ""
+  },
+  "32d6ca4f824630da": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "bc87a8b2dd79b203": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "d64cffd388de8add": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "c19314f9c3503ff6": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "3dfe2a5c83c185a9": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "b30cca605036e022": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "5b988c77ab0c7f9c": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "d91b54c2f4e63e69": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "25368dd8607aa7d5": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "6c9bec11aa85b328": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "647ce14b7bb5ae2e": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "a533cfad67996cfe": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "ea7790d41e9b1f0f": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "9ebb5a8a308fcc98": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "f6f1fd9fe861d79e": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "99886c54cba5105c": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "6a6b912dae7ec0dd": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "4c9cd90c3437d689": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "a098502105205331": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "358775c5b9c2946a": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "670d96ffb07aa464": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "234877fbde898849": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "a86048e321d2176b": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "b60bf10b5a594c2a": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "4577fa9fa6b5d58b": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "0dcbbf6771215eea": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "74b5732ebee43df8": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "e43c03d7fcadbc62": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "3b3be4e92e04e17b": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "b08604c79c1246e6": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "d2b86678877bddf4": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "072635645ba07703": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "452ba31edbef38d1": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "d94da45cf5e1ac25": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "01a7da85cbbaf928": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "f50985ee6e6512e1": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "b4b7942244fa67fc": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "49ec8095e7327d7a": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "7e49b975d4942e90": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "cf0a8b1a77aa0e2e": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "ac33bcb187450df6": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "6c4bccb885a5d89b": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "79551583988b2383": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "82683eb92c825f12": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "483380965ad733f3": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "844e1cfa36a08fb0": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "f15d27db5b6b4fd2": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "4fd03e1a225a2a97": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "0cc844c968f74c01": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "eab6bca0c76e8579": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "9364741cf52569b2": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "fe1cf841a1e846d3": {
+    "decision": "transposition",
+    "note": ""
+  },
+  "f4b2e5c2fcc5c91f": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "b0ec64e6e5a492ff": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "47660c3878111e61": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "d05c1dc91574f57a": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "038a13c9bae21216": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "e9168c6e6fa2f469": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "c9593821ed2f8425": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "c74a79f55f8dccd4": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "eaa1b53a80f96673": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "a2eb17e4d4c46d00": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "1581f022c745cc1b": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "57260dd46331b46d": {
+    "decision": "textual_difference",
+    "note": ""
+  },
   "d841251a06f8759e": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -1918,16 +3082,6 @@
   },
   "882e24077ac9353c": {
     "decision": "transposition",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "828e265cdd1530a2": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "fa0c45811f563961": {
-    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -2871,16 +4025,6 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "da49d2a266575807": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "f6358d04451387f8": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
   "bfb057f76194750d": {
     "decision": "transposition",
     "note": "Automatically classified by reusable rule",
@@ -3378,6 +4522,16 @@
   },
   "b5974132fbf8e833": {
     "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "a4765e1cce538e3b": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "e0e602178dc4b2a2": {
+    "decision": "transposition",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -3936,12 +5090,7 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "067bcf297bab13cc": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "739c05612f3f44cf": {
+  "87ce4d0a7b778cc4": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -13506,7 +14655,7 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "15eba10d68e7e9ca": {
+  "b40da1afd505e272": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -14141,16 +15290,6 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "bb19e9ef9f23eafe": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "f98a3a7609fc578f": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
   "1d0dd3866db5d12a": {
     "decision": "transposition",
     "note": "Automatically classified by reusable rule",
@@ -14178,11 +15317,6 @@
   },
   "8fad53e35d11132b": {
     "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "fc053eae26484621": {
-    "decision": "transposition",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -14996,12 +16130,7 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "eb0bd8f7559179a0": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "4e8a38f1ffd16bdd": {
+  "84defa2688045515": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -15016,6 +16145,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "1a4178b01ce8e653": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "30256723299b8992": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -15023,6 +16157,11 @@
   },
   "9beb9caca5bfe617": {
     "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "ba534d4674a75bc0": {
+    "decision": "word_segmentation",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -15057,6 +16196,16 @@
     "automatic_rule": true
   },
   "9a8f0daef548dfad": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "36d88bc8b4493df4": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "446be7243ce8650a": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -15241,6 +16390,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "df343813e7498564": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "45fcd060bede04b9": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -15327,6 +16481,11 @@
     "automatic_rule": true
   },
   "22b77592b8bb90fe": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "c2279cffe0e71d18": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -15512,6 +16671,11 @@
     "automatic_rule": true
   },
   "04f45d65c84c99d3": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "76e430ff7384204e": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -17471,8 +18635,23 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "62455cc5334d3193": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "6a7005f0606aecf7": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "f84115739def2d9e": {
     "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "e1e350b9aca9ed80": {
+    "decision": "spelling",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -17486,7 +18665,37 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "ecf8088a8d5518de": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "06659962e36be9ff": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "c1d80347db007c88": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "e55ee1fef969de36": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "e0461c36831cc546": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "703df6d68b4d694f": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "3093fd98b368ae32": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -17497,6 +18706,31 @@
     "automatic_rule": true
   },
   "e1c8caa438e2fce4": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "3bc62c0eb9a76e5b": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "d6629253fa01c26e": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "1d7ef6d940c3120d": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "80d5838a591b2c0a": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "19b3e5667ed70a46": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -17516,12 +18750,27 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "d6219b2d7634720a": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "5d02849a678afb76": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "e98d3c7b2f436903": {
     "decision": "spelling",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
   "d6d6372586bd8379": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "19377ac221def94e": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -17536,8 +18785,23 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "620613b1a97dabee": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "34cc3bde19753629": {
     "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "19d12272a3b8e847": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "7afe656753be131d": {
+    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -17546,7 +18810,37 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "cf6583c25e218023": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "971cde81f586d44a": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "24bd076c169a2712": {
+    "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "a381a26630b9e3c6": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "cbf16e3fde2306a2": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "bd066be19d4e3790": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "b253426fb5d457ca": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -17561,7 +18855,37 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "06825d0dc7f7f6b5": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "2938d17eccd83334": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "c4127f7574ba4ff4": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "b224b15fb9757307": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "ae0b8063ee625f60": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "774945747cb10cbf": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "b453baa238d48cfb": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -17571,8 +18895,38 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "04967a5496ca87d2": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "25a0558677cdc3d5": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "e0f6356e43f9266b": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "0ddc89a0ac60ed97": {
+    "decision": "word_segmentation",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "3c6da32679857817": {
     "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "dcab457d3c3ce113": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "424f6bedfdd96a59": {
+    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -17587,6 +18941,11 @@
     "automatic_rule": true
   },
   "6f189916579caf84": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "c2dcac52992c40c7": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -17616,12 +18975,27 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "00dd5a49198919be": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "d0c7c1321fa85d82": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "9e1320b2c39326e0": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "ba06bedf19ded2d6": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "3630cde65b449743": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -17636,6 +19010,36 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "4bf67c9ae7444201": {
+    "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "bb20f6a518b8bb33": {
+    "decision": "word_segmentation",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "9334b6f5a33d05ee": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "db2446bee391b06f": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "b31ed448f3f171be": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "012353d0903987c7": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "aea03716f77f381f": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -17646,7 +19050,22 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "c3f12b4c14110d76": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "267879c0e8689431": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "a52ba144cbd658ff": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "a205f7cbc65c9540": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -17671,12 +19090,32 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "d1bff1ad1e3052da": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "7432e78e686c3780": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "7aa227ef96ec6e2d": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "7e526c62718b75e8": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
   "77febcf23e36db91": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "b45c77f50ac6c566": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -17691,7 +19130,27 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "3d77a389cd7246cc": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "3f0a7448cdd2e728": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "2bca3b8ad6e764b6": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "85783c5960eb57ef": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "da089bd904d30ba0": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -17701,8 +19160,28 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "f5ac24037980d620": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "7e4da257a99970c1": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "153382dfa499759d": {
     "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "966e4988a0d2f9c6": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "1e31c9f588961e12": {
+    "decision": "transposition",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -17731,6 +19210,16 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "9d13a28a2630460d": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "f68f81c2ae993039": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "c0fa12d0b95bf604": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -17741,7 +19230,22 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "a4f0f45fb95b1e37": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "60c436745d051c8a": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "388a950301dc873c": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "ae3c5becd2f2ca4e": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -17753,6 +19257,36 @@
   },
   "a4f807491a408b91": {
     "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "70af8371e6dc6058": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "dd7bea8124ba18a7": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "943392e255ad5472": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "3f94e4a45c63e9a7": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "358a7ab66fae937d": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "688faf957a5738ee": {
+    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -17781,6 +19315,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "4a7d254fd78ec774": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "1dd439a0d48a0e6d": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -17791,7 +19330,37 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "95099d838d8ff3eb": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "ab491496fbd0a66a": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "59d1c70f05bcd6b8": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "a13c2a21a4052179": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "950f816cdc0a1e0b": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "1f456258dd9104ac": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "3329c543d010cca3": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -17802,6 +19371,11 @@
     "automatic_rule": true
   },
   "5d23191e7aa70b05": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "5cdb021a67a11fc8": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -17821,12 +19395,37 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "8cd0709114b7b45e": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "a649bdd2ce9e6a7e": {
     "decision": "spelling",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "02411a0034ebed29": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "2f39c31697deefb7": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "841036f6490fa18f": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "b4daa388de88d18b": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "a403d3af17684ab6": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -17836,7 +19435,67 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "5d86964ce6a88f6a": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "a725691ed9f57560": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "d4e179526338ae38": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "3909edce42e56c69": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "34e2998c15e156cf": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "74afbb8c847f35d6": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "fbf21f76802027e6": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "5f21adfab46cfc90": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "0228ddfa77a1a600": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "7e8a9f4542d79d26": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "981c8bd7cc6c685d": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "8ad6e09c9ce99058": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "47ca432dac588236": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -17851,12 +19510,32 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "c0ed7f162e5c8c36": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "1012eb31511d9aee": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "8d248b34d724cf5e": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "bc3eee8477079b1c": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "ff88da63fdb6c343": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "1be998f00d260d37": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -17878,6 +19557,11 @@
   },
   "9b7b165e81268e48": {
     "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "4a57f078b284055f": {
+    "decision": "spelling",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -17906,8 +19590,18 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "4d9c3206eed34e5b": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "4f866df94877593c": {
     "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "ee1bfc559fa35bf8": {
+    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -17936,6 +19630,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "4d1ec4f1298a4ec8": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "a925b5bd8107fcf5": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -17951,7 +19650,27 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "957f0cb2b61465fe": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "1de3356e002bce32": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "e36b5b6ecf66720e": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "b050f8a1ab696630": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "fa00d5cec5d5f4fa": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -17966,6 +19685,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "0c9592138f680452": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "70bed16520284e71": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -17976,7 +19700,17 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "01388e86ec542c0e": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "93deab6af633d69d": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "eb7979134f7d77c7": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -17996,6 +19730,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "aad1acc8fffb4095": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "292e7a3223923dc4": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -18006,7 +19745,22 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "b9e6dc26a778b9e5": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "fead3cfba4f2869a": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "b8fe04a4e53af7db": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "5850dbb228b945d9": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -18031,6 +19785,16 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "26553ae8898e7e78": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "536c8a424d56791b": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "475b558fd0f399f6": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -18043,6 +19807,11 @@
   },
   "d9f04a5cc21b4a73": {
     "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "9717c139e0cdfc56": {
+    "decision": "transposition",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -18081,6 +19850,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "93bb5ca4e9ca31c9": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "a445844762ad54df": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -18091,7 +19865,27 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "3184c57fe85d3ca6": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "b31ce18ed6342a67": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "fe231865ad2022ca": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "90b818bcdd44e32a": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "5df18461f32093be": {
     "decision": "transposition",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -18116,6 +19910,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "e25a8723424a5ae4": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "7368f92e4f6f9eb6": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -18123,6 +19922,11 @@
   },
   "a00367ea08cd980d": {
     "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "1b4740dc745c7614": {
+    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -18136,8 +19940,53 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "1850db8a6972b92f": {
+    "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "1817a2f2d29788ec": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "ce3f65e10a915de3": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "1c5e5308894ec4a9": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "09c74e3ec1f78cfa": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "1f1bfae20ca3cd7c": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "21df943093345c52": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "978ac610f7af1ff0": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "0dace6352e4ccd48": {
     "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "d74928b897a5c63f": {
+    "decision": "transposition",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -18156,7 +20005,42 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "039a80bdab4cfd3f": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "fe4d09970c0c8b1c": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "d1c26abec3c49777": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "70fffadcfce51502": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "6efc5071769b8c88": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "278cddd8050e14af": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "5604d98661b0beeb": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "36781255a5ae0898": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -18166,7 +20050,32 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "f4a725263dff2e0d": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "712f7822731d5c0d": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "a3813a64dd2acee5": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "a193ad3ed0886c8d": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "512b3fa232f4e38d": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "918a793684fad5cb": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -18181,7 +20090,32 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "ea25b838234f2e1b": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "c106f31b3dbf108c": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "50826631447cc1a0": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "11494930cc1ae48d": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "b3c2bc649ce7a602": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "126b42b39ddba515": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -18196,6 +20130,16 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "3acce2fc464659ca": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "50cff0ef44c310a4": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "d6ca38ea5a8bc938": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -18207,6 +20151,11 @@
     "automatic_rule": true
   },
   "876297bad8377819": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "fb4cba01f70161d3": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -18227,6 +20176,11 @@
     "automatic_rule": true
   },
   "9bea210003723529": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "6de7013c739617b0": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -18293,6 +20247,11 @@
   },
   "9af7f14dac767f3f": {
     "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "1deb2f091f8b8d3a": {
+    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -18376,12 +20335,22 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "aad70d4246f7e97a": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "8271616fbf9e3ca4": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
   "bfd82fa6cd79f6aa": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "add80a581e9d6fcc": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -18403,6 +20372,16 @@
   },
   "41d6fbba1d3f0b60": {
     "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "e5bc18e71c17ea96": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "b07b009717e9642d": {
+    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -18516,6 +20495,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "054c6dd671b2d20d": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "eb2004bf6df8fe25": {
     "decision": "transposition",
     "note": "Automatically classified by reusable rule",
@@ -18572,6 +20556,11 @@
     "automatic_rule": true
   },
   "61432b3518c8b8a1": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "13311157adbc17a2": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -18642,6 +20631,11 @@
     "automatic_rule": true
   },
   "d31b6e9d01fdb75f": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "47be78a6e5e215bf": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -18736,6 +20730,26 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "8681522730c1d197": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "42ddb520801cc050": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "92b3b82f76a20930": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "380c4d68b1b0498b": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "b991b2726c3a90f4": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -18752,6 +20766,11 @@
     "automatic_rule": true
   },
   "3a9f5bf1df1c7f67": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "8d488bb5ee4e77e8": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -18773,6 +20792,11 @@
   },
   "c733c68625a65270": {
     "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "3511bb993d772e54": {
+    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -18821,6 +20845,16 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "23a098f3b051d695": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "887240e2effe4292": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "b61d080d6bf1248a": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -18866,6 +20900,16 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "be5e56a93bc75622": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "1cbb487541452a66": {
+    "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "33c2c7850fcaadbf": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -18906,6 +20950,16 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "f922c0f5ad28ef6c": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "c369133951255d82": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "97c86a0cf9ce5d70": {
     "decision": "movable_nu",
     "note": "Automatically classified by reusable rule",
@@ -18931,6 +20985,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "b332c35347ed7813": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "a69fdb2e6b4b0319": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -18952,6 +21011,11 @@
     "automatic_rule": true
   },
   "17edc5a040dd0227": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "aba2302824adeebc": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -19006,6 +21070,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "f7e555c692d21dcd": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "6c246147d5b55fa4": {
     "decision": "spelling",
     "note": "Automatically classified by reusable rule",
@@ -19043,6 +21112,11 @@
   },
   "e4f3e32245484238": {
     "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "160158e8f5fd5e44": {
+    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -19086,6 +21160,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "e805c6213fc085c7": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "159c4dd6b1f1bf2c": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -19102,6 +21181,11 @@
     "automatic_rule": true
   },
   "52f16f5e1c6a2fc8": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "c45ed8cb0acfb6cd": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -19127,6 +21211,11 @@
     "automatic_rule": true
   },
   "9b94e8b9141e2786": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "25c1b7b66f1f625d": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -19167,6 +21256,11 @@
     "automatic_rule": true
   },
   "0026575909fe0a19": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "580d25f992163ffe": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -19262,6 +21356,11 @@
     "automatic_rule": true
   },
   "c1c09d193c32ec5b": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "c7e3fa3ca4d26daa": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -19476,7 +21575,32 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "3f9952910d6776ad": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "a7b44da0705f92d7": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "78860e007bb69c23": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "71975f13cfd46d41": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "5932bbbd879f8708": {
+    "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "b9c971d8611c4aab": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -19496,12 +21620,47 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "e4f779fed10a5c6b": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "d5c1af804197599f": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "7402d08672ecaa3a": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "0bb828c972e93c07": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "d8f008d51189a5a4": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "c5ca7512750c19ac": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "6747f207d9316e8f": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "21b555df7799b534": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "88738348b668eb7e": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -19516,6 +21675,26 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "bdfd6cdd17d33fad": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "79a1222a6563dd80": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "b2b1e79799fb3b2f": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "2789cbc5a2a67c0b": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "1322ab6dfc88b29b": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -19526,7 +21705,22 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "ccfdc34e4e99dfba": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "5ffce541ad3a2514": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "4430eefde09fbdd8": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "301a31e3a23fe62a": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -19551,6 +21745,21 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "429ebd80b5cef2cf": {
+    "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "d0315337269b2a0a": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "17aa83a0672a3852": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "06b71c8223ebd14b": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -19561,12 +21770,57 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "83b7d0ce21d876bd": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "9a72cba255711a36": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "ac4668c588267ca7": {
     "decision": "transposition",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "fa4aae5d262f48f0": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "96091db5833bee86": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "c3a5bb2c1ef78246": {
+    "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "60f1a25a9c5b6990": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "885123d16bc594e1": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "201d39bdc22a5db3": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "476ff6dee8e33219": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "c5ce06ef73979519": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -19581,7 +21835,47 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "9a0a89987d1093ef": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "eddad3341cb48e95": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "97d566567bbeca36": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "12aba16cdb874e92": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "58b38cb2803531a9": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "44b04978d4222202": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "66e4cac6b0e44265": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "55397f68883d5bf9": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "e0f071feac7ffa49": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -19591,8 +21885,38 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "3e3677770e40afe2": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "96d2279ad165f77c": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "f233c427faba5b38": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "572974fa51ce8cc8": {
+    "decision": "word_segmentation",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "8526f818ed0cad8a": {
     "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "c2027168f8bdb443": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "03519fbb9f8595b9": {
+    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -19611,7 +21935,32 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "ac6ecd7bec340816": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "ee2542c52f195297": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "e34327a0516f63fe": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "ab87aab04fd1ff09": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "5002fe564c499493": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "7821c4fca435ea0d": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -19621,7 +21970,17 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "c11c637de2097c30": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "2ab10eeedad1fdce": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "aa863368340fe8e2": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -19636,6 +21995,31 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "d04d8ff89a33cba3": {
+    "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "41c80b8aa13d9a11": {
+    "decision": "word_segmentation",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "64628a8137579122": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "57c43ddfe0ce2f33": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "d634e7c81184db33": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "6f3369da0a986136": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -19646,7 +22030,22 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "4e39684f67c056a4": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "02ae6c2114d4877c": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "85224d52011c9d21": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "7875fa9daa544e28": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -19666,6 +22065,21 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "bc8692dc60f1066d": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "39cead32024aa3b1": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "734b5b6ae017547c": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "df1ce24d6c860a97": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -19681,6 +22095,16 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "9c7da49794696746": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "e17826325a1df642": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "e3c36e178f1e9aeb": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -19691,13 +22115,43 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "4f09186d0403f131": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "5485427014f30db6": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "f956c587e34ad5c2": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "64edac1917c87376": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "04c8d3ed35a00600": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
   "2c95faf6fcc28f0c": {
     "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "9f9a0a7daf6048b6": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "bed38e438e57a740": {
+    "decision": "transposition",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -19721,6 +22175,26 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "5fd0177bf7646733": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "a2bfd2cf5098a0ea": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "0e5b5eb8f8ce98be": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "a5f6c032cc714684": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "b993e04e54900e0e": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -19736,13 +22210,33 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "559cd7d7aba9cd23": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "a4145e98ffa46f56": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "917ec32c338b6722": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "29fa1d6a3071403c": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
   "488a1e8076977156": {
     "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "40e7a8603ff4d31e": {
+    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -19753,6 +22247,36 @@
   },
   "ceb47dacd9a1afff": {
     "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "e5d6dba45ef66258": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "aef693cf7b223c95": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "d3c9afe1e6fd163b": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "07b623ffa029f098": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "bc9abe6918be9704": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "15747ea6ea868650": {
+    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -19776,6 +22300,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "3231f1f89133a3b6": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "4c499a4d67614bf4": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -19786,12 +22315,42 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "5b2524421590ca1e": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "3ce60f5a36ee447d": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "c2402712bbf66868": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "ce6f4855ad0206d3": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "6e0187f7ac69e005": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
   "158ffad308ef80b6": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "d97e3155b6d5bf61": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "68e38ddd48e71019": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -19806,6 +22365,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "3988a76b5744a7e5": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "a31dc1a2d143083d": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -19816,12 +22380,37 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "24b82c89ab50fdf5": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "e4aa8b3f16f947f0": {
     "decision": "word_segmentation",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "9a639de0e63cf65a": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "6db627b7ca074a91": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "1a919440f2733278": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "c661753ea9799eb4": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "130c75eef89c8e13": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -19831,12 +22420,77 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "d2ce1774b72f2db3": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "f051785990f0d60e": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "73935c2ec445f611": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "67db93f6e7ee902f": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "1a35240fab09d978": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "00700033461f1d89": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "43b4270bc4bda644": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "fd83b761c00b30c6": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "b1805246c7b22dc7": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "55391d21563c6548": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "d90104befa1d8d7f": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "43de4e20c28a8ec3": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
   "a260e36f3da04596": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "5d7fdd1e48fbd392": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "8ac94efcb33b0dcf": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -19856,12 +22510,32 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "57b27384f9aa4ad0": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "09ad3f051ee4fa24": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "e482b760a2febcc4": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "1be2b1a84017ff21": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
   "43a00c8b245df131": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "3888e88246cea652": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -19883,6 +22557,11 @@
   },
   "7a8086b70cbb94fa": {
     "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "4297470e7771eb3a": {
+    "decision": "spelling",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -19911,8 +22590,18 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "6182cc8cc7db9bdc": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "c06522c53e6266c2": {
     "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "cfa74efac6581355": {
+    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -19931,6 +22620,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "64ce7aaf1164f1b8": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "0a4ed917ca33f769": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -19941,7 +22635,22 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "1728a7517e81fb03": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "46bf1c1ec88d83ea": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "4244c14a61ecfba6": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "6e58060aae4bd93b": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -19961,6 +22670,21 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "16f75cfeb9f4aea4": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "53a7be45f056320e": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "ee827d7925aca5c6": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "869094ff18d0b56e": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -19968,6 +22692,11 @@
   },
   "3b8ec6f4add8acbb": {
     "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "e8f16ca3b50b77b5": {
+    "decision": "transposition",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -19981,8 +22710,18 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "1a3de0f45348953d": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "7da4d1cb850a82ec": {
     "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "b4451a2efee97cf1": {
+    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -20001,6 +22740,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "89a5113898a8cb66": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "d4859eae5345a799": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -20011,13 +22755,53 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "34e565bd40fcf922": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "7b3fa28627eb9cf7": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "0d893883141f4ad7": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "cd3d1908f0bdf463": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
   "cd68f02622c3f89b": {
     "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "ad3ea42fdc0296f6": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "c48ee7b2a9479972": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "22fd9c5cfbd5a244": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "8738de3fe9de6986": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "58a3dc1d33b5f2cd": {
+    "decision": "transposition",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -20036,7 +22820,17 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "42c97821c004ce46": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "e84584a709f3c51e": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "0ae15b17a53e4cd1": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -20061,6 +22855,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "5d1005a00f0e8de7": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "fc815d5f50018aea": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -20076,12 +22875,37 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "c14f0f557d558666": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "c42e64aa6bec8f87": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "4b760d7dd65f001b": {
     "decision": "spelling",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
   "7b332bf99e783eb0": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "7ea0d25b5a800a85": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "fd20feab1c351e90": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "d6385b6e5ce94b1c": {
     "decision": "transposition",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -20097,6 +22921,11 @@
     "automatic_rule": true
   },
   "f0fe1d328a9230aa": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "bc2f10fc94c3fcaf": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -20121,7 +22950,17 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "b4ef00868af96773": {
+    "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "7f37571c915289f5": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "929c5acee2898b85": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -20131,8 +22970,43 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "4f1e8b3fa6e618f0": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "927a9b9425bb0b1f": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "a7307b34ebf10bc0": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "9d7a83163d0edcdf": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "0afebf0428d7a88f": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "1bde63d622c835df": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "bd511f7e5e6e140a": {
     "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "12b0ab5ef70c9414": {
+    "decision": "transposition",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -20146,7 +23020,22 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "588b68c092b236ff": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "4ffe7fe165420a4f": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "a946124da24b4b2a": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "01d5e9f6f3119ca5": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -20156,7 +23045,57 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "ab20953619dcf240": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "07b3efb52671e9a2": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "4f08640db5089f8a": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "47e84a7aa9ea6020": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "df35cafc6dd11d7d": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "a9f32d6356e67e87": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "bc97a5d3d4256a46": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "f96fed0267f90e82": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "46b28e6538a6a5fb": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "5c6ee791940b829b": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "9d8a52c3c32f2daf": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -20167,6 +23106,11 @@
     "automatic_rule": true
   },
   "410088e1c634fe48": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "f0a2a2ffa7c64458": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -20186,6 +23130,21 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "4784bfba58f71aed": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "8ac779a73193b86f": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "001c2d0b00d54830": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "e2290ec4c2d44170": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -20193,6 +23152,16 @@
   },
   "ceae03d6b0a378f7": {
     "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "26d1fc1d75a3da5c": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "6ad1c988e915515e": {
+    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -20206,7 +23175,17 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "2087d8746cb139fc": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "e7e3767fc503da49": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "916465e9e66a08c4": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -20221,7 +23200,22 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "6e4a1a8210a86656": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "e56fb4969badb1f7": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "a7783acbf327394f": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "73e0a3fa7a19415f": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -20346,7 +23340,12 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "486c9d9efd8a44c1": {
+  "f4c8468cfe12ec59": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "fd76f77146787d36": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -20411,16 +23410,6 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "524f5784b5916de2": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "ceaeee9ccd0c1a91": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
   "abeab9d44812b41d": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -20436,16 +23425,6 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "2f676619e6cc70f2": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "66514574dcf6ff51": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
   "9b1fbbc754bf26ad": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -20457,16 +23436,6 @@
     "automatic_rule": true
   },
   "76dec460d1970c18": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "4afe8ff64d1804dc": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "26739fd8034c7538": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -20886,16 +23855,6 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "f7c4234b468da366": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "1e41c1bf1701eda5": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
   "610e218683c74a18": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -20941,6 +23900,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "047bad9834a4077e": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "5202b2ef65d05008": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -20971,32 +23935,12 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "84287616e4c859e0": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "9632e27311ce5c03": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
   "f578c6e85b470e2c": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
   "2367e65f8fcbe637": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "2e8f5c28ec4aa9f9": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "d2e54aefb617268c": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -21191,6 +24135,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "3a639e088f5680b1": {
+    "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "ddfdf74f8fc50e47": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -21237,6 +24186,11 @@
     "automatic_rule": true
   },
   "5699f8e9e9bc1aec": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "582a0a7e2cc24e18": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -21601,16 +24555,6 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "0d398d25f6eeaeb4": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "a47d639580f842ec": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
   "1252c5979da82127": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -21771,17 +24715,17 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "a9cb8f10adf43e0f": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "e104fa5115c1d6a5": {
+  "138d6ae650e39b56": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
   "fcd945b7351651d1": {
+    "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "6f7b10eb74405ccc": {
     "decision": "spelling",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -21921,12 +24865,7 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "859ef188a67eb63f": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "2f8ec3ae53510f5f": {
+  "144d6a700880ebab": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -22156,6 +25095,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "61cea3c045f9262c": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "dc6816772b34efab": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -22258,6 +25202,11 @@
   },
   "f0e7cf4ba8d83295": {
     "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "b5979cfb2743e596": {
+    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -22496,6 +25445,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "735d1bcfa7709ea5": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "7f1be4baa06b9458": {
     "decision": "spelling",
     "note": "Automatically classified by reusable rule",
@@ -22531,6 +25485,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "73a206c64113f1a2": {
+    "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "aebd4fc94ee41344": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -22562,6 +25521,11 @@
     "automatic_rule": true
   },
   "c8648ed287c55baa": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "e4c323eac0eaddb8": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -23391,6 +26355,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "b1966a9d9b291905": {
+    "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "2da3937714a07e9b": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -23432,6 +26401,11 @@
     "automatic_rule": true
   },
   "33b8ff61fb49de24": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "b1add4840af39edd": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -24431,6 +27405,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "f0f06bb9b905e9cb": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "df65a43aebdb9b19": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -24538,6 +27517,11 @@
   },
   "a97439147d0725c4": {
     "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "4d7e80a4debdbaf3": {
+    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -24756,6 +27740,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "4413d827417bf39a": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "c4cd246f244e59ef": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -24801,6 +27790,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "2c749e6e9659ce93": {
+    "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "f72f5f709a79fffb": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -24837,6 +27831,11 @@
     "automatic_rule": true
   },
   "f925973ffe45c9d5": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "9613875bbbac2393": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -25152,6 +28151,11 @@
     "automatic_rule": true
   },
   "84337dd7305d1ee7": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "05922813a1eabb7a": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -26181,6 +29185,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "83f2e24c6b53f5fa": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "79ae871731f1755a": {
     "decision": "word_segmentation",
     "note": "Automatically classified by reusable rule",
@@ -26288,6 +29297,11 @@
   },
   "0996380c20f94bb6": {
     "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "195bd0ba77cd532a": {
+    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -26516,6 +29530,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "0a2f7ec6231bba90": {
+    "decision": "transposition",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "b6dddb2222ba6d06": {
     "decision": "spelling",
     "note": "Automatically classified by reusable rule",
@@ -26556,6 +29575,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "fbc7289a1f620a0d": {
+    "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "6976ac4ee3990984": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -26587,6 +29611,11 @@
     "automatic_rule": true
   },
   "ed1757f11bad5c81": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "7219b5fb7e2e3f15": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -27346,6 +30375,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "a82fb8ac6ffe86ef": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "f66ffd2ecc9ea447": {
     "decision": "word_segmentation",
     "note": "Automatically classified by reusable rule",
@@ -27451,6 +30485,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "30752ed8653cf2a3": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "698467c849ad7d39": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -27497,16 +30536,6 @@
     "automatic_rule": true
   },
   "0078e2299b29767a": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "2779cbef4eed7521": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "0e7975816d020f14": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -27956,6 +30985,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "50f6da9f081bf11e": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "d84aa60905e5c89e": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -28056,6 +31090,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "bc01226935940685": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "31a8250cdd2ed3bf": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -28067,16 +31106,6 @@
     "automatic_rule": true
   },
   "1d28e88b69b116cd": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "f1f5bf733a63a48e": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "726784b14bea6178": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -28192,6 +31221,11 @@
     "automatic_rule": true
   },
   "863db02d88824c95": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "4b78f45043a01b55": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -28682,6 +31716,11 @@
     "automatic_rule": true
   },
   "23aaa3a07fd9963b": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "48585c794e1b3baa": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -29201,6 +32240,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "d43c15a9593b9ba6": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "61418aa36a00beb2": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -29272,16 +32316,6 @@
     "automatic_rule": true
   },
   "3235a05c7dcc8bb2": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "0a9232263f7906d2": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "652b44cd782e4759": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -29932,6 +32966,11 @@
     "automatic_rule": true
   },
   "61a86efccaff427b": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "4d6a81f4cede9c65": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -30836,6 +33875,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "7827792afb9920e7": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "c19f1f8d6d4ab2c6": {
     "decision": "word_segmentation",
     "note": "Automatically classified by reusable rule",
@@ -31066,6 +34110,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "97167c54f743e1d6": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "9993bab7ca8d0cf1": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -31077,6 +34126,11 @@
     "automatic_rule": true
   },
   "6eb3b05e62afa444": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "f39e339ecf16d503": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -31337,6 +34391,11 @@
     "automatic_rule": true
   },
   "d4016dfebe217a74": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "a60898b80c4d5fe1": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -32311,6 +35370,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "7a2c84ddd6dfd6f9": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "d75954f5cf9150f7": {
     "decision": "word_segmentation",
     "note": "Automatically classified by reusable rule",
@@ -32536,6 +35600,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "74a778ece0e293ac": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "5dafff5515aaec76": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -32547,6 +35616,11 @@
     "automatic_rule": true
   },
   "dcb3fae5d43483a6": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "d46a803673d06b6c": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -33006,6 +36080,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "85c56f587840fe66": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "fcdfdc7744033ae9": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -33376,16 +36455,6 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "b56befbd10071482": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "97e1b97873bd38a5": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
   "ed3a74c5c26a6fd1": {
     "decision": "spelling",
     "note": "Automatically classified by reusable rule",
@@ -33731,6 +36800,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "9b56f7ca1cde6db2": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "b2b49cc38d901d84": {
     "decision": "word_segmentation",
     "note": "Automatically classified by reusable rule",
@@ -34001,6 +37075,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "00a80677471e24b9": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "4b49a8644cc0c8ef": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -34052,6 +37131,11 @@
     "automatic_rule": true
   },
   "a1dc639d4cbaad5b": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "852c5a48bcbf90a2": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -34356,7 +37440,7 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "b545d7deab9fec8a": {
+  "8cb58f1ddc6b9f5f": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -35001,6 +38085,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "07d86e7bc425d396": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "9d176edcd93dd86b": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -35061,17 +38150,7 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "9c34d01017d17cb8": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "23f547ac57457727": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "fac6c0b31e2c1209": {
+  "c1d11b5ee83aeb48": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -35117,16 +38196,6 @@
     "automatic_rule": true
   },
   "a5de58980e54ecc9": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "901003400034407a": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "6fc4ddef7e86424c": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -35476,16 +38545,6 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "411713a679f93ad5": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "a4d3ccc881c7ed59": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
   "49d696e8c94361c1": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -35737,6 +38796,11 @@
     "automatic_rule": true
   },
   "1a22969062da221c": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "6a32f59f025b5700": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -36712,6 +39776,11 @@
     "automatic_rule": true
   },
   "87d75caa3b2a2f43": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "2a9d51c9c976e98a": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -37801,6 +40870,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "82384a6e7270060c": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "8d4d440249f6083d": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -38147,6 +41221,11 @@
     "automatic_rule": true
   },
   "21a52c9ce2a936f7": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "dd264f9e3836065a": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -39126,22 +42205,17 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "27f0a478c6acfe1e": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "578226563866ae7e": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
   "babcb578a0ed1026": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
   "9bcd6696cde5a2a0": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "8e5f00fef73ac9fa": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -39283,16 +42357,6 @@
   },
   "7386faa6bf8127e7": {
     "decision": "word_segmentation",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "fa7b51b98c27aea4": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "2efa63e9db2339ee": {
-    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -39566,16 +42630,6 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "20f1112c648f54d5": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "d9be89c1a9e57d75": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
   "dbce4829b79cf82c": {
     "decision": "spelling",
     "note": "Automatically classified by reusable rule",
@@ -39643,6 +42697,16 @@
   },
   "bf3a8ba84b80d879": {
     "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "4b4be7902e32ec04": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "0e5659b334b69870": {
+    "decision": "spelling",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -39772,6 +42836,11 @@
     "automatic_rule": true
   },
   "676252ab6d6d9bbd": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "706f255e81f1fd64": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -40103,6 +43172,11 @@
   },
   "7f95a4e4a5691599": {
     "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "86a2245cd9444225": {
+    "decision": "spelling",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -40513,6 +43587,16 @@
   },
   "7439ebfa2fa87d5d": {
     "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "f5101a83bf0d0da0": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "377833e86ddaabd6": {
+    "decision": "spelling",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -43091,16 +46175,6 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "9446483e0e6307e3": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "f636af80bc7a72dc": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
   "23fe97dda2111ce1": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -43118,26 +46192,6 @@
   },
   "490eeeefe09f3a06": {
     "decision": "spelling",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "8630877e4c0e2e84": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "bd968f07b02cc21d": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "0e40a771de5e600c": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "f62beddd58a3356d": {
-    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -43291,16 +46345,6 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "7c97c7b33df25cf9": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "f7cb862e0c98ab3b": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
   "aefc038fd1aabb94": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -43333,26 +46377,6 @@
   },
   "a4c56d6721f95f9a": {
     "decision": "spelling",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "a6acea5810312bae": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "ca5a12dd84cca8a0": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "27ff11e0b05df453": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "03633c74b7d15f8a": {
-    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -43496,16 +46520,6 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "3d8ea60288e3f528": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "39537c0054ae1c62": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
   "eeef7af2b3873b74": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -43551,32 +46565,12 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "813a1988bfe6f9df": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "a574a751f16b5ee8": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
   "1b3df89d44ad7d4a": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
   "735d3f2cc42528cb": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "ae6eee99e0074906": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "d96f017cb63b218d": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -49011,6 +52005,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "b6a462e2e92ede65": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "c4d1a27ee9a39eeb": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -49037,6 +52036,11 @@
     "automatic_rule": true
   },
   "930d4427e927e272": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "b3eade79e5afb48d": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -49196,6 +52200,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "7cbea612b79a9511": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "63284354628cc93a": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -49207,6 +52216,11 @@
     "automatic_rule": true
   },
   "fa6514beb579cd79": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "8a2a03fd00ef1177": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -50981,7 +53995,7 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "b2055950afc1587f": {
+  "26207812c7048673": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -51041,11 +54055,6 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "8cde50ac9b4ceb13": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
   "15bbdb3c728ab837": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -51093,16 +54102,6 @@
   },
   "567378f1f3531922": {
     "decision": "spelling",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "c48cee0eac016606": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "6b6826ef7eb0e758": {
-    "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -51461,6 +54460,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "5c6fadc77790ee53": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "a330ca30dfdd3927": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -51602,11 +54606,6 @@
     "automatic_rule": true
   },
   "e01342e5933f3fac": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "ce08959d2d568ddb": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -52276,11 +55275,6 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "affea6284c08d3d2": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
   "51990cd7c2bc87e8": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -52706,6 +55700,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "a274a0eab447dd03": {
+    "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "7f927ed689774b50": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -52851,16 +55850,6 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "402f14e993b6971b": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "e501d9e27390edd0": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
   "fe901bddefc049f0": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -52957,6 +55946,11 @@
     "automatic_rule": true
   },
   "86e3507ea96deb02": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "73e27d85deca0ad0": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -54061,6 +57055,11 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
+  "3e84d31f75314f43": {
+    "decision": "spelling",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
   "b52af659b3f743db": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
@@ -54142,6 +57141,11 @@
     "automatic_rule": true
   },
   "1747e087e4a89b57": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "d12019e8e1d1cb08": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -54402,6 +57406,11 @@
     "automatic_rule": true
   },
   "7149df1184b48153": {
+    "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "9a7f82ecb8f0e4cf": {
     "decision": "textual_difference",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
@@ -54743,6 +57752,11 @@
   },
   "6d88eb636f7c7a48": {
     "decision": "textual_difference",
+    "note": "Automatically classified by reusable rule",
+    "automatic_rule": true
+  },
+  "b8c5f1ac20813392": {
+    "decision": "spelling",
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
@@ -55321,476 +58335,176 @@
     "note": "Automatically classified by reusable rule",
     "automatic_rule": true
   },
-  "f7c7aac0e5feb4e4": {
+  "388a4d9d69a685ab": {
     "decision": "textual_difference",
     "note": ""
   },
-  "a4765e1cce538e3b": {
+  "33d090949c1e26a8": {
     "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
+    "note": ""
   },
-  "ffca9b62f3d5435c": {
+  "9462c7b26db4cc87": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "19895f85a54421b7": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "6fa679eeba089b72": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "dd6130808abf4091": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "0a3fc64a7984e186": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "388a85f58546103b": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "cb59b816820d78fe": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "c19c7f49416a8997": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "d881fd125781c2f1": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "fc8ac6a3e4e5d8e4": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "ea6b18a39c600991": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "9da551dd8baf5f8c": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "f90e77bdf296c357": {
+    "decision": "textual_difference",
+    "note": ""
+  },
+  "b9283d6c582b4dcb": {
     "decision": "transposition",
     "note": ""
   },
-  "e0e602178dc4b2a2": {
-    "decision": "transposition",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "fb8c757e4e7ebc10": {
+  "5cf43cd61c415fbc": {
     "decision": "textual_difference",
     "note": ""
   },
-  "6c468b086643930d": {
+  "f47656a45f5b2db0": {
     "decision": "textual_difference",
     "note": ""
   },
-  "4069b915d1f98526": {
+  "a5eb6dfd2718449c": {
     "decision": "textual_difference",
     "note": ""
   },
-  "3f9952910d6776ad": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "e8e7c2000c68a6cd": {
+  "2ddbb57663295de7": {
     "decision": "textual_difference",
     "note": ""
   },
-  "62455cc5334d3193": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "a7b44da0705f92d7": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "356333621f09ac34": {
+  "0cfef51237f38a52": {
     "decision": "textual_difference",
     "note": ""
   },
-  "6a7005f0606aecf7": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "78860e007bb69c23": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "a831d59e30c35392": {
-    "decision": "spelling",
-    "note": ""
-  },
-  "e1e350b9aca9ed80": {
-    "decision": "spelling",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "5932bbbd879f8708": {
-    "decision": "spelling",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "a274a0eab447dd03": {
-    "decision": "spelling",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "3e84d31f75314f43": {
-    "decision": "spelling",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "b8c5f1ac20813392": {
-    "decision": "spelling",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "fe6fe292009cebc7": {
+  "f919046b268d5d1d": {
     "decision": "textual_difference",
     "note": ""
   },
-  "f4329fd05c45052c": {
+  "09996562daedcade": {
     "decision": "textual_difference",
     "note": ""
   },
-  "ecf8088a8d5518de": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "bc2bea32a3c028ff": {
+  "9c6283f363261abd": {
     "decision": "textual_difference",
     "note": ""
   },
-  "06659962e36be9ff": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "e4f779fed10a5c6b": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "e7d3f2ab19617bd4": {
-    "decision": "transposition",
-    "note": ""
-  },
-  "e55ee1fef969de36": {
-    "decision": "transposition",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "7402d08672ecaa3a": {
-    "decision": "transposition",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "99f32c1568cce304": {
+  "e8226f9600f6a978": {
     "decision": "textual_difference",
     "note": ""
   },
-  "e0461c36831cc546": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "0bb828c972e93c07": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "d5cb75a61a0eeba1": {
+  "079d56c1ca0ecfb5": {
     "decision": "textual_difference",
     "note": ""
   },
-  "d8f008d51189a5a4": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "d34b69f83c23fbec": {
+  "aa21eaa77b2646b9": {
     "decision": "textual_difference",
     "note": ""
   },
-  "703df6d68b4d694f": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "c5ca7512750c19ac": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "57f79feb71ee216c": {
+  "70b3d11d0640e27e": {
     "decision": "textual_difference",
     "note": ""
   },
-  "3093fd98b368ae32": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "6747f207d9316e8f": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "d4b14085828d8d04": {
+  "d3361f35642074b4": {
     "decision": "textual_difference",
     "note": ""
   },
-  "246673fcd58e3e04": {
+  "bd50d4d34e370f49": {
     "decision": "textual_difference",
     "note": ""
   },
-  "3bc62c0eb9a76e5b": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "bdfd6cdd17d33fad": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "93b1f3ba0fc3f67a": {
+  "b83c54caf343f97c": {
     "decision": "textual_difference",
     "note": ""
   },
-  "d6629253fa01c26e": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "79a1222a6563dd80": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "fdecbd64fd0d24e2": {
+  "6e4deb890ee77fcf": {
     "decision": "textual_difference",
     "note": ""
   },
-  "1d7ef6d940c3120d": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "b2b1e79799fb3b2f": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "2dafd9c85f4f87a0": {
+  "bb455a563b3b2335": {
     "decision": "textual_difference",
     "note": ""
   },
-  "80d5838a591b2c0a": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "582a0a7e2cc24e18": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "b1add4840af39edd": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "05922813a1eabb7a": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "9b56f7ca1cde6db2": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "07d86e7bc425d396": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "6a32f59f025b5700": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "2a9d51c9c976e98a": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "82384a6e7270060c": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "dd264f9e3836065a": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "8e5f00fef73ac9fa": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "4b4be7902e32ec04": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "706f255e81f1fd64": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "f5101a83bf0d0da0": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "5c6fadc77790ee53": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "d12019e8e1d1cb08": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "e38acaa57864ae94": {
+  "a2d8fe4d4926a081": {
     "decision": "textual_difference",
     "note": ""
   },
-  "19b3e5667ed70a46": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "2789cbc5a2a67c0b": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "82609d419facb570": {
+  "96802c1f7631cad8": {
     "decision": "textual_difference",
     "note": ""
   },
-  "ccfdc34e4e99dfba": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "994482f645bf24da": {
+  "21a720e309d8d6d0": {
     "decision": "textual_difference",
     "note": ""
   },
-  "d6219b2d7634720a": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "4430eefde09fbdd8": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "0b49eedcb9f7a8e5": {
+  "456dcb6119353116": {
     "decision": "textual_difference",
     "note": ""
   },
-  "5d02849a678afb76": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "301a31e3a23fe62a": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "8a41ac745aa34701": {
+  "80595663000ef666": {
     "decision": "textual_difference",
     "note": ""
   },
-  "19377ac221def94e": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "2a34e67ce77f9559": {
-    "decision": "spelling",
-    "note": ""
-  },
-  "429ebd80b5cef2cf": {
-    "decision": "spelling",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "6f7b10eb74405ccc": {
-    "decision": "spelling",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "82eb3b107a5d9f9b": {
-    "decision": "transposition",
-    "note": ""
-  },
-  "d0315337269b2a0a": {
-    "decision": "transposition",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "179c00be8693679e": {
+  "9104422d25870da6": {
     "decision": "textual_difference",
     "note": ""
   },
-  "9c3d25a5782d9089": {
+  "e8a640fcfaaa63ce": {
     "decision": "textual_difference",
     "note": ""
   },
-  "620613b1a97dabee": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "17aa83a0672a3852": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "617615e1790a8ae3": {
+  "847b397ee62a4b91": {
     "decision": "textual_difference",
     "note": ""
   },
-  "19d12272a3b8e847": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "83b7d0ce21d876bd": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "b519a76f576acfdb": {
+  "877630555fd56e47": {
     "decision": "textual_difference",
     "note": ""
   },
-  "7afe656753be131d": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "9a72cba255711a36": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "f51b63cc6db5b729": {
+  "1f00d7d785ed8710": {
     "decision": "textual_difference",
     "note": ""
-  },
-  "36d88bc8b4493df4": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "cf6583c25e218023": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "7432e78e686c3780": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "fa4aae5d262f48f0": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
-  },
-  "39cead32024aa3b1": {
-    "decision": "textual_difference",
-    "note": "Automatically classified by reusable rule",
-    "automatic_rule": true
   }
 }

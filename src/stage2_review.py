@@ -45,6 +45,46 @@ def normalized_region(candidate, side):
     ]
 
 
+def nearby_variants(candidate, candidates):
+    nearby = []
+
+    for other in candidates:
+        if other["id"] == candidate["id"]:
+            continue
+
+        if (
+            other["book"] != candidate["book"]
+            or other["source_a"] != candidate["source_a"]
+            or other["source_b"] != candidate["source_b"]
+        ):
+            continue
+
+        candidate_ranges = [
+            (
+                tuple(candidate[f"source_{side}_start_reference"]),
+                tuple(candidate[f"source_{side}_end_reference"]),
+            )
+            for side in ("a", "b")
+        ]
+
+        other_ranges = [
+            (
+                tuple(other[f"source_{side}_start_reference"]),
+                tuple(other[f"source_{side}_end_reference"]),
+            )
+            for side in ("a", "b")
+        ]
+
+        if any(
+            start_a <= end_b and start_b <= end_a
+            for start_a, end_a in candidate_ranges
+            for start_b, end_b in other_ranges
+        ):
+            nearby.append(other)
+
+    return nearby
+
+
 def matching_component(candidate, other_candidate, component, other_component):
     if candidate["id"] == other_candidate["id"]:
         return None
@@ -69,8 +109,26 @@ def matching_component(candidate, other_candidate, component, other_component):
 def propagate_component(candidate, component, candidates, components):
     propagated = 0
 
+    linked_ids = set()
+
+    for candidate_id, existing_component in components.items():
+        if not isinstance(existing_component, dict):
+            continue
+
+        linked_to = existing_component.get("linked_to")
+
+        if linked_to:
+            linked_ids.add(candidate_id)
+            linked_ids.add(linked_to)
+
+    if candidate["id"] in linked_ids:
+        return 0
+
     for other in candidates:
         if other["id"] == candidate["id"]:
+            continue
+
+        if other["id"] in linked_ids:
             continue
 
         if (
@@ -135,12 +193,30 @@ def main():
     current_ids = {candidate["id"] for candidate in candidates}
     stale_ids = set(components) - current_ids
 
+
+    current_ids = {candidate["id"] for candidate in candidates}
+    stale_ids = set(components) - current_ids
+
+    changed = True
+    while changed:
+        changed = False
+
+        for candidate_id, component in components.items():
+            if candidate_id in stale_ids or not isinstance(component, dict):
+                continue
+
+            if component.get("linked_to") in stale_ids:
+                stale_ids.add(candidate_id)
+                changed = True
+
     if stale_ids:
         for candidate_id in stale_ids:
             del components[candidate_id]
 
         save_json(COMPONENTS_PATH, components)
-        print(f"Removed {len(stale_ids)} stale Stage 2 components.")
+        print(
+            f"Removed {len(stale_ids)} stale or linked Stage 2 components."
+        )
 
     pending = [
         candidate
@@ -157,6 +233,37 @@ def main():
         component = components[candidate["id"]]
 
         print("\n" + "=" * 72)
+
+        nearby = nearby_variants(candidate, candidates)
+
+        if nearby:
+            print(f"\nNearby variants ({len(nearby)}):")
+
+            for other in nearby:
+                other_component = components.get(other["id"], {})
+                stage2_status = (
+                    f"{other_component.get('transpositions', 0)},"
+                    f"{other_component.get('words_added', 0)},"
+                    f"{other_component.get('words_removed', 0)},"
+                    f"{other_component.get('words_swapped', 0)}"
+                    if other_component
+                    else "not classified"
+                )
+
+                print(f"\n  ID: {other['id']}")
+                print(
+                    f"  Reference: {other['source_a_start_reference'][0]}:"
+                    f"{other['source_a_start_reference'][1]}"
+                    f"-{other['source_a_end_reference'][0]}:"
+                    f"{other['source_a_end_reference'][1]}"
+                )
+                print(f"  Stage 2: {stage2_status}")
+                print("  A:", " ".join(normalized_region(other, "a")))
+                print("  B:", " ".join(normalized_region(other, "b")))
+        else:
+            print("\nNearby variants: none")
+        print("")
+
         print(
             f"{index}/{len(pending)}  {candidate['book']}  "
             f"{candidate['source_a']} -> {candidate['source_b']}"
@@ -177,6 +284,63 @@ def main():
             normalize_word(word, normalize_final_sigma=False)
             for word in candidate["source_b_region"]
         ))
+
+
+        if nearby:
+            current_link = component.get("linked_to") or ""
+            valid_ids = {item["id"] for item in candidates}
+
+            while True:
+                linked_input = input(
+                    f"Linked to candidate ID "
+                    f"[{current_link or 'none'}] "
+                    "(Enter = keep, - = clear, q = quit): "
+                ).strip()
+
+                if linked_input.lower() == "q":
+                    print("Review stopped. Saved answers are preserved.")
+                    return
+
+                if linked_input == "":
+                    break
+
+                if linked_input == "-":
+                    component["linked_to"] = None
+                    break
+
+                if linked_input == candidate["id"]:
+                    print("A candidate cannot be linked to itself.")
+                    continue
+
+                if linked_input not in valid_ids:
+                    print("That ID is not in the current candidates.")
+                    continue
+
+                component["linked_to"] = linked_input
+                break
+
+            if component.get("linked_to") != current_link:
+                linked_to = component.get("linked_to")
+                linked_component = components.get(linked_to)
+
+                if (
+                    linked_component
+                    and not linked_component.get("linked_to")
+                    and linked_component.get("status") in ("automatic", "manual")
+                ):
+                    for field in COUNT_FIELDS:
+                        linked_component[field] = None
+
+                    linked_component["status"] = "manual_review"
+
+                    print(
+                        f"Reset linked candidate {linked_to} "
+                        "to manual review."
+                    )
+
+                save_json(COMPONENTS_PATH, components)
+                print("Saved linked-to field.")
+
 
         while True:
 
