@@ -6310,63 +6310,6 @@
     "source_a": "GHT",
     "source_b": "RP",
     "type": "replace",
-    "id": "33bce879357f4c6b",
-    "source_a_region": [
-      "ταπεινωση"
-    ],
-    "source_b_region": [
-      "ταπεινωσει"
-    ],
-    "source_a_start_reference": [
-      18,
-      4
-    ],
-    "source_a_end_reference": [
-      18,
-      4
-    ],
-    "source_b_start_reference": [
-      18,
-      4
-    ],
-    "source_b_end_reference": [
-      18,
-      4
-    ],
-    "source_a_context_before": [
-      "βασιλειαν",
-      "των",
-      "ουρανων",
-      "οστις",
-      "ουν"
-    ],
-    "source_a_context_after": [
-      "εαυτον",
-      "ως",
-      "το",
-      "παιδιον",
-      "τουτο"
-    ],
-    "source_b_context_before": [
-      "βασιλειαν",
-      "των",
-      "ουρανων",
-      "οστις",
-      "ουν"
-    ],
-    "source_b_context_after": [
-      "εαυτον",
-      "ως",
-      "το",
-      "παιδιον",
-      "τουτο"
-    ]
-  },
-  {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "RP",
-    "type": "replace",
     "id": "cb34390453ec1179",
     "source_a_region": [
       "περι"
@@ -6596,11 +6539,15 @@
     "book": "MAT",
     "source_a": "GHT",
     "source_b": "RP",
-    "type": "insert",
-    "id": "02c14e5705cf619e",
-    "source_a_region": [],
+    "type": "replace",
+    "id": "3487a476ec695929",
+    "source_a_region": [
+      "συμφωνησωσιν",
+      "υμων"
+    ],
     "source_b_region": [
-      "αμην"
+      "υμων",
+      "συμφωνησωσιν"
     ],
     "source_a_start_reference": [
       18,
@@ -6619,32 +6566,32 @@
       19
     ],
     "source_a_context_before": [
-      "λελυμενα",
-      "εν",
-      "τω",
-      "ουρανω",
-      "παλιν"
+      "λεγω",
+      "υμιν",
+      "οτι",
+      "εαν",
+      "δυο"
     ],
     "source_a_context_after": [
-      "λεγω",
-      "υμιν",
-      "οτι",
-      "εαν",
-      "δυο"
+      "επι",
+      "της",
+      "γης",
+      "περι",
+      "παντος"
     ],
     "source_b_context_before": [
-      "λελυμενα",
-      "εν",
-      "τω",
-      "ουρανω",
-      "παλιν"
-    ],
-    "source_b_context_after": [
       "λεγω",
       "υμιν",
       "οτι",
       "εαν",
       "δυο"
+    ],
+    "source_b_context_after": [
+      "επι",
+      "της",
+      "γης",
+      "περι",
+      "παντος"
     ]
   },
   {
@@ -6652,168 +6599,56 @@
     "source_a": "GHT",
     "source_b": "RP",
     "type": "replace",
-    "id": "9e2e12991a1d4e3b",
+    "id": "a969bbaaad8dec50",
     "source_a_region": [
-      "ο"
+      "ουρανιος"
     ],
     "source_b_region": [
-      "ει"
+      "επουρανιος"
     ],
     "source_a_start_reference": [
       18,
-      28
+      35
     ],
     "source_a_end_reference": [
       18,
-      28
+      35
     ],
     "source_b_start_reference": [
       18,
-      28
+      35
     ],
     "source_b_end_reference": [
       18,
-      28
-    ],
-    "source_a_context_before": [
-      "αυτον",
-      "επνιγεν",
-      "λεγων",
-      "αποδος",
-      "μοι"
-    ],
-    "source_a_context_after": [
-      "τι",
-      "οφειλεις",
-      "πεσων",
-      "ουν",
-      "ο"
-    ],
-    "source_b_context_before": [
-      "αυτον",
-      "επνιγεν",
-      "λεγων",
-      "αποδος",
-      "μοι"
-    ],
-    "source_b_context_after": [
-      "τι",
-      "οφειλεις",
-      "πεσων",
-      "ουν",
-      "ο"
-    ]
-  },
-  {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "RP",
-    "type": "delete",
-    "id": "342e7b46b22501ec",
-    "source_a_region": [
-      "παντα"
-    ],
-    "source_b_region": [],
-    "source_a_start_reference": [
-      18,
-      29
-    ],
-    "source_a_end_reference": [
-      18,
-      29
-    ],
-    "source_b_start_reference": [
-      18,
-      29
-    ],
-    "source_b_end_reference": [
-      18,
-      29
-    ],
-    "source_a_context_before": [
-      "λεγων",
-      "μακροθυμησον",
-      "επ",
-      "εμοι",
-      "και"
-    ],
-    "source_a_context_after": [
-      "αποδωσω",
-      "σοι",
-      "ο",
-      "δε",
-      "ουκ"
-    ],
-    "source_b_context_before": [
-      "λεγων",
-      "μακροθυμησον",
-      "επ",
-      "εμοι",
-      "και"
-    ],
-    "source_b_context_after": [
-      "αποδωσω",
-      "σοι",
-      "ο",
-      "δε",
-      "ουκ"
-    ]
-  },
-  {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "RP",
-    "type": "replace",
-    "id": "fc1542ab89f1be5c",
-    "source_a_region": [
-      "αυτων"
-    ],
-    "source_b_region": [
-      "εαυτων"
-    ],
-    "source_a_start_reference": [
-      18,
-      31
-    ],
-    "source_a_end_reference": [
-      18,
-      31
-    ],
-    "source_b_start_reference": [
-      18,
-      31
-    ],
-    "source_b_end_reference": [
-      18,
-      31
+      35
     ],
     "source_a_context_before": [
       "και",
-      "ελθοντες",
-      "διεσαφησαν",
-      "τω",
-      "κυριω"
+      "ο",
+      "πατηρ",
+      "μου",
+      "ο"
     ],
     "source_a_context_after": [
-      "παντα",
-      "τα",
-      "γενομενα",
-      "τοτε",
-      "προσκαλεσαμενος"
+      "ποιησει",
+      "υμιν",
+      "εαν",
+      "μη",
+      "αφητε"
     ],
     "source_b_context_before": [
       "και",
-      "ελθοντες",
-      "διεσαφησαν",
-      "τω",
-      "κυριω"
+      "ο",
+      "πατηρ",
+      "μου",
+      "ο"
     ],
     "source_b_context_after": [
-      "παντα",
-      "τα",
-      "γενομενα",
-      "τοτε",
-      "προσκαλεσαμενος"
+      "ποιησει",
+      "υμιν",
+      "εαν",
+      "μη",
+      "αφητε"
     ]
   },
   {
@@ -19202,6 +19037,63 @@
     "source_a": "GHT",
     "source_b": "TR",
     "type": "replace",
+    "id": "727ed139a0196dae",
+    "source_a_region": [
+      "ταπεινωσει"
+    ],
+    "source_b_region": [
+      "ταπεινωση"
+    ],
+    "source_a_start_reference": [
+      18,
+      4
+    ],
+    "source_a_end_reference": [
+      18,
+      4
+    ],
+    "source_b_start_reference": [
+      18,
+      4
+    ],
+    "source_b_end_reference": [
+      18,
+      4
+    ],
+    "source_a_context_before": [
+      "βασιλειαν",
+      "των",
+      "ουρανων",
+      "οστις",
+      "ουν"
+    ],
+    "source_a_context_after": [
+      "εαυτον",
+      "ως",
+      "το",
+      "παιδιον",
+      "τουτο"
+    ],
+    "source_b_context_before": [
+      "βασιλειαν",
+      "των",
+      "ουρανων",
+      "οστις",
+      "ουν"
+    ],
+    "source_b_context_after": [
+      "εαυτον",
+      "ως",
+      "το",
+      "παιδιον",
+      "τουτο"
+    ]
+  },
+  {
+    "book": "MAT",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "type": "replace",
     "id": "c3d91fb4b2ae2a30",
     "source_a_region": [
       "περι"
@@ -19315,6 +19207,232 @@
     "book": "MAT",
     "source_a": "GHT",
     "source_b": "TR",
+    "type": "delete",
+    "id": "5788502963f88f46",
+    "source_a_region": [
+      "αμην"
+    ],
+    "source_b_region": [],
+    "source_a_start_reference": [
+      18,
+      19
+    ],
+    "source_a_end_reference": [
+      18,
+      19
+    ],
+    "source_b_start_reference": [
+      18,
+      19
+    ],
+    "source_b_end_reference": [
+      18,
+      19
+    ],
+    "source_a_context_before": [
+      "λελυμενα",
+      "εν",
+      "τω",
+      "ουρανω",
+      "παλιν"
+    ],
+    "source_a_context_after": [
+      "λεγω",
+      "υμιν",
+      "οτι",
+      "εαν",
+      "δυο"
+    ],
+    "source_b_context_before": [
+      "λελυμενα",
+      "εν",
+      "τω",
+      "ουρανω",
+      "παλιν"
+    ],
+    "source_b_context_after": [
+      "λεγω",
+      "υμιν",
+      "οτι",
+      "εαν",
+      "δυο"
+    ]
+  },
+  {
+    "book": "MAT",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "type": "replace",
+    "id": "772785b981bd6054",
+    "source_a_region": [
+      "συμφωνησωσιν",
+      "υμων"
+    ],
+    "source_b_region": [
+      "υμων",
+      "συμφωνησωσιν"
+    ],
+    "source_a_start_reference": [
+      18,
+      19
+    ],
+    "source_a_end_reference": [
+      18,
+      19
+    ],
+    "source_b_start_reference": [
+      18,
+      19
+    ],
+    "source_b_end_reference": [
+      18,
+      19
+    ],
+    "source_a_context_before": [
+      "λεγω",
+      "υμιν",
+      "οτι",
+      "εαν",
+      "δυο"
+    ],
+    "source_a_context_after": [
+      "επι",
+      "της",
+      "γης",
+      "περι",
+      "παντος"
+    ],
+    "source_b_context_before": [
+      "λεγω",
+      "υμιν",
+      "οτι",
+      "εαν",
+      "δυο"
+    ],
+    "source_b_context_after": [
+      "επι",
+      "της",
+      "γης",
+      "περι",
+      "παντος"
+    ]
+  },
+  {
+    "book": "MAT",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "type": "replace",
+    "id": "33651bfb6b6effe7",
+    "source_a_region": [
+      "ει"
+    ],
+    "source_b_region": [
+      "ο"
+    ],
+    "source_a_start_reference": [
+      18,
+      28
+    ],
+    "source_a_end_reference": [
+      18,
+      28
+    ],
+    "source_b_start_reference": [
+      18,
+      28
+    ],
+    "source_b_end_reference": [
+      18,
+      28
+    ],
+    "source_a_context_before": [
+      "αυτον",
+      "επνιγεν",
+      "λεγων",
+      "αποδος",
+      "μοι"
+    ],
+    "source_a_context_after": [
+      "τι",
+      "οφειλεις",
+      "πεσων",
+      "ουν",
+      "ο"
+    ],
+    "source_b_context_before": [
+      "αυτον",
+      "επνιγεν",
+      "λεγων",
+      "αποδος",
+      "μοι"
+    ],
+    "source_b_context_after": [
+      "τι",
+      "οφειλεις",
+      "πεσων",
+      "ουν",
+      "ο"
+    ]
+  },
+  {
+    "book": "MAT",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "type": "insert",
+    "id": "007f09f58a86d139",
+    "source_a_region": [],
+    "source_b_region": [
+      "παντα"
+    ],
+    "source_a_start_reference": [
+      18,
+      29
+    ],
+    "source_a_end_reference": [
+      18,
+      29
+    ],
+    "source_b_start_reference": [
+      18,
+      29
+    ],
+    "source_b_end_reference": [
+      18,
+      29
+    ],
+    "source_a_context_before": [
+      "λεγων",
+      "μακροθυμησον",
+      "επ",
+      "εμοι",
+      "και"
+    ],
+    "source_a_context_after": [
+      "αποδωσω",
+      "σοι",
+      "ο",
+      "δε",
+      "ουκ"
+    ],
+    "source_b_context_before": [
+      "λεγων",
+      "μακροθυμησον",
+      "επ",
+      "εμοι",
+      "και"
+    ],
+    "source_b_context_after": [
+      "αποδωσω",
+      "σοι",
+      "ο",
+      "δε",
+      "ουκ"
+    ]
+  },
+  {
+    "book": "MAT",
+    "source_a": "GHT",
+    "source_b": "TR",
     "type": "replace",
     "id": "988f5f7dfc433488",
     "source_a_region": [
@@ -19366,6 +19484,120 @@
       "αυτον",
       "εις",
       "φυλακην"
+    ]
+  },
+  {
+    "book": "MAT",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "type": "replace",
+    "id": "925d246d8ec9822e",
+    "source_a_region": [
+      "εαυτων"
+    ],
+    "source_b_region": [
+      "αυτων"
+    ],
+    "source_a_start_reference": [
+      18,
+      31
+    ],
+    "source_a_end_reference": [
+      18,
+      31
+    ],
+    "source_b_start_reference": [
+      18,
+      31
+    ],
+    "source_b_end_reference": [
+      18,
+      31
+    ],
+    "source_a_context_before": [
+      "και",
+      "ελθοντες",
+      "διεσαφησαν",
+      "τω",
+      "κυριω"
+    ],
+    "source_a_context_after": [
+      "παντα",
+      "τα",
+      "γενομενα",
+      "τοτε",
+      "προσκαλεσαμενος"
+    ],
+    "source_b_context_before": [
+      "και",
+      "ελθοντες",
+      "διεσαφησαν",
+      "τω",
+      "κυριω"
+    ],
+    "source_b_context_after": [
+      "παντα",
+      "τα",
+      "γενομενα",
+      "τοτε",
+      "προσκαλεσαμενος"
+    ]
+  },
+  {
+    "book": "MAT",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "type": "replace",
+    "id": "b4fd9fc9a2277839",
+    "source_a_region": [
+      "ουρανιος"
+    ],
+    "source_b_region": [
+      "επουρανιος"
+    ],
+    "source_a_start_reference": [
+      18,
+      35
+    ],
+    "source_a_end_reference": [
+      18,
+      35
+    ],
+    "source_b_start_reference": [
+      18,
+      35
+    ],
+    "source_b_end_reference": [
+      18,
+      35
+    ],
+    "source_a_context_before": [
+      "και",
+      "ο",
+      "πατηρ",
+      "μου",
+      "ο"
+    ],
+    "source_a_context_after": [
+      "ποιησει",
+      "υμιν",
+      "εαν",
+      "μη",
+      "αφητε"
+    ],
+    "source_b_context_before": [
+      "και",
+      "ο",
+      "πατηρ",
+      "μου",
+      "ο"
+    ],
+    "source_b_context_after": [
+      "ποιησει",
+      "υμιν",
+      "εαν",
+      "μη",
+      "αφητε"
     ]
   },
   {
@@ -38947,63 +39179,6 @@
     "source_a": "GHT",
     "source_b": "SR",
     "type": "replace",
-    "id": "ecae996c2c60390c",
-    "source_a_region": [
-      "ταπεινωση"
-    ],
-    "source_b_region": [
-      "ταπεινώσει"
-    ],
-    "source_a_start_reference": [
-      18,
-      4
-    ],
-    "source_a_end_reference": [
-      18,
-      4
-    ],
-    "source_b_start_reference": [
-      18,
-      4
-    ],
-    "source_b_end_reference": [
-      18,
-      4
-    ],
-    "source_a_context_before": [
-      "βασιλειαν",
-      "των",
-      "ουρανων",
-      "οστις",
-      "ουν"
-    ],
-    "source_a_context_after": [
-      "εαυτον",
-      "ως",
-      "το",
-      "παιδιον",
-      "τουτο"
-    ],
-    "source_b_context_before": [
-      "Βασιλείαν",
-      "τῶν",
-      "Οὐρανῶν",
-      "Ὅστις",
-      "οὖν"
-    ],
-    "source_b_context_after": [
-      "ἑαυτὸν",
-      "ὡς",
-      "τὸ",
-      "παιδίον",
-      "τοῦτο"
-    ]
-  },
-  {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "type": "replace",
     "id": "27aa29cb89c2c7cb",
     "source_a_region": [
       "παιδιον",
@@ -39648,25 +39823,19 @@
     "book": "MAT",
     "source_a": "GHT",
     "source_b": "SR",
-    "type": "replace",
-    "id": "ceb0f12908e19046",
+    "type": "delete",
+    "id": "c9cd7c7acd28bac9",
     "source_a_region": [
-      "τω",
-      "ουρανω",
-      "παλιν"
+      "τω"
     ],
-    "source_b_region": [
-      "οὐρανῷ",
-      "Πάλιν",
-      "ἀμὴν"
-    ],
+    "source_b_region": [],
     "source_a_start_reference": [
       18,
       18
     ],
     "source_a_end_reference": [
       18,
-      19
+      18
     ],
     "source_b_start_reference": [
       18,
@@ -39674,7 +39843,7 @@
     ],
     "source_b_end_reference": [
       18,
-      19
+      18
     ],
     "source_a_context_before": [
       "της",
@@ -39684,11 +39853,11 @@
       "εν"
     ],
     "source_a_context_after": [
+      "ουρανω",
+      "παλιν",
+      "αμην",
       "λεγω",
-      "υμιν",
-      "οτι",
-      "εαν",
-      "δυο"
+      "υμιν"
     ],
     "source_b_context_before": [
       "τῆς",
@@ -39698,27 +39867,22 @@
       "ἐν"
     ],
     "source_b_context_after": [
+      "οὐρανῷ",
+      "Πάλιν",
+      "ἀμὴν",
       "λέγω",
-      "ὑμῖν",
-      "ὅτι",
-      "ἐὰν",
-      "δύο"
+      "ὑμῖν"
     ]
   },
   {
     "book": "MAT",
     "source_a": "GHT",
     "source_b": "SR",
-    "type": "replace",
-    "id": "be1056e184e204ee",
-    "source_a_region": [
-      "υμων",
-      "συμφωνησωσιν"
-    ],
+    "type": "insert",
+    "id": "fa140bdbd0507f44",
+    "source_a_region": [],
     "source_b_region": [
-      "συμφωνήσωσιν",
-      "ἐξ",
-      "ὑμῶν"
+      "ἐξ"
     ],
     "source_a_start_reference": [
       18,
@@ -39737,32 +39901,32 @@
       19
     ],
     "source_a_context_before": [
-      "λεγω",
       "υμιν",
       "οτι",
       "εαν",
-      "δυο"
+      "δυο",
+      "συμφωνησωσιν"
     ],
     "source_a_context_after": [
+      "υμων",
       "επι",
       "της",
       "γης",
-      "περι",
-      "παντος"
+      "περι"
     ],
     "source_b_context_before": [
-      "λέγω",
       "ὑμῖν",
       "ὅτι",
       "ἐὰν",
-      "δύο"
+      "δύο",
+      "συμφωνήσωσιν"
     ],
     "source_b_context_after": [
+      "ὑμῶν",
       "ἐπὶ",
       "τῆς",
       "γῆς",
-      "περὶ",
-      "παντὸς"
+      "περὶ"
     ]
   },
   {
@@ -39770,7 +39934,7 @@
     "source_a": "GHT",
     "source_b": "SR",
     "type": "replace",
-    "id": "07df379803b10104",
+    "id": "b914ff399374ca66",
     "source_a_region": [
       "αυτω",
       "ο",
@@ -39833,7 +39997,7 @@
     "source_a": "GHT",
     "source_b": "SR",
     "type": "replace",
-    "id": "7b3903825ffd5a10",
+    "id": "5b96339fdf47cd7e",
     "source_a_region": [
       "αλλ"
     ],
@@ -39890,7 +40054,7 @@
     "source_a": "GHT",
     "source_b": "SR",
     "type": "replace",
-    "id": "dcdef15895c56177",
+    "id": "e033d83316a7dcaa",
     "source_a_region": [
       "προσηνεχθη",
       "αυτω",
@@ -39951,7 +40115,7 @@
     "source_a": "GHT",
     "source_b": "SR",
     "type": "delete",
-    "id": "260651bc43b7f0f8",
+    "id": "4da4774b4ff44d8c",
     "source_a_region": [
       "αυτου"
     ],
@@ -40006,7 +40170,7 @@
     "source_a": "GHT",
     "source_b": "SR",
     "type": "delete",
-    "id": "d70d831cfe509dde",
+    "id": "6073b30e0dff6529",
     "source_a_region": [
       "αυτου"
     ],
@@ -40061,7 +40225,7 @@
     "source_a": "GHT",
     "source_b": "SR",
     "type": "replace",
-    "id": "615127aa473d735d",
+    "id": "4c15d2b1589bb3da",
     "source_a_region": [
       "σοι",
       "αποδωσω"
@@ -40119,15 +40283,12 @@
     "book": "MAT",
     "source_a": "GHT",
     "source_b": "SR",
-    "type": "replace",
-    "id": "4ecaae8ddb9d846e",
+    "type": "delete",
+    "id": "4f658bfb649c6415",
     "source_a_region": [
-      "μοι",
-      "ο"
+      "μοι"
     ],
-    "source_b_region": [
-      "εἴ"
-    ],
+    "source_b_region": [],
     "source_a_start_reference": [
       18,
       28
@@ -40152,11 +40313,11 @@
       "αποδος"
     ],
     "source_a_context_after": [
+      "ει",
       "τι",
       "οφειλεις",
       "πεσων",
-      "ουν",
-      "ο"
+      "ουν"
     ],
     "source_b_context_before": [
       "κρατήσας",
@@ -40166,11 +40327,11 @@
       "Ἀπόδος"
     ],
     "source_b_context_after": [
+      "εἴ",
       "τι",
       "ὀφείλεις",
       "Πεσὼν",
-      "οὖν",
-      "ὁ"
+      "οὖν"
     ]
   },
   {
@@ -40178,7 +40339,7 @@
     "source_a": "GHT",
     "source_b": "SR",
     "type": "delete",
-    "id": "58181b9f939f37e6",
+    "id": "57fc4c111c47c90a",
     "source_a_region": [
       "αυτου",
       "εις",
@@ -40229,61 +40390,6 @@
       "αὐτὸν",
       "λέγων",
       "Μακροθύμησον"
-    ]
-  },
-  {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "type": "delete",
-    "id": "ea8d159d094fda6b",
-    "source_a_region": [
-      "παντα"
-    ],
-    "source_b_region": [],
-    "source_a_start_reference": [
-      18,
-      29
-    ],
-    "source_a_end_reference": [
-      18,
-      29
-    ],
-    "source_b_start_reference": [
-      18,
-      29
-    ],
-    "source_b_end_reference": [
-      18,
-      29
-    ],
-    "source_a_context_before": [
-      "λεγων",
-      "μακροθυμησον",
-      "επ",
-      "εμοι",
-      "και"
-    ],
-    "source_a_context_after": [
-      "αποδωσω",
-      "σοι",
-      "ο",
-      "δε",
-      "ουκ"
-    ],
-    "source_b_context_before": [
-      "λέγων",
-      "Μακροθύμησον",
-      "ἐπʼ",
-      "ἐμοί",
-      "καὶ"
-    ],
-    "source_b_context_after": [
-      "ἀποδώσω",
-      "σοι",
-      "Ὁ",
-      "δὲ",
-      "οὐκ"
     ]
   },
   {
@@ -40403,63 +40509,6 @@
     "source_a": "GHT",
     "source_b": "SR",
     "type": "replace",
-    "id": "d7ebd92d929d9b59",
-    "source_a_region": [
-      "αυτων"
-    ],
-    "source_b_region": [
-      "ἑαυτῶν"
-    ],
-    "source_a_start_reference": [
-      18,
-      31
-    ],
-    "source_a_end_reference": [
-      18,
-      31
-    ],
-    "source_b_start_reference": [
-      18,
-      31
-    ],
-    "source_b_end_reference": [
-      18,
-      31
-    ],
-    "source_a_context_before": [
-      "και",
-      "ελθοντες",
-      "διεσαφησαν",
-      "τω",
-      "κυριω"
-    ],
-    "source_a_context_after": [
-      "παντα",
-      "τα",
-      "γενομενα",
-      "τοτε",
-      "προσκαλεσαμενος"
-    ],
-    "source_b_context_before": [
-      "καὶ",
-      "ἐλθόντες",
-      "διεσάφησαν",
-      "τῷ",
-      "κυρίῳ"
-    ],
-    "source_b_context_after": [
-      "πάντα",
-      "τὰ",
-      "γενόμενα",
-      "Τότε",
-      "προσκαλεσάμενος"
-    ]
-  },
-  {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "type": "replace",
     "id": "97f032215d073b60",
     "source_a_region": [
       "και",
@@ -40511,63 +40560,6 @@
       "Καὶ",
       "ὀργισθεὶς",
       "ὁ"
-    ]
-  },
-  {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "type": "replace",
-    "id": "2bc7510d328c30bd",
-    "source_a_region": [
-      "επουρανιος"
-    ],
-    "source_b_region": [
-      "οὐράνιος"
-    ],
-    "source_a_start_reference": [
-      18,
-      35
-    ],
-    "source_a_end_reference": [
-      18,
-      35
-    ],
-    "source_b_start_reference": [
-      18,
-      35
-    ],
-    "source_b_end_reference": [
-      18,
-      35
-    ],
-    "source_a_context_before": [
-      "και",
-      "ο",
-      "πατηρ",
-      "μου",
-      "ο"
-    ],
-    "source_a_context_after": [
-      "ποιησει",
-      "υμιν",
-      "εαν",
-      "μη",
-      "αφητε"
-    ],
-    "source_b_context_before": [
-      "καὶ",
-      "ὁ",
-      "Πατήρ",
-      "μου",
-      "ὁ"
-    ],
-    "source_b_context_after": [
-      "ποιήσει",
-      "ὑμῖν",
-      "ἐὰν",
-      "μὴ",
-      "ἀφῆτε"
     ]
   },
   {
@@ -286009,67 +286001,6 @@
     "source_a": "GHT",
     "source_b": "RP",
     "type": "replace",
-    "id": "a322c4c3707b8296",
-    "source_a_region": [
-      "του",
-      "λαου",
-      "ην"
-    ],
-    "source_b_region": [
-      "ην",
-      "του",
-      "λαου"
-    ],
-    "source_a_start_reference": [
-      1,
-      10
-    ],
-    "source_a_end_reference": [
-      1,
-      10
-    ],
-    "source_b_start_reference": [
-      1,
-      10
-    ],
-    "source_b_end_reference": [
-      1,
-      10
-    ],
-    "source_a_context_before": [
-      "κυριου",
-      "και",
-      "παν",
-      "το",
-      "πληθος"
-    ],
-    "source_a_context_after": [
-      "προσευχομενον",
-      "εξω",
-      "τη",
-      "ωρα",
-      "του"
-    ],
-    "source_b_context_before": [
-      "κυριου",
-      "και",
-      "παν",
-      "το",
-      "πληθος"
-    ],
-    "source_b_context_after": [
-      "προσευχομενον",
-      "εξω",
-      "τη",
-      "ωρα",
-      "του"
-    ]
-  },
-  {
-    "book": "LUK",
-    "source_a": "GHT",
-    "source_b": "RP",
-    "type": "replace",
     "id": "fd50bca208df54b4",
     "source_a_region": [
       "εν",
@@ -286236,65 +286167,6 @@
       "φατνη",
       "και",
       "εξαιφνης"
-    ]
-  },
-  {
-    "book": "LUK",
-    "source_a": "GHT",
-    "source_b": "RP",
-    "type": "replace",
-    "id": "fed86f8869e0139d",
-    "source_a_region": [
-      "αγιον",
-      "ην"
-    ],
-    "source_b_region": [
-      "ην",
-      "αγιον"
-    ],
-    "source_a_start_reference": [
-      2,
-      25
-    ],
-    "source_a_end_reference": [
-      2,
-      25
-    ],
-    "source_b_start_reference": [
-      2,
-      25
-    ],
-    "source_b_end_reference": [
-      2,
-      25
-    ],
-    "source_a_context_before": [
-      "παρακλησιν",
-      "του",
-      "ισραηλ",
-      "και",
-      "πνευμα"
-    ],
-    "source_a_context_after": [
-      "επ",
-      "αυτον",
-      "και",
-      "ην",
-      "αυτω"
-    ],
-    "source_b_context_before": [
-      "παρακλησιν",
-      "του",
-      "ισραηλ",
-      "και",
-      "πνευμα"
-    ],
-    "source_b_context_after": [
-      "επ",
-      "αυτον",
-      "και",
-      "ην",
-      "αυτω"
     ]
   },
   {
@@ -288851,63 +288723,6 @@
     "source_a": "GHT",
     "source_b": "RP",
     "type": "replace",
-    "id": "93c690e32adc9d16",
-    "source_a_region": [
-      "παρεξη"
-    ],
-    "source_b_region": [
-      "παρεξει"
-    ],
-    "source_a_start_reference": [
-      7,
-      4
-    ],
-    "source_a_end_reference": [
-      7,
-      4
-    ],
-    "source_b_start_reference": [
-      7,
-      4
-    ],
-    "source_b_end_reference": [
-      7,
-      4
-    ],
-    "source_a_context_before": [
-      "λεγοντες",
-      "οτι",
-      "αξιος",
-      "εστιν",
-      "ω"
-    ],
-    "source_a_context_after": [
-      "τουτο",
-      "αγαπα",
-      "γαρ",
-      "το",
-      "εθνος"
-    ],
-    "source_b_context_before": [
-      "λεγοντες",
-      "οτι",
-      "αξιος",
-      "εστιν",
-      "ω"
-    ],
-    "source_b_context_after": [
-      "τουτο",
-      "αγαπα",
-      "γαρ",
-      "το",
-      "εθνος"
-    ]
-  },
-  {
-    "book": "LUK",
-    "source_a": "GHT",
-    "source_b": "RP",
-    "type": "replace",
     "id": "8fbfb87a8b63590d",
     "source_a_region": [
       "αλλα"
@@ -290059,13 +289874,11 @@
     "source_a": "GHT",
     "source_b": "RP",
     "type": "replace",
-    "id": "42f389649e7c0664",
+    "id": "3a42e703f196a2b4",
     "source_a_region": [
-      "θυγατηρ",
-      "θαρσει"
+      "θυγατηρ"
     ],
     "source_b_region": [
-      "θαρσει",
       "θυγατερ"
     ],
     "source_a_start_reference": [
@@ -290085,11 +289898,11 @@
       48
     ],
     "source_a_context_before": [
-      "παραχρημα",
       "ο",
       "δε",
       "ειπεν",
-      "αυτη"
+      "αυτη",
+      "θαρσει"
     ],
     "source_a_context_after": [
       "η",
@@ -290099,11 +289912,11 @@
       "σε"
     ],
     "source_b_context_before": [
-      "παραχρημα",
       "ο",
       "δε",
       "ειπεν",
-      "αυτη"
+      "αυτη",
+      "θαρσει"
     ],
     "source_b_context_after": [
       "η",
@@ -291092,69 +290905,6 @@
     "source_a": "GHT",
     "source_b": "RP",
     "type": "replace",
-    "id": "02d6d818be7df61b",
-    "source_a_region": [
-      "προς",
-      "αυτον",
-      "ο",
-      "ιησους"
-    ],
-    "source_b_region": [
-      "ο",
-      "ιησους",
-      "προς",
-      "αυτον"
-    ],
-    "source_a_start_reference": [
-      9,
-      62
-    ],
-    "source_a_end_reference": [
-      9,
-      62
-    ],
-    "source_b_start_reference": [
-      9,
-      62
-    ],
-    "source_b_end_reference": [
-      9,
-      62
-    ],
-    "source_a_context_before": [
-      "τον",
-      "οικον",
-      "μου",
-      "ειπεν",
-      "δε"
-    ],
-    "source_a_context_after": [
-      "ουδεις",
-      "επιβαλων",
-      "την",
-      "χειρα",
-      "αυτου"
-    ],
-    "source_b_context_before": [
-      "τον",
-      "οικον",
-      "μου",
-      "ειπεν",
-      "δε"
-    ],
-    "source_b_context_after": [
-      "ουδεις",
-      "επιβαλων",
-      "την",
-      "χειρα",
-      "αυτου"
-    ]
-  },
-  {
-    "book": "LUK",
-    "source_a": "GHT",
-    "source_b": "RP",
-    "type": "replace",
     "id": "0137dc9c5678a88b",
     "source_a_region": [
       "ημελλεν"
@@ -291262,65 +291012,6 @@
       "μηδε",
       "υποδηματα",
       "και"
-    ]
-  },
-  {
-    "book": "LUK",
-    "source_a": "GHT",
-    "source_b": "RP",
-    "type": "replace",
-    "id": "e2fdf7ea85097171",
-    "source_a_region": [
-      "εισερχησθε",
-      "οικιαν"
-    ],
-    "source_b_region": [
-      "οικιαν",
-      "εισερχησθε"
-    ],
-    "source_a_start_reference": [
-      10,
-      5
-    ],
-    "source_a_end_reference": [
-      10,
-      5
-    ],
-    "source_b_start_reference": [
-      10,
-      5
-    ],
-    "source_b_end_reference": [
-      10,
-      5
-    ],
-    "source_a_context_before": [
-      "ασπασησθε",
-      "εις",
-      "ην",
-      "δ",
-      "αν"
-    ],
-    "source_a_context_after": [
-      "πρωτον",
-      "λεγετε",
-      "ειρηνη",
-      "τω",
-      "οικω"
-    ],
-    "source_b_context_before": [
-      "ασπασησθε",
-      "εις",
-      "ην",
-      "δ",
-      "αν"
-    ],
-    "source_b_context_after": [
-      "πρωτον",
-      "λεγετε",
-      "ειρηνη",
-      "τω",
-      "οικω"
     ]
   },
   {
@@ -292526,65 +292217,6 @@
       "των",
       "υπαρχοντων",
       "αυτου"
-    ]
-  },
-  {
-    "book": "LUK",
-    "source_a": "GHT",
-    "source_b": "RP",
-    "type": "replace",
-    "id": "0dd869c45ff9794f",
-    "source_a_region": [
-      "υμιν",
-      "τουτο"
-    ],
-    "source_b_region": [
-      "τουτο",
-      "υμιν"
-    ],
-    "source_a_start_reference": [
-      12,
-      22
-    ],
-    "source_a_end_reference": [
-      12,
-      22
-    ],
-    "source_b_start_reference": [
-      12,
-      22
-    ],
-    "source_b_end_reference": [
-      12,
-      22
-    ],
-    "source_a_context_before": [
-      "προς",
-      "τους",
-      "μαθητας",
-      "αυτου",
-      "δια"
-    ],
-    "source_a_context_after": [
-      "λεγω",
-      "μη",
-      "μεριμνατε",
-      "τη",
-      "ψυχη"
-    ],
-    "source_b_context_before": [
-      "προς",
-      "τους",
-      "μαθητας",
-      "αυτου",
-      "δια"
-    ],
-    "source_b_context_after": [
-      "λεγω",
-      "μη",
-      "μεριμνατε",
-      "τη",
-      "ψυχη"
     ]
   },
   {
@@ -296113,56 +295745,56 @@
     "source_a": "GHT",
     "source_b": "RP",
     "type": "replace",
-    "id": "f9854aacae54d679",
+    "id": "6e8379699e105fbb",
     "source_a_region": [
-      "εκγαμισκονται"
+      "εκγαμιζονται"
     ],
     "source_b_region": [
-      "εκγαμιζονται"
+      "εκγαμισκονται"
     ],
     "source_a_start_reference": [
       20,
-      35
+      34
     ],
     "source_a_end_reference": [
       20,
-      35
+      34
     ],
     "source_b_start_reference": [
       20,
-      35
+      34
     ],
     "source_b_end_reference": [
       20,
-      35
+      34
     ],
     "source_a_context_before": [
-      "εκ",
-      "νεκρων",
-      "ουτε",
+      "του",
+      "αιωνος",
+      "τουτου",
       "γαμουσιν",
-      "ουτε"
+      "και"
     ],
     "source_a_context_after": [
-      "ουτε",
-      "γαρ",
-      "αποθανειν",
-      "ετι",
-      "δυνανται"
+      "οι",
+      "δε",
+      "καταξιωθεντες",
+      "του",
+      "αιωνος"
     ],
     "source_b_context_before": [
-      "εκ",
-      "νεκρων",
-      "ουτε",
+      "του",
+      "αιωνος",
+      "τουτου",
       "γαμουσιν",
-      "ουτε"
+      "και"
     ],
     "source_b_context_after": [
-      "ουτε",
-      "γαρ",
-      "αποθανειν",
-      "ετι",
-      "δυνανται"
+      "οι",
+      "δε",
+      "καταξιωθεντες",
+      "του",
+      "αιωνος"
     ]
   },
   {
@@ -298405,60 +298037,62 @@
   {
     "book": "LUK",
     "source_a": "GHT",
-    "source_b": "RP",
+    "source_b": "TR",
     "type": "replace",
-    "id": "c992c58f1040d8b0",
+    "id": "2267615a3b4926d0",
     "source_a_region": [
-      "δυναμιν",
-      "ενδυσησθε"
+      "ην",
+      "του",
+      "λαου"
     ],
     "source_b_region": [
-      "ενδυσησθε",
-      "δυναμιν"
+      "του",
+      "λαου",
+      "ην"
     ],
     "source_a_start_reference": [
-      24,
-      49
+      1,
+      10
     ],
     "source_a_end_reference": [
-      24,
-      49
+      1,
+      10
     ],
     "source_b_start_reference": [
-      24,
-      49
+      1,
+      10
     ],
     "source_b_end_reference": [
-      24,
-      49
+      1,
+      10
     ],
     "source_a_context_before": [
-      "τη",
-      "πολει",
-      "ιερουσαλημ",
-      "εως",
-      "ου"
+      "κυριου",
+      "και",
+      "παν",
+      "το",
+      "πληθος"
     ],
     "source_a_context_after": [
-      "εξ",
-      "υψους",
-      "εξηγαγεν",
-      "δε",
-      "αυτους"
+      "προσευχομενον",
+      "εξω",
+      "τη",
+      "ωρα",
+      "του"
     ],
     "source_b_context_before": [
-      "τη",
-      "πολει",
-      "ιερουσαλημ",
-      "εως",
-      "ου"
+      "κυριου",
+      "και",
+      "παν",
+      "το",
+      "πληθος"
     ],
     "source_b_context_after": [
-      "εξ",
-      "υψους",
-      "εξηγαγεν",
-      "δε",
-      "αυτους"
+      "προσευχομενον",
+      "εξω",
+      "τη",
+      "ωρα",
+      "του"
     ]
   },
   {
@@ -299321,6 +298955,65 @@
       "ανθρωπος",
       "ουτος",
       "δικαιος"
+    ]
+  },
+  {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "type": "replace",
+    "id": "369ff107c55bcf65",
+    "source_a_region": [
+      "ην",
+      "αγιον"
+    ],
+    "source_b_region": [
+      "αγιον",
+      "ην"
+    ],
+    "source_a_start_reference": [
+      2,
+      25
+    ],
+    "source_a_end_reference": [
+      2,
+      25
+    ],
+    "source_b_start_reference": [
+      2,
+      25
+    ],
+    "source_b_end_reference": [
+      2,
+      25
+    ],
+    "source_a_context_before": [
+      "παρακλησιν",
+      "του",
+      "ισραηλ",
+      "και",
+      "πνευμα"
+    ],
+    "source_a_context_after": [
+      "επ",
+      "αυτον",
+      "και",
+      "ην",
+      "αυτω"
+    ],
+    "source_b_context_before": [
+      "παρακλησιν",
+      "του",
+      "ισραηλ",
+      "και",
+      "πνευμα"
+    ],
+    "source_b_context_after": [
+      "επ",
+      "αυτον",
+      "και",
+      "ην",
+      "αυτω"
     ]
   },
   {
@@ -302290,63 +301983,6 @@
     "source_a": "GHT",
     "source_b": "TR",
     "type": "replace",
-    "id": "d373a238da638990",
-    "source_a_region": [
-      "παρεξη"
-    ],
-    "source_b_region": [
-      "παρεξει"
-    ],
-    "source_a_start_reference": [
-      7,
-      4
-    ],
-    "source_a_end_reference": [
-      7,
-      4
-    ],
-    "source_b_start_reference": [
-      7,
-      4
-    ],
-    "source_b_end_reference": [
-      7,
-      4
-    ],
-    "source_a_context_before": [
-      "λεγοντες",
-      "οτι",
-      "αξιος",
-      "εστιν",
-      "ω"
-    ],
-    "source_a_context_after": [
-      "τουτο",
-      "αγαπα",
-      "γαρ",
-      "το",
-      "εθνος"
-    ],
-    "source_b_context_before": [
-      "λεγοντες",
-      "οτι",
-      "αξιος",
-      "εστιν",
-      "ω"
-    ],
-    "source_b_context_after": [
-      "τουτο",
-      "αγαπα",
-      "γαρ",
-      "το",
-      "εθνος"
-    ]
-  },
-  {
-    "book": "LUK",
-    "source_a": "GHT",
-    "source_b": "TR",
-    "type": "replace",
     "id": "13080c24b461ba4d",
     "source_a_region": [
       "μονογενης",
@@ -303329,13 +302965,11 @@
     "source_a": "GHT",
     "source_b": "TR",
     "type": "replace",
-    "id": "3dd91b71171be255",
+    "id": "3e278d679a5088b8",
     "source_a_region": [
-      "θυγατηρ",
-      "θαρσει"
+      "θυγατηρ"
     ],
     "source_b_region": [
-      "θαρσει",
       "θυγατερ"
     ],
     "source_a_start_reference": [
@@ -303355,11 +302989,11 @@
       48
     ],
     "source_a_context_before": [
-      "παραχρημα",
       "ο",
       "δε",
       "ειπεν",
-      "αυτη"
+      "αυτη",
+      "θαρσει"
     ],
     "source_a_context_after": [
       "η",
@@ -303369,11 +303003,11 @@
       "σε"
     ],
     "source_b_context_before": [
-      "παραχρημα",
       "ο",
       "δε",
       "ειπεν",
-      "αυτη"
+      "αυτη",
+      "θαρσει"
     ],
     "source_b_context_after": [
       "η",
@@ -304364,6 +303998,69 @@
     "source_a": "GHT",
     "source_b": "TR",
     "type": "replace",
+    "id": "957fe4ee4483ba61",
+    "source_a_region": [
+      "ο",
+      "ιησους",
+      "προς",
+      "αυτον"
+    ],
+    "source_b_region": [
+      "προς",
+      "αυτον",
+      "ο",
+      "ιησους"
+    ],
+    "source_a_start_reference": [
+      9,
+      62
+    ],
+    "source_a_end_reference": [
+      9,
+      62
+    ],
+    "source_b_start_reference": [
+      9,
+      62
+    ],
+    "source_b_end_reference": [
+      9,
+      62
+    ],
+    "source_a_context_before": [
+      "τον",
+      "οικον",
+      "μου",
+      "ειπεν",
+      "δε"
+    ],
+    "source_a_context_after": [
+      "ουδεις",
+      "επιβαλων",
+      "την",
+      "χειρα",
+      "αυτου"
+    ],
+    "source_b_context_before": [
+      "τον",
+      "οικον",
+      "μου",
+      "ειπεν",
+      "δε"
+    ],
+    "source_b_context_after": [
+      "ουδεις",
+      "επιβαλων",
+      "την",
+      "χειρα",
+      "αυτου"
+    ]
+  },
+  {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "type": "replace",
     "id": "f30427b54b4553c1",
     "source_a_region": [
       "ημελλεν"
@@ -304528,65 +304225,6 @@
       "μηδε",
       "υποδηματα",
       "και"
-    ]
-  },
-  {
-    "book": "LUK",
-    "source_a": "GHT",
-    "source_b": "TR",
-    "type": "replace",
-    "id": "a78a1339a48ff53a",
-    "source_a_region": [
-      "εισερχησθε",
-      "οικιαν"
-    ],
-    "source_b_region": [
-      "οικιαν",
-      "εισερχησθε"
-    ],
-    "source_a_start_reference": [
-      10,
-      5
-    ],
-    "source_a_end_reference": [
-      10,
-      5
-    ],
-    "source_b_start_reference": [
-      10,
-      5
-    ],
-    "source_b_end_reference": [
-      10,
-      5
-    ],
-    "source_a_context_before": [
-      "ασπασησθε",
-      "εις",
-      "ην",
-      "δ",
-      "αν"
-    ],
-    "source_a_context_after": [
-      "πρωτον",
-      "λεγετε",
-      "ειρηνη",
-      "τω",
-      "οικω"
-    ],
-    "source_b_context_before": [
-      "ασπασησθε",
-      "εις",
-      "ην",
-      "δ",
-      "αν"
-    ],
-    "source_b_context_after": [
-      "πρωτον",
-      "λεγετε",
-      "ειρηνη",
-      "τω",
-      "οικω"
     ]
   },
   {
@@ -306107,65 +305745,6 @@
       "τι",
       "απολογησησθε",
       "η"
-    ]
-  },
-  {
-    "book": "LUK",
-    "source_a": "GHT",
-    "source_b": "TR",
-    "type": "replace",
-    "id": "68870de3a857291c",
-    "source_a_region": [
-      "υμιν",
-      "τουτο"
-    ],
-    "source_b_region": [
-      "τουτο",
-      "υμιν"
-    ],
-    "source_a_start_reference": [
-      12,
-      22
-    ],
-    "source_a_end_reference": [
-      12,
-      22
-    ],
-    "source_b_start_reference": [
-      12,
-      22
-    ],
-    "source_b_end_reference": [
-      12,
-      22
-    ],
-    "source_a_context_before": [
-      "προς",
-      "τους",
-      "μαθητας",
-      "αυτου",
-      "δια"
-    ],
-    "source_a_context_after": [
-      "λεγω",
-      "μη",
-      "μεριμνατε",
-      "τη",
-      "ψυχη"
-    ],
-    "source_b_context_before": [
-      "προς",
-      "τους",
-      "μαθητας",
-      "αυτου",
-      "δια"
-    ],
-    "source_b_context_after": [
-      "λεγω",
-      "μη",
-      "μεριμνατε",
-      "τη",
-      "ψυχη"
     ]
   },
   {
@@ -309575,6 +309154,120 @@
     "source_a": "GHT",
     "source_b": "TR",
     "type": "replace",
+    "id": "29336b67b1b4906d",
+    "source_a_region": [
+      "εκγαμιζονται"
+    ],
+    "source_b_region": [
+      "εκγαμισκονται"
+    ],
+    "source_a_start_reference": [
+      20,
+      34
+    ],
+    "source_a_end_reference": [
+      20,
+      34
+    ],
+    "source_b_start_reference": [
+      20,
+      34
+    ],
+    "source_b_end_reference": [
+      20,
+      34
+    ],
+    "source_a_context_before": [
+      "του",
+      "αιωνος",
+      "τουτου",
+      "γαμουσιν",
+      "και"
+    ],
+    "source_a_context_after": [
+      "οι",
+      "δε",
+      "καταξιωθεντες",
+      "του",
+      "αιωνος"
+    ],
+    "source_b_context_before": [
+      "του",
+      "αιωνος",
+      "τουτου",
+      "γαμουσιν",
+      "και"
+    ],
+    "source_b_context_after": [
+      "οι",
+      "δε",
+      "καταξιωθεντες",
+      "του",
+      "αιωνος"
+    ]
+  },
+  {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "type": "replace",
+    "id": "220f571fdb213d14",
+    "source_a_region": [
+      "εκγαμιζονται"
+    ],
+    "source_b_region": [
+      "εκγαμισκονται"
+    ],
+    "source_a_start_reference": [
+      20,
+      35
+    ],
+    "source_a_end_reference": [
+      20,
+      35
+    ],
+    "source_b_start_reference": [
+      20,
+      35
+    ],
+    "source_b_end_reference": [
+      20,
+      35
+    ],
+    "source_a_context_before": [
+      "εκ",
+      "νεκρων",
+      "ουτε",
+      "γαμουσιν",
+      "ουτε"
+    ],
+    "source_a_context_after": [
+      "ουτε",
+      "γαρ",
+      "αποθανειν",
+      "ετι",
+      "δυνανται"
+    ],
+    "source_b_context_before": [
+      "εκ",
+      "νεκρων",
+      "ουτε",
+      "γαμουσιν",
+      "ουτε"
+    ],
+    "source_b_context_after": [
+      "ουτε",
+      "γαρ",
+      "αποθανειν",
+      "ετι",
+      "δυνανται"
+    ]
+  },
+  {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "type": "replace",
     "id": "e0f1ce404f0450ef",
     "source_a_region": [
       "δαυιδ",
@@ -311765,65 +311458,6 @@
     "source_a": "GHT",
     "source_b": "TR",
     "type": "replace",
-    "id": "9db1d56092a4defa",
-    "source_a_region": [
-      "δυναμιν",
-      "ενδυσησθε"
-    ],
-    "source_b_region": [
-      "ενδυσησθε",
-      "δυναμιν"
-    ],
-    "source_a_start_reference": [
-      24,
-      49
-    ],
-    "source_a_end_reference": [
-      24,
-      49
-    ],
-    "source_b_start_reference": [
-      24,
-      49
-    ],
-    "source_b_end_reference": [
-      24,
-      49
-    ],
-    "source_a_context_before": [
-      "τη",
-      "πολει",
-      "ιερουσαλημ",
-      "εως",
-      "ου"
-    ],
-    "source_a_context_after": [
-      "εξ",
-      "υψους",
-      "εξηγαγεν",
-      "δε",
-      "αυτους"
-    ],
-    "source_b_context_before": [
-      "τη",
-      "πολει",
-      "ιερουσαλημ",
-      "εως",
-      "ου"
-    ],
-    "source_b_context_after": [
-      "εξ",
-      "υψους",
-      "εξηγαγεν",
-      "δε",
-      "αυτους"
-    ]
-  },
-  {
-    "book": "LUK",
-    "source_a": "GHT",
-    "source_b": "TR",
-    "type": "replace",
     "id": "dbdfb2c5a2f4c24d",
     "source_a_region": [
       "δια",
@@ -312161,67 +311795,6 @@
       "εἰσελθὼν",
       "εἰς",
       "τὸν"
-    ]
-  },
-  {
-    "book": "LUK",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "type": "replace",
-    "id": "e0766dcf6a82c412",
-    "source_a_region": [
-      "του",
-      "λαου",
-      "ην"
-    ],
-    "source_b_region": [
-      "ἦν",
-      "τοῦ",
-      "λαοῦ"
-    ],
-    "source_a_start_reference": [
-      1,
-      10
-    ],
-    "source_a_end_reference": [
-      1,
-      10
-    ],
-    "source_b_start_reference": [
-      1,
-      10
-    ],
-    "source_b_end_reference": [
-      1,
-      10
-    ],
-    "source_a_context_before": [
-      "κυριου",
-      "και",
-      "παν",
-      "το",
-      "πληθος"
-    ],
-    "source_a_context_after": [
-      "προσευχομενον",
-      "εξω",
-      "τη",
-      "ωρα",
-      "του"
-    ],
-    "source_b_context_before": [
-      "Κυρίου",
-      "Καὶ",
-      "πᾶν",
-      "τὸ",
-      "πλῆθος"
-    ],
-    "source_b_context_after": [
-      "προσευχόμενον",
-      "ἔξω",
-      "τῇ",
-      "ὥρᾳ",
-      "τοῦ"
     ]
   },
   {
@@ -314835,65 +314408,6 @@
       "ᾧ",
       "ὄνομα",
       "Συμεών"
-    ]
-  },
-  {
-    "book": "LUK",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "type": "replace",
-    "id": "be4e077fc544bde2",
-    "source_a_region": [
-      "αγιον",
-      "ην"
-    ],
-    "source_b_region": [
-      "ἦν",
-      "Ἅγιον"
-    ],
-    "source_a_start_reference": [
-      2,
-      25
-    ],
-    "source_a_end_reference": [
-      2,
-      25
-    ],
-    "source_b_start_reference": [
-      2,
-      25
-    ],
-    "source_b_end_reference": [
-      2,
-      25
-    ],
-    "source_a_context_before": [
-      "παρακλησιν",
-      "του",
-      "ισραηλ",
-      "και",
-      "πνευμα"
-    ],
-    "source_a_context_after": [
-      "επ",
-      "αυτον",
-      "και",
-      "ην",
-      "αυτω"
-    ],
-    "source_b_context_before": [
-      "παράκλησιν",
-      "τοῦ",
-      "Ἰσραήλ",
-      "καὶ",
-      "Πνεῦμα"
-    ],
-    "source_b_context_after": [
-      "ἐπʼ",
-      "αὐτόν",
-      "Καὶ",
-      "ἦν",
-      "αὐτῷ"
     ]
   },
   {
@@ -324131,6 +323645,63 @@
     "book": "LUK",
     "source_a": "GHT",
     "source_b": "SR",
+    "type": "replace",
+    "id": "13aad127603487e5",
+    "source_a_region": [
+      "παρεξει"
+    ],
+    "source_b_region": [
+      "παρέξῃ"
+    ],
+    "source_a_start_reference": [
+      7,
+      4
+    ],
+    "source_a_end_reference": [
+      7,
+      4
+    ],
+    "source_b_start_reference": [
+      7,
+      4
+    ],
+    "source_b_end_reference": [
+      7,
+      4
+    ],
+    "source_a_context_before": [
+      "λεγοντες",
+      "οτι",
+      "αξιος",
+      "εστιν",
+      "ω"
+    ],
+    "source_a_context_after": [
+      "τουτο",
+      "αγαπα",
+      "γαρ",
+      "το",
+      "εθνος"
+    ],
+    "source_b_context_before": [
+      "λέγοντες",
+      "ὅτι",
+      "Ἄξιός",
+      "ἐστιν",
+      "ᾧ"
+    ],
+    "source_b_context_after": [
+      "τοῦτο",
+      "ἀγαπᾷ",
+      "γὰρ",
+      "τὸ",
+      "ἔθνος"
+    ]
+  },
+  {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "SR",
     "type": "delete",
     "id": "afdd119227345e6d",
     "source_a_region": [
@@ -328109,10 +327680,10 @@
     "source_a": "GHT",
     "source_b": "SR",
     "type": "replace",
-    "id": "f3518e6986d00f6f",
+    "id": "31dfe963a64ae2dd",
     "source_a_region": [
-      "θυγατηρ",
-      "θαρσει"
+      "θαρσει",
+      "θυγατηρ"
     ],
     "source_b_region": [
       "Θύγατερ"
@@ -331595,7 +331166,7 @@
     "source_a": "GHT",
     "source_b": "SR",
     "type": "delete",
-    "id": "7a1cbd164edeea14",
+    "id": "28f5a9f279c1402a",
     "source_a_region": [
       "προς",
       "αυτον"
@@ -331618,32 +331189,32 @@
       62
     ],
     "source_a_context_before": [
-      "τον",
-      "οικον",
       "μου",
       "ειπεν",
-      "δε"
+      "δε",
+      "ο",
+      "ιησους"
     ],
     "source_a_context_after": [
-      "ο",
-      "ιησους",
       "ουδεις",
       "επιβαλων",
-      "την"
+      "την",
+      "χειρα",
+      "αυτου"
     ],
     "source_b_context_before": [
-      "τὸν",
-      "οἶκόν",
       "μου",
       "Εἶπεν",
-      "δὲ"
+      "δὲ",
+      "ὁ",
+      "Ἰησοῦς"
     ],
     "source_b_context_after": [
-      "ὁ",
-      "Ἰησοῦς",
       "Οὐδεὶς",
       "ἐπιβαλὼν",
-      "τὴν"
+      "τὴν",
+      "χεῖρα",
+      "αὐτοῦ"
     ]
   },
   {
@@ -332000,12 +331571,14 @@
     "source_a": "GHT",
     "source_b": "SR",
     "type": "replace",
-    "id": "29d4aaa5a3ffa195",
+    "id": "247a4d82aa928aca",
     "source_a_region": [
+      "οικιαν",
       "εισερχησθε"
     ],
     "source_b_region": [
-      "εἰσέλθητε"
+      "εἰσέλθητε",
+      "οἰκίαν"
     ],
     "source_a_start_reference": [
       10,
@@ -332031,11 +331604,11 @@
       "αν"
     ],
     "source_a_context_after": [
-      "οικιαν",
       "πρωτον",
       "λεγετε",
       "ειρηνη",
-      "τω"
+      "τω",
+      "οικω"
     ],
     "source_b_context_before": [
       "ἀσπάσησθε",
@@ -332045,11 +331618,11 @@
       "ἂν"
     ],
     "source_b_context_after": [
-      "οἰκίαν",
       "πρῶτον",
       "λέγετε",
       "Εἰρήνη",
-      "τῷ"
+      "τῷ",
+      "οἴκῳ"
     ]
   },
   {
@@ -336332,12 +335905,12 @@
     "source_a": "GHT",
     "source_b": "SR",
     "type": "replace",
-    "id": "54273064211fc8c2",
+    "id": "5238ab07baf0d702",
     "source_a_region": [
       "αυτου",
       "δια",
-      "υμιν",
       "τουτο",
+      "υμιν",
       "λεγω"
     ],
     "source_b_region": [
@@ -351033,9 +350606,9 @@
     "source_a": "GHT",
     "source_b": "SR",
     "type": "replace",
-    "id": "68d9bfd6d93410f4",
+    "id": "8f92a6ca9fa877e6",
     "source_a_region": [
-      "εκγαμισκονται"
+      "εκγαμιζονται"
     ],
     "source_b_region": [
       "γαμίσκονται"
@@ -351090,9 +350663,9 @@
     "source_a": "GHT",
     "source_b": "SR",
     "type": "replace",
-    "id": "24ee6a6a4412f094",
+    "id": "a87fee3b8f3b2a6c",
     "source_a_region": [
-      "εκγαμισκονται",
+      "εκγαμιζονται",
       "ουτε"
     ],
     "source_b_region": [
@@ -361293,13 +360866,13 @@
     "source_a": "GHT",
     "source_b": "SR",
     "type": "replace",
-    "id": "139ed07963648391",
+    "id": "a038286f3688abe4",
     "source_a_region": [
       "ιερουσαλημ",
       "εως",
       "ου",
-      "δυναμιν",
       "ενδυσησθε",
+      "δυναμιν",
       "εξ",
       "υψους",
       "εξηγαγεν",
@@ -900152,11 +899725,20 @@
     "book": "1CO",
     "source_a": "GHT",
     "source_b": "RP",
-    "type": "insert",
-    "id": "60bd2ee738428118",
-    "source_a_region": [],
+    "type": "replace",
+    "id": "25bcdf5a86001e04",
+    "source_a_region": [
+      "ουδε",
+      "η",
+      "φυσις",
+      "αυτη"
+    ],
     "source_b_region": [
-      "η"
+      "η",
+      "ουδε",
+      "αυτη",
+      "η",
+      "φυσις"
     ],
     "source_a_start_reference": [
       11,
@@ -900175,32 +899757,32 @@
       14
     ],
     "source_a_context_before": [
+      "γυναικα",
+      "ακατακαλυπτον",
+      "τω",
       "θεω",
-      "προσευχεσθαι",
-      "η",
-      "ουδε",
-      "αυτη"
+      "προσευχεσθαι"
     ],
     "source_a_context_after": [
-      "φυσις",
       "διδασκει",
       "υμας",
       "οτι",
-      "ανηρ"
+      "ανηρ",
+      "μεν"
     ],
     "source_b_context_before": [
+      "γυναικα",
+      "ακατακαλυπτον",
+      "τω",
       "θεω",
-      "προσευχεσθαι",
-      "η",
-      "ουδε",
-      "αυτη"
+      "προσευχεσθαι"
     ],
     "source_b_context_after": [
-      "φυσις",
       "διδασκει",
       "υμας",
       "οτι",
-      "ανηρ"
+      "ανηρ",
+      "μεν"
     ]
   },
   {
@@ -909129,11 +908711,20 @@
     "book": "1CO",
     "source_a": "GHT",
     "source_b": "TR",
-    "type": "insert",
-    "id": "d5957d23f966c4e4",
-    "source_a_region": [],
+    "type": "replace",
+    "id": "0d01942b57b7b15d",
+    "source_a_region": [
+      "ουδε",
+      "η",
+      "φυσις",
+      "αυτη"
+    ],
     "source_b_region": [
-      "η"
+      "η",
+      "ουδε",
+      "αυτη",
+      "η",
+      "φυσις"
     ],
     "source_a_start_reference": [
       11,
@@ -909152,32 +908743,32 @@
       14
     ],
     "source_a_context_before": [
+      "γυναικα",
+      "ακατακαλυπτον",
+      "τω",
       "θεω",
-      "προσευχεσθαι",
-      "η",
-      "ουδε",
-      "αυτη"
+      "προσευχεσθαι"
     ],
     "source_a_context_after": [
-      "φυσις",
       "διδασκει",
       "υμας",
       "οτι",
-      "ανηρ"
+      "ανηρ",
+      "μεν"
     ],
     "source_b_context_before": [
+      "γυναικα",
+      "ακατακαλυπτον",
+      "τω",
       "θεω",
-      "προσευχεσθαι",
-      "η",
-      "ουδε",
-      "αυτη"
+      "προσευχεσθαι"
     ],
     "source_b_context_after": [
-      "φυσις",
       "διδασκει",
       "υμας",
       "οτι",
-      "ανηρ"
+      "ανηρ",
+      "μεν"
     ]
   },
   {
@@ -918357,69 +917948,6 @@
       "δόξα",
       "ἀνδρός",
       "ἐστιν"
-    ]
-  },
-  {
-    "book": "1CO",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "type": "replace",
-    "id": "dce1e1442b83a6b4",
-    "source_a_region": [
-      "η",
-      "ουδε",
-      "αυτη",
-      "φυσις"
-    ],
-    "source_b_region": [
-      "Οὐδὲ",
-      "ἡ",
-      "φύσις",
-      "αὐτὴ"
-    ],
-    "source_a_start_reference": [
-      11,
-      14
-    ],
-    "source_a_end_reference": [
-      11,
-      14
-    ],
-    "source_b_start_reference": [
-      11,
-      14
-    ],
-    "source_b_end_reference": [
-      11,
-      14
-    ],
-    "source_a_context_before": [
-      "γυναικα",
-      "ακατακαλυπτον",
-      "τω",
-      "θεω",
-      "προσευχεσθαι"
-    ],
-    "source_a_context_after": [
-      "διδασκει",
-      "υμας",
-      "οτι",
-      "ανηρ",
-      "μεν"
-    ],
-    "source_b_context_before": [
-      "γυναῖκα",
-      "ἀκατακάλυπτον",
-      "τῷ",
-      "Θεῷ",
-      "προσεύχεσθαι"
-    ],
-    "source_b_context_after": [
-      "διδάσκει",
-      "ὑμᾶς",
-      "ὅτι",
-      "ἀνὴρ",
-      "μὲν"
     ]
   },
   {

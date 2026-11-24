@@ -9311,50 +9311,6 @@
     "words_removed": 0,
     "words_swapped": 0
   },
-  "ceb0f12908e19046": {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "reused",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 1,
-    "words_swapped": 0
-  },
-  "be1056e184e204ee": {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "reused",
-    "transpositions": 1,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 0
-  },
-  "dcdef15895c56177": {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "reused",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "4ecaae8ddb9d846e": {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "reused",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 1
-  },
   "30a328ad9cd8310f": {
     "book": "MAT",
     "source_a": "GHT",
@@ -17293,6 +17249,1730 @@
     "words_swapped": 0,
     "linked_to": "bc1db511f6cd18cb"
   },
+  "c0fa12d0b95bf604": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 0,
+    "linked_to": "49ec8095e7327d7a"
+  },
+  "b993e04e54900e0e": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 0,
+    "linked_to": "a5f6c032cc714684"
+  },
+  "4c9cd90c3437d689": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "a098502105205331": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 0
+  },
+  "358775c5b9c2946a": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "670d96ffb07aa464": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 2
+  },
+  "c7e3fa3ca4d26daa": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "80a009d0b4d1104e": {
+    "book": "MRK",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "reused",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 0,
+    "linked_to": "a60caad6bede8531"
+  },
+  "a60caad6bede8531": {
+    "book": "MRK",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "reused",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 0,
+    "linked_to": "80a009d0b4d1104e"
+  },
+  "234877fbde898849": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 0
+  },
+  "a86048e321d2176b": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "b60bf10b5a594c2a": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 3,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "4577fa9fa6b5d58b": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "0dcbbf6771215eea": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 2,
+    "words_swapped": 4
+  },
+  "74b5732ebee43df8": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "e43c03d7fcadbc62": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 1
+  },
+  "3b3be4e92e04e17b": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "b08604c79c1246e6": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 3
+  },
+  "d2b86678877bddf4": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 1,
+    "words_removed": 1,
+    "words_swapped": 0
+  },
+  "072635645ba07703": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 0
+  },
+  "452ba31edbef38d1": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 2,
+    "words_removed": 2,
+    "words_swapped": 1
+  },
+  "d94da45cf5e1ac25": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "01a7da85cbbaf928": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 2,
+    "words_swapped": 1
+  },
+  "f50985ee6e6512e1": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "b4b7942244fa67fc": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 3
+  },
+  "49ec8095e7327d7a": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1,
+    "linked_to": "c0fa12d0b95bf604"
+  },
+  "7e49b975d4942e90": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "cf0a8b1a77aa0e2e": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "ac33bcb187450df6": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 1,
+    "words_swapped": 3
+  },
+  "6c4bccb885a5d89b": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 3,
+    "words_added": 0,
+    "words_removed": 3,
+    "words_swapped": 3
+  },
+  "79551583988b2383": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 5,
+    "words_swapped": 1
+  },
+  "82683eb92c825f12": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 4,
+    "words_swapped": 0
+  },
+  "483380965ad733f3": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 2,
+    "words_removed": 4,
+    "words_swapped": 0
+  },
+  "844e1cfa36a08fb0": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 2,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "f15d27db5b6b4fd2": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 3,
+    "words_swapped": 1
+  },
+  "4fd03e1a225a2a97": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "0cc844c968f74c01": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 6,
+    "words_swapped": 1
+  },
+  "eab6bca0c76e8579": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 1
+  },
+  "9364741cf52569b2": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 0
+  },
+  "fe1cf841a1e846d3": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 1
+  },
+  "f4b2e5c2fcc5c91f": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 6,
+    "words_swapped": 0
+  },
+  "b0ec64e6e5a492ff": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 2,
+    "words_swapped": 0
+  },
+  "47660c3878111e61": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 0
+  },
+  "d05c1dc91574f57a": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "038a13c9bae21216": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 2,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "e9168c6e6fa2f469": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 2,
+    "words_swapped": 1
+  },
+  "c74a79f55f8dccd4": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "eaa1b53a80f96673": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "1581f022c745cc1b": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "57260dd46331b46d": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "b9c971d8611c4aab": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 3,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "88738348b668eb7e": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 2,
+    "words_swapped": 4
+  },
+  "201d39bdc22a5db3": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 3
+  },
+  "55397f68883d5bf9": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 0
+  },
+  "7821c4fca435ea0d": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "a5f6c032cc714684": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1,
+    "linked_to": "b993e04e54900e0e"
+  },
+  "40e7a8603ff4d31e": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "57b27384f9aa4ad0": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 4,
+    "words_swapped": 0
+  },
+  "64ce7aaf1164f1b8": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 3,
+    "words_swapped": 1
+  },
+  "1728a7517e81fb03": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "6e58060aae4bd93b": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 6,
+    "words_swapped": 1
+  },
+  "58a3dc1d33b5f2cd": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 1
+  },
+  "0ae15b17a53e4cd1": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 6,
+    "words_swapped": 0
+  },
+  "5d1005a00f0e8de7": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 2,
+    "words_swapped": 0
+  },
+  "5c6ee791940b829b": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "f0a2a2ffa7c64458": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "6e4a1a8210a86656": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "e56fb4969badb1f7": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "388a4d9d69a685ab": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "33d090949c1e26a8": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 2,
+    "words_swapped": 3
+  },
+  "9462c7b26db4cc87": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 5,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "19895f85a54421b7": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 2,
+    "words_swapped": 1
+  },
+  "6fa679eeba089b72": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 4
+  },
+  "dd6130808abf4091": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "0a3fc64a7984e186": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 3
+  },
+  "388a85f58546103b": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 0
+  },
+  "cb59b816820d78fe": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "c19c7f49416a8997": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "d881fd125781c2f1": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 2
+  },
+  "fc8ac6a3e4e5d8e4": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 0
+  },
+  "ea6b18a39c600991": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 3,
+    "words_swapped": 0
+  },
+  "9da551dd8baf5f8c": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "f90e77bdf296c357": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "b9283d6c582b4dcb": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 2
+  },
+  "5cf43cd61c415fbc": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 3,
+    "words_swapped": 0
+  },
+  "f47656a45f5b2db0": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 2,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "a5eb6dfd2718449c": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "2ddbb57663295de7": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "0cfef51237f38a52": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 2,
+    "words_swapped": 0
+  },
+  "f919046b268d5d1d": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 2,
+    "words_swapped": 2
+  },
+  "09996562daedcade": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "9c6283f363261abd": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "e8226f9600f6a978": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 1,
+    "words_removed": 1,
+    "words_swapped": 2
+  },
+  "079d56c1ca0ecfb5": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 3,
+    "words_swapped": 0
+  },
+  "aa21eaa77b2646b9": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "70b3d11d0640e27e": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 0
+  },
+  "d3361f35642074b4": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 6,
+    "words_swapped": 1
+  },
+  "bd50d4d34e370f49": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "b83c54caf343f97c": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 3,
+    "words_added": 1,
+    "words_removed": 5,
+    "words_swapped": 1
+  },
+  "6e4deb890ee77fcf": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 0
+  },
+  "bb455a563b3b2335": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 0
+  },
+  "a2d8fe4d4926a081": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "96802c1f7631cad8": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "21a720e309d8d6d0": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "456dcb6119353116": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "9104422d25870da6": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "e8a640fcfaaa63ce": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "847b397ee62a4b91": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 3
+  },
+  "877630555fd56e47": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "1f00d7d785ed8710": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 0
+  },
+  "cee88b0234d5b82c": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 0,
+    "linked_to": "9b0758ec0efc38cb"
+  },
+  "9b0758ec0efc38cb": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 3,
+    "words_added": 4,
+    "words_removed": 0,
+    "words_swapped": 1,
+    "linked_to": "cee88b0234d5b82c"
+  },
+  "09bd6418cf709f74": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "a3c221f73d08de09": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 3
+  },
+  "a6798b2f08e3a36e": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "166f2c54e899d2bf": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 0
+  },
+  "2430eee3f8215fac": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "f4a95da181c77381": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "7c6d5ea2ca3b5137": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 3
+  },
+  "cbe23ee1f4c4e7be": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "3b80ca885a65d62a": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 2
+  },
+  "77e05d0133fc9f6b": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 2,
+    "words_removed": 0,
+    "words_swapped": 0
+  },
+  "ae7c27b039098003": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "8d3b2324bdc0574c": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 3
+  },
+  "fe2d7240c6ca4568": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "fa3d42d0c7ffe8a3": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "7616b60b56bac2df": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 2,
+    "words_removed": 0,
+    "words_swapped": 0
+  },
+  "d61ed7ea84014be7": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "28ff8328f1314dcd": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 2
+  },
+  "461b051884ee2df9": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "fbe4539f52c5ac35": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "ea335ad2b068a1f0": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 2
+  },
+  "aa07c25519afbf72": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 3
+  },
+  "1d6c15d9cd01ace3": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 3
+  },
+  "574da6b80ca07ff2": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "137f9f284e954f63": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 3
+  },
+  "58511eb380d4c932": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "06a469f14afbaaca": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 2
+  },
+  "7e863fe80d740a65": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "f60d9a75cfd249b6": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 3
+  },
+  "53ff0143680348d7": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 3
+  },
+  "a4fc9b6099f339f2": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 3
+  },
+  "1f92eb29a84e90c5": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 3
+  },
+  "69b120e86c2e2579": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "b0ccd978db5dc0eb": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 1
+  },
+  "6558d79d858471c6": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 0
+  },
+  "1decd595847367a8": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 2
+  },
+  "63d266d1e6eb2ef8": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 4,
+    "words_swapped": 1
+  },
+  "ee7dd7bfbd95da11": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "c444ec7f81ef6296": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "34b056680bbdae16": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 2,
+    "words_swapped": 0
+  },
+  "22d61bf35ed9cb24": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 1,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 1
+  },
+  "a802ff634d4cd2bd": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "588edfac89b0cfcd": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "56fca1ea5816c71b": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 2,
+    "words_swapped": 0
+  },
+  "eb5ee070dfa68359": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 0
+  },
+  "d7ff77f6dbd781ad": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 2
+  },
+  "f1ef7c08e18dbd20": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "manual",
+    "transpositions": 2
+  },
+  "df2a0564d2ff56af": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "e97d8caa9deac417": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "64815cea550fb015": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 2,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
+  "96f0f000a061f9b3": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "manual",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 2
+  },
   "11602d0d0e421aaf": {
     "book": "MAT",
     "source_a": "GHT",
@@ -18029,17 +19709,6 @@
     "words_removed": 0,
     "words_swapped": 1
   },
-  "33bce879357f4c6b": {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "RP",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
   "cb34390453ec1179": {
     "book": "MAT",
     "source_a": "GHT",
@@ -18052,50 +19721,6 @@
     "words_swapped": 1
   },
   "c88bf14332bd0d0e": {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "RP",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "02c14e5705cf619e": {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "RP",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 0
-  },
-  "9e2e12991a1d4e3b": {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "RP",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "342e7b46b22501ec": {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "RP",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 0
-  },
-  "fc1542ab89f1be5c": {
     "book": "MAT",
     "source_a": "GHT",
     "source_b": "RP",
@@ -21658,17 +23283,6 @@
     "words_removed": 2,
     "words_swapped": 0
   },
-  "ecae996c2c60390c": {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
   "b6d139bddabb3994": {
     "book": "MAT",
     "source_a": "GHT",
@@ -21735,66 +23349,6 @@
     "words_removed": 1,
     "words_swapped": 0
   },
-  "07df379803b10104": {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "stage1_decision": "transposition",
-    "status": "automatic",
-    "transpositions": 1
-  },
-  "260651bc43b7f0f8": {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 0
-  },
-  "d70d831cfe509dde": {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 0
-  },
-  "615127aa473d735d": {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "stage1_decision": "transposition",
-    "status": "automatic",
-    "transpositions": 1
-  },
-  "58181b9f939f37e6": {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 4,
-    "words_swapped": 0
-  },
-  "ea8d159d094fda6b": {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 0
-  },
   "f15a1e2238d8c47e": {
     "book": "MAT",
     "source_a": "GHT",
@@ -21807,28 +23361,6 @@
     "words_swapped": 0
   },
   "558c7c389fdcf37a": {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "d7ebd92d929d9b59": {
-    "book": "MAT",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "2bc7510d328c30bd": {
     "book": "MAT",
     "source_a": "GHT",
     "source_b": "SR",
@@ -41576,18 +43108,6 @@
     "words_removed": 0,
     "words_swapped": 1
   },
-  "c0fa12d0b95bf604": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 0,
-    "linked_to": "49ec8095e7327d7a"
-  },
   "60c436745d051c8a": {
     "book": "MRK",
     "source_a": "RP",
@@ -42623,6 +44143,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "c9593821ed2f8425": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "d1c26abec3c49777": {
     "book": "MRK",
     "source_a": "RP",
@@ -42773,6 +44304,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "a2eb17e4d4c46d00": {
+    "book": "MRK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "876297bad8377819": {
     "book": "MRK",
@@ -44755,18 +46297,6 @@
     "words_removed": 0,
     "words_swapped": 1
   },
-  "b993e04e54900e0e": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 0,
-    "linked_to": "a5f6c032cc714684"
-  },
   "a4145e98ffa46f56": {
     "book": "MRK",
     "source_a": "TR",
@@ -45616,6 +47146,17 @@
     "status": "automatic",
     "transpositions": 1
   },
+  "80595663000ef666": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "7b332bf99e783eb0": {
     "book": "MRK",
     "source_a": "TR",
@@ -45969,6 +47510,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "2087d8746cb139fc": {
+    "book": "MRK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "e7e3767fc503da49": {
     "book": "MRK",
     "source_a": "TR",
@@ -46057,6 +47609,14 @@
     "words_removed": 166,
     "words_swapped": 0
   },
+  "fd50bca208df54b4": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 2
+  },
   "f9040477b47ed232": {
     "book": "LUK",
     "source_a": "GHT",
@@ -46090,6 +47650,28 @@
     "words_removed": 0,
     "words_swapped": 1
   },
+  "5591a1b947f620a8": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "d584890805baa053": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "4b7d2091567988df": {
     "book": "LUK",
     "source_a": "GHT",
@@ -46112,18 +47694,15 @@
     "words_removed": 0,
     "words_swapped": 0
   },
-  "c0c488047828ee6e": {
+  "107f100faae3d576": {
     "book": "LUK",
     "source_a": "GHT",
     "source_b": "RP",
-    "stage1_decision": "textual_difference",
+    "stage1_decision": "transposition",
     "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 0
+    "transpositions": 1
   },
-  "cee88b0234d5b82c": {
+  "c0c488047828ee6e": {
     "book": "LUK",
     "source_a": "GHT",
     "source_b": "RP",
@@ -46189,6 +47768,14 @@
     "words_removed": 0,
     "words_swapped": 1
   },
+  "2120d588d60b8302": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "e9620ccbfe40d27e": {
     "book": "LUK",
     "source_a": "GHT",
@@ -46211,6 +47798,17 @@
     "words_removed": 2,
     "words_swapped": 0
   },
+  "25eb00f9d4c8f512": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "ce9c2250add19994": {
     "book": "LUK",
     "source_a": "GHT",
@@ -46221,6 +47819,14 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "1c86bafcf9ec0009": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "135ad69ae515eaab": {
     "book": "LUK",
@@ -46244,7 +47850,81 @@
     "words_removed": 0,
     "words_swapped": 1
   },
+  "86fa8b3b30bf79a4": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "126bd33e87c053a0": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 0
+  },
+  "20b8c2598cb428fa": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "e4217d5a96885504": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "17b028ae522886fc": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "2b91a0f9ab544e88": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
+  "f4c8468cfe12ec59": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 0
+  },
+  "fd76f77146787d36": {
     "book": "LUK",
     "source_a": "GHT",
     "source_b": "RP",
@@ -46288,6 +47968,36 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "8bb0c1cbb08121fb": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "d7e488a3e5608912": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "a389d5f9e5d36a24": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "e4169fbb21d63c51": {
     "book": "LUK",
     "source_a": "GHT",
@@ -46300,6 +48010,50 @@
     "words_swapped": 1
   },
   "09ebaef487055bca": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "3d47bdc22edf2341": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "f89d6a89e6329fe9": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "58ed55741729ce72": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "4dc34bdecc30eb19": {
     "book": "LUK",
     "source_a": "GHT",
     "source_b": "RP",
@@ -46343,6 +48097,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "0f221cd9f279d17f": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "de428354d5b4f1b6": {
     "book": "LUK",
     "source_a": "GHT",
@@ -46376,7 +48141,48 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "c69929eb0a20b3ce": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
+  "fb749ee6c018a6b1": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "6b260fbb638f8147": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "9b1fbbc754bf26ad": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "15d0a8b3090b45ab": {
     "book": "LUK",
     "source_a": "GHT",
     "source_b": "RP",
@@ -46409,6 +48215,14 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "a9f2e0c9ca7802fc": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "311e5640ff10aaef": {
     "book": "LUK",
     "source_a": "GHT",
@@ -46420,6 +48234,58 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "d9c2c6fb9b47c298": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "ccc2eb80a0fadc9b": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "0e4d2a38a78b06d3": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "4d5aa9eafd56f93a": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "1c6b9e0eb93d3875": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "2aa9adff22b57db7": {
     "book": "LUK",
     "source_a": "GHT",
@@ -46430,6 +48296,36 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "13d66fbc574ead59": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
+  "64bc2d980281fb4b": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "0ddcc86b87168258": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "c23c94efde236c86": {
     "book": "LUK",
@@ -46452,6 +48348,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "c723d662595b80b3": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "97eda1275f1551d5": {
     "book": "LUK",
@@ -46486,6 +48393,28 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "e78e9fbb1eaa3365": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "997bf423c0767e8c": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "0651ad81ba4a4df1": {
     "book": "LUK",
     "source_a": "GHT",
@@ -46496,6 +48425,50 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "0b53d60a0ea35aad": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "01459aa5a0f32aba": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "456a718dcc685cd2": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "b75c27fba9686f5d": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "e89f9567f58d7ce1": {
     "book": "LUK",
@@ -46508,6 +48481,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "7591a012f68d1ea6": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "68e526e41588814e": {
     "book": "LUK",
     "source_a": "GHT",
@@ -46518,6 +48502,33 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "b7301eb31b364496": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
+  "152dc47604bdf339": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "36d2b3ae9c241d0b": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "6a6daea64f6b7e9f": {
     "book": "LUK",
@@ -46541,6 +48552,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "a81410b1cd89337b": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "58697fb53c520162": {
     "book": "LUK",
     "source_a": "GHT",
@@ -46563,6 +48585,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "7e342335194595b1": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "e9519a522662781c": {
     "book": "LUK",
     "source_a": "GHT",
@@ -46574,6 +48607,17 @@
     "words_removed": 2,
     "words_swapped": 0
   },
+  "62c4567394aa2b6c": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "5aae9d127d963606": {
     "book": "LUK",
     "source_a": "GHT",
@@ -46584,6 +48628,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "5b332d6aa239165f": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "68ce8ae8399c5325": {
     "book": "LUK",
@@ -46618,6 +48673,28 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "cc5a9d29944ef763": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "2185fa8484508731": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "b7bd318b3fcd2e1b": {
     "book": "LUK",
     "source_a": "GHT",
@@ -46650,6 +48727,28 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "ad22aad3527ddcb9": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "1a9457502ecafa2b": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "0813057d5b929d65": {
     "book": "LUK",
@@ -46706,6 +48805,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "120997e760456af6": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "be9441b63dcc64d4": {
     "book": "LUK",
     "source_a": "GHT",
@@ -46716,6 +48826,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "a6b0d9a566ff676b": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "7ecf9f1690a2f9b5": {
     "book": "LUK",
@@ -46738,6 +48859,14 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "7c17483d8f8211f9": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "a3da5a332d3a40bb": {
     "book": "LUK",
@@ -46772,6 +48901,61 @@
     "words_removed": 3,
     "words_swapped": 0
   },
+  "23fbfd62041133ae": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "a2fe3c4c9f9baf90": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "3fae698404da3e05": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "8379a351c51a5561": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "54af92ad42b6faad": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "02e3227d50c7878a": {
     "book": "LUK",
     "source_a": "GHT",
@@ -46782,6 +48966,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "197cd75e88639310": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "02a16ea52e4b4197": {
     "book": "LUK",
@@ -46827,6 +49022,28 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "ba3868f740288b80": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "592a385f31a6d9a3": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "3e80f4f177c51153": {
     "book": "LUK",
     "source_a": "GHT",
@@ -46848,6 +49065,28 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "d8baa02edaefab16": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "1a2e805d489f4d15": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "ca7b44fdcf61e30b": {
     "book": "LUK",
@@ -46893,6 +49132,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "52981ee8c52fdc48": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "fb3289832024d0df": {
     "book": "LUK",
     "source_a": "GHT",
@@ -46914,6 +49164,14 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "27bdb377bb870cfa": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "f3574308c3466114": {
     "book": "LUK",
@@ -46992,6 +49250,14 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "d12bf40064511d3e": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "59dca2b6fcc120d8": {
     "book": "LUK",
     "source_a": "GHT",
@@ -47025,6 +49291,14 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "49b431072b4dddb0": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "cd92b891ef767d40": {
     "book": "LUK",
     "source_a": "GHT",
@@ -47035,6 +49309,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "b0388ac17fc243d1": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "6508e84334653611": {
     "book": "LUK",
@@ -47058,6 +49343,14 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "13080c24b461ba4d": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "610e218683c74a18": {
     "book": "LUK",
     "source_a": "GHT",
@@ -47080,6 +49373,39 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "f5f1bfa6b5412130": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "e5e14b5b3d87e55f": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "3e418d974bb369aa": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "051d11e31aa4196e": {
     "book": "LUK",
     "source_a": "GHT",
@@ -47090,6 +49416,14 @@
     "words_added": 4,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "c2bd787929665150": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "38e5977374bc3c38": {
     "book": "LUK",
@@ -47103,6 +49437,17 @@
     "words_swapped": 1
   },
   "4ac6ae00a8b5da3b": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "383067a4808bcb6b": {
     "book": "LUK",
     "source_a": "GHT",
     "source_b": "TR",
@@ -47157,6 +49502,25 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "047bad9834a4077e": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 0
+  },
+  "1cb086fca8e8c1fe": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "5202b2ef65d05008": {
     "book": "LUK",
     "source_a": "GHT",
@@ -47201,6 +49565,28 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "a2ff89d5c9214a1c": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "631dcf51379167a7": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "103497ba710d32f5": {
     "book": "LUK",
     "source_a": "GHT",
@@ -47234,6 +49620,14 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "0d886302389c7752": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "cf477c475d95678d": {
     "book": "LUK",
     "source_a": "GHT",
@@ -47245,6 +49639,25 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "cb1f7534c8193d98": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "bdbc47c1eafd8ce6": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "08bf469488a4c115": {
     "book": "LUK",
     "source_a": "GHT",
@@ -47255,6 +49668,25 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "eca311b7d80c6971": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
+  "3d5db9f6f314d8ca": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "93bfcbe5ac667df3": {
     "book": "LUK",
@@ -47311,6 +49743,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "1a95d0bd993f45cf": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "a59351dafb9a17b8": {
     "book": "LUK",
     "source_a": "GHT",
@@ -47322,6 +49765,66 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "20428e452f4a3159": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "701a63cb36c5eb6b": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "6ed4ab9e04bc4414": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
+  "1fdeecc3b2cf2628": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "039c2b1947705c49": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
+  "19d01fbb07690192": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "f2fa4b60a3415897": {
     "book": "LUK",
     "source_a": "GHT",
@@ -47332,6 +49835,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "cfbbd52c9bf9ac84": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "a64e6e5f87b7b344": {
     "book": "LUK",
@@ -47399,6 +49913,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "76798fe45c82c689": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "986929303b40cf54": {
     "book": "LUK",
     "source_a": "GHT",
@@ -47421,6 +49946,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "b074527365228547": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "510023429bd52867": {
     "book": "LUK",
     "source_a": "GHT",
@@ -47431,6 +49967,14 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "8fa331205f0e7f3d": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "a74db5452784f21a": {
     "book": "LUK",
@@ -47453,6 +49997,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "d9ae1e270b2b41c5": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "d82b45edcebf5c2b": {
     "book": "LUK",
@@ -47487,6 +50042,39 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "4d4847969f899abb": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "234b16845420ee3a": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "09a1d216e4d41f33": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "ddfdf74f8fc50e47": {
     "book": "LUK",
     "source_a": "GHT",
@@ -47497,6 +50085,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "47a4a34b3f8b9b01": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "c7e5a73200a13e8d": {
     "book": "LUK",
@@ -47773,6 +50372,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "660b275b0b4e7ccc": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "f79a31a8e24d3a92": {
     "book": "LUK",
     "source_a": "GHT",
@@ -48036,6 +50646,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "9a6e0a47a29d8666": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "0bf4bb06166bf012": {
     "book": "LUK",
@@ -48400,6 +51021,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "16883a35bf345371": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "07665ab2d7d2d8a3": {
     "book": "LUK",
     "source_a": "GHT",
@@ -48477,6 +51109,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "138d6ae650e39b56": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 0
+  },
   "af53666110f99997": {
     "book": "LUK",
     "source_a": "GHT",
@@ -48533,17 +51176,6 @@
     "words_swapped": 0
   },
   "5bf91d4d0a5059fd": {
-    "book": "LUK",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 2,
-    "words_swapped": 0
-  },
-  "7a1cbd164edeea14": {
     "book": "LUK",
     "source_a": "GHT",
     "source_b": "SR",
@@ -48730,6 +51362,17 @@
     "words_removed": 6,
     "words_swapped": 0
   },
+  "144d6a700880ebab": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 3,
+    "words_swapped": 0
+  },
   "fa7ee231fc2810f9": {
     "book": "LUK",
     "source_a": "GHT",
@@ -48862,6 +51505,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "80692edf5a94a0f9": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "5194893446353031": {
     "book": "LUK",
     "source_a": "GHT",
@@ -48885,6 +51539,17 @@
     "words_swapped": 0
   },
   "e6763fc445d91fad": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "a70aaf8f3d82cc83": {
     "book": "LUK",
     "source_a": "GHT",
     "source_b": "SR",
@@ -49178,6 +51843,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "61cea3c045f9262c": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "dc6816772b34efab": {
     "book": "LUK",
     "source_a": "GHT",
@@ -49211,6 +51887,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "52f727a604207d08": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "974c3c214ba76ccd": {
     "book": "LUK",
     "source_a": "GHT",
@@ -49243,6 +51930,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "8fd73f91db0157d6": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "b648f8d75e82239c": {
     "book": "LUK",
@@ -49376,6 +52074,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "896e9bc9c715501c": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "09cc8cae47072550": {
     "book": "LUK",
     "source_a": "GHT",
@@ -49397,6 +52106,17 @@
     "words_added": 0,
     "words_removed": 2,
     "words_swapped": 0
+  },
+  "3fb56098e657d9d8": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "aa2090da0177d02a": {
     "book": "LUK",
@@ -49529,6 +52249,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "2db4f254d3dd3baa": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "0629feef84e4cba8": {
     "book": "LUK",
@@ -49937,6 +52668,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "4e1ac6ebfd71bbdc": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "c8648ed287c55baa": {
     "book": "LUK",
     "source_a": "GHT",
@@ -50090,6 +52832,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "2175e327f6ab66db": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "1f4b84b8f4fb6532": {
     "book": "LUK",
@@ -50421,6 +53174,14 @@
     "words_removed": 2,
     "words_swapped": 0
   },
+  "9d1e533fc0a5a5bb": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "93af791a2552b157": {
     "book": "LUK",
     "source_a": "RP",
@@ -50432,6 +53193,14 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "0f0910ec98824c04": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 2
+  },
   "73bf57fed93cbde4": {
     "book": "LUK",
     "source_a": "RP",
@@ -50442,6 +53211,14 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "34aa36e1e4c91916": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "5246e02b0e94c7e3": {
     "book": "LUK",
@@ -50630,6 +53407,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "65069bd75a81d804": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "2a421c793547876f": {
     "book": "LUK",
     "source_a": "RP",
@@ -50695,6 +53483,28 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "31f433aecfa9e4bf": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "c7272f2cd47f4a04": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "54dfc64da6c2394c": {
     "book": "LUK",
@@ -50784,6 +53594,17 @@
     "words_removed": 0,
     "words_swapped": 1
   },
+  "6e3f273a6f4df2f1": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "8085690f83c6c4fc": {
     "book": "LUK",
     "source_a": "RP",
@@ -50794,6 +53615,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "c29ac36ef2987aca": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "5f0fbfc3de28ef04": {
     "book": "LUK",
@@ -50827,6 +53659,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "172beecb73194472": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "34378e956022d70e": {
     "book": "LUK",
@@ -50883,6 +53726,14 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "725ff415f804ea34": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 2
+  },
   "7c7b0aa471140c59": {
     "book": "LUK",
     "source_a": "RP",
@@ -50927,6 +53778,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "9e5991a78bd7f951": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "cc23ed40090fc923": {
     "book": "LUK",
     "source_a": "RP",
@@ -50937,6 +53799,28 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "59fb44b3f4d80fe9": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "17be416ebdcf20dd": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "d68355d722285d06": {
     "book": "LUK",
@@ -50960,6 +53844,39 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "ef3f22e23113a2c5": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "7dee1fe2a6255ae0": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "152d552477b752bc": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "a389a56d38808315": {
     "book": "LUK",
     "source_a": "RP",
@@ -50982,6 +53899,28 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "c70cfd3ae92695d1": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "0f043fa0d4e3e965": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "81fa3485cc0df7aa": {
     "book": "LUK",
     "source_a": "RP",
@@ -50993,6 +53932,17 @@
     "words_removed": 7,
     "words_swapped": 0
   },
+  "1922cf6e8dbb6d12": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "1501d7b5480131af": {
     "book": "LUK",
     "source_a": "RP",
@@ -51003,6 +53953,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "0c7e3037f96ac230": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "c41eda915bdc39c7": {
     "book": "LUK",
@@ -51037,6 +53998,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "1e95ab8b4757c53a": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "bfa250c5d3794fec": {
     "book": "LUK",
     "source_a": "RP",
@@ -51048,6 +54020,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "4cb4870e3cb591d5": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "ef6a69c8455ce137": {
     "book": "LUK",
     "source_a": "RP",
@@ -51058,6 +54041,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "77c9320bc0ee8632": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "c87168d37148a279": {
     "book": "LUK",
@@ -51114,6 +54108,28 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "efaf0097e243eb65": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "e0941143e6b2c9a6": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "41e45f87e5bbb263": {
     "book": "LUK",
     "source_a": "RP",
@@ -51157,6 +54173,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "ba5cc18673e3aff1": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "4eac0504079617e2": {
     "book": "LUK",
@@ -51213,6 +54240,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "e29d2a4810dc9e63": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "1226ae8d89c488a3": {
     "book": "LUK",
     "source_a": "RP",
@@ -51268,6 +54306,50 @@
     "words_removed": 0,
     "words_swapped": 1
   },
+  "0e964019b309e8fd": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "8324259e054dd01b": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "c4dfed606521f5d8": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "259e8547b7654204": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "85d9fc447c98a616": {
     "book": "LUK",
     "source_a": "RP",
@@ -51302,6 +54384,17 @@
     "words_swapped": 0
   },
   "bb85149b2639a589": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "32c0463493d4a9bc": {
     "book": "LUK",
     "source_a": "RP",
     "source_b": "TR",
@@ -51421,6 +54514,14 @@
     "words_added": 0,
     "words_removed": 0,
     "words_swapped": 1
+  },
+  "62d52a9a0d74877f": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 2
   },
   "bb2f2def0c5a4210": {
     "book": "LUK",
@@ -51697,6 +54798,14 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "0a69e82ca090b6b9": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "d04a4434959bc073": {
     "book": "LUK",
     "source_a": "RP",
@@ -51851,6 +54960,14 @@
     "words_removed": 0,
     "words_swapped": 1
   },
+  "8bb077745e2fac44": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "77371e7bdb704263": {
     "book": "LUK",
     "source_a": "RP",
@@ -51884,6 +55001,17 @@
     "words_removed": 2,
     "words_swapped": 0
   },
+  "be060a8181868245": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "190e95747e33f33f": {
     "book": "LUK",
     "source_a": "RP",
@@ -51894,6 +55022,14 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "bdbdd4e0a9302bb0": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "339c4e824aac7bdd": {
     "book": "LUK",
@@ -52027,6 +55163,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "1cc078b5c7c10100": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "b4bf4a596d5e5da3": {
     "book": "LUK",
     "source_a": "RP",
@@ -52038,6 +55185,17 @@
     "words_removed": 2,
     "words_swapped": 0
   },
+  "6273946dfb64153f": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "97d2302e1c737ff1": {
     "book": "LUK",
     "source_a": "RP",
@@ -52048,6 +55206,14 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "375f16cb8ac62b14": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "92b0fefe01304812": {
     "book": "LUK",
@@ -52103,6 +55269,28 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "e573b7fb36f5f2e9": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "5beb550d657f7da9": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "ffc36b4f68d4f242": {
     "book": "LUK",
@@ -52169,6 +55357,14 @@
     "words_added": 0,
     "words_removed": 2,
     "words_swapped": 0
+  },
+  "ca21c27a796904dd": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "488277cfcbf306d3": {
     "book": "LUK",
@@ -52246,6 +55442,28 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "405accd6d8b697f7": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "a11d515717956196": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "68d6c19417c29ced": {
     "book": "LUK",
@@ -52434,6 +55652,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "960586b8091559f9": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "760597f4aea5ca57": {
     "book": "LUK",
     "source_a": "RP",
@@ -52499,6 +55728,14 @@
     "words_added": 0,
     "words_removed": 0,
     "words_swapped": 1
+  },
+  "58fcac95c288bbbc": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "2fd000db193d6771": {
     "book": "LUK",
@@ -52610,6 +55847,17 @@
     "words_removed": 0,
     "words_swapped": 1
   },
+  "353b9f295a8beee3": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "0b02fc90b8f698be": {
     "book": "LUK",
     "source_a": "RP",
@@ -52620,6 +55868,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "c2ebc566a4ac68cb": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "0dcaeeebe71c35d1": {
     "book": "LUK",
@@ -52708,6 +55967,17 @@
     "words_added": 0,
     "words_removed": 4,
     "words_swapped": 0
+  },
+  "b55b83f58374d4cd": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "a5737229c9b10985": {
     "book": "LUK",
@@ -52830,6 +56100,17 @@
     "words_removed": 2,
     "words_swapped": 0
   },
+  "b550b25b4fde8b1b": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "247d4487f1c8841c": {
     "book": "LUK",
     "source_a": "RP",
@@ -52840,6 +56121,25 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "4bfb8b5f0d71ef70": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "6508c9d920df2aea": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "9ff96d3fffcf5902": {
     "book": "LUK",
@@ -52896,6 +56196,14 @@
     "words_removed": 3,
     "words_swapped": 0
   },
+  "1154b94fbec52e9c": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "e0641683a4d8eb9c": {
     "book": "LUK",
     "source_a": "RP",
@@ -52906,6 +56214,39 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "368b4da94871c03c": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "6045ef90fd504e9a": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "f31561418db451b0": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "a9cbcbf7b3a700d1": {
     "book": "LUK",
@@ -53035,6 +56376,17 @@
     "words_added": 0,
     "words_removed": 2,
     "words_swapped": 0
+  },
+  "246766d9dc3e6c14": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "1a9e7ba9fdca9864": {
     "book": "LUK",
@@ -53190,6 +56542,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "0f92de47e4ed8db7": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "57459349795521ef": {
     "book": "LUK",
     "source_a": "RP",
@@ -53223,6 +56586,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "f0f06bb9b905e9cb": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "df65a43aebdb9b19": {
     "book": "LUK",
     "source_a": "RP",
@@ -53233,6 +56607,17 @@
     "words_added": 0,
     "words_removed": 7,
     "words_swapped": 0
+  },
+  "ad99cc9ee41cce3e": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "5879c07ec805d36c": {
     "book": "LUK",
@@ -53256,6 +56641,25 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "3be3fb78c1a04048": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
+  "65fe114423589805": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "d13292e9609c8345": {
     "book": "LUK",
     "source_a": "RP",
@@ -53267,6 +56671,14 @@
     "words_removed": 2,
     "words_swapped": 0
   },
+  "9bb9b46de85b64ae": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "c7ec311d91035502": {
     "book": "LUK",
     "source_a": "RP",
@@ -53277,6 +56689,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "4ca07e2d43e36d53": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "ec3e62a7262aaf55": {
     "book": "LUK",
@@ -53310,6 +56733,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "845757f58c8cb325": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "ff585f03ea05ef5d": {
     "book": "LUK",
@@ -53387,6 +56821,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "b7ec9016b7775a43": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "f0a672b9080472aa": {
     "book": "LUK",
@@ -53541,6 +56986,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "42a9c127f841a849": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "efbf642a2b57edd5": {
     "book": "LUK",
@@ -53773,6 +57229,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "ed55811b7da57530": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "acf3f595c6b241d6": {
     "book": "LUK",
     "source_a": "RP",
@@ -53982,6 +57449,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "aeb3a80d13bd5e65": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "9613875bbbac2393": {
     "book": "LUK",
     "source_a": "RP",
@@ -54003,6 +57481,14 @@
     "words_added": 0,
     "words_removed": 0,
     "words_swapped": 1
+  },
+  "052449208247fc98": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "c186edd9d3481c8a": {
     "book": "LUK",
@@ -54036,6 +57522,28 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "abded9e4bf32579f": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "7572c777e2a5da7d": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "e20bef8029fa14c5": {
     "book": "LUK",
@@ -54091,6 +57599,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "7d2192ce578ed12c": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "8ac3001c96396c1d": {
     "book": "LUK",
@@ -54290,6 +57809,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "2ac75e9cc2e0de47": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "b167c01287b7a40c": {
     "book": "LUK",
     "source_a": "RP",
@@ -54388,6 +57918,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "893255b628731821": {
+    "book": "LUK",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "4bf63a95996a09a8": {
     "book": "LUK",
@@ -54509,6 +58050,14 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "1ced24c7eb4ce5a3": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "1a2ab5f4347b4332": {
     "book": "LUK",
@@ -54652,6 +58201,14 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "62ba64da2c35f725": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "c61980df7da8036b": {
     "book": "LUK",
@@ -54817,6 +58374,14 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "cd00baa33a962bb3": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "0ee1613da4005527": {
     "book": "LUK",
@@ -55016,6 +58581,14 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "866263576f92fb72": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "9415375abfdaaa39": {
     "book": "LUK",
     "source_a": "TR",
@@ -55059,6 +58632,14 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "83c1ca6bf810dd73": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "cad456ec2588928f": {
     "book": "LUK",
@@ -55114,6 +58695,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "23ed81eda48c6450": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "4496108c96205c39": {
     "book": "LUK",
@@ -55214,6 +58806,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "e46aa1f3ae0e16d2": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "608e9acee9eaac26": {
     "book": "LUK",
     "source_a": "TR",
@@ -55235,6 +58838,14 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "5452c8593a389171": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "71fb223a34cd8a49": {
     "book": "LUK",
@@ -55279,6 +58890,39 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "4f7e5383f0ca65f6": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "e783141049dda349": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "ae25ecf02dbdebc8": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "2f0a7ed34eacf54a": {
     "book": "LUK",
@@ -55357,6 +59001,14 @@
     "words_removed": 2,
     "words_swapped": 0
   },
+  "d1cb1d80d25ca6eb": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "226918396da32c05": {
     "book": "LUK",
     "source_a": "TR",
@@ -55422,6 +59074,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "19f56e5e45f6c7c5": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "60abfd180688a879": {
     "book": "LUK",
@@ -55521,6 +59184,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "15be2a101e2afff8": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "1e5c0b5360a1bd49": {
     "book": "LUK",
@@ -55642,6 +59316,14 @@
     "words_added": 0,
     "words_removed": 0,
     "words_swapped": 1
+  },
+  "8763b48e369622da": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "9af6f72692008b17": {
     "book": "LUK",
@@ -55775,6 +59457,17 @@
     "words_removed": 0,
     "words_swapped": 1
   },
+  "69b0e72f415fa4cf": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "c47dc29b93146ced": {
     "book": "LUK",
     "source_a": "TR",
@@ -55785,6 +59478,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "026f04521810d545": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "2f0a351fcf345c8c": {
     "book": "LUK",
@@ -55973,6 +59677,25 @@
     "words_removed": 2,
     "words_swapped": 0
   },
+  "25abc183f94fdd02": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "c3c0abc8d2117a51": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "90197163262c3b5b": {
     "book": "LUK",
     "source_a": "TR",
@@ -56039,6 +59762,14 @@
     "words_removed": 3,
     "words_swapped": 0
   },
+  "13ce403dc52d5dbd": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "f0ae6198bec222c1": {
     "book": "LUK",
     "source_a": "TR",
@@ -56049,6 +59780,28 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "032da26a7c01499f": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "df29952513c82d9f": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "106b9d10689cca2c": {
     "book": "LUK",
@@ -56084,6 +59837,17 @@
     "words_swapped": 0
   },
   "96f22b4b049b9a11": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "dcb1e45404a014d2": {
     "book": "LUK",
     "source_a": "TR",
     "source_b": "SR",
@@ -56189,6 +59953,17 @@
     "words_added": 0,
     "words_removed": 2,
     "words_swapped": 0
+  },
+  "e8e504082792f844": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "449573a317b78bbb": {
     "book": "LUK",
@@ -56333,6 +60108,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "e9fd1f5cebffe45c": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "90af9f2f82b27872": {
     "book": "LUK",
     "source_a": "TR",
@@ -56377,6 +60163,36 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "83f2e24c6b53f5fa": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "dba98d59dfc8c546": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
+  "8d6d2206e0181ab3": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "73965650472a12d0": {
     "book": "LUK",
     "source_a": "TR",
@@ -56388,6 +60204,14 @@
     "words_removed": 2,
     "words_swapped": 0
   },
+  "9196252867c3f661": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "1299bd4986b6b9df": {
     "book": "LUK",
     "source_a": "TR",
@@ -56398,6 +60222,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "38a237e1aca4d00e": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "58fe3d1f3beb6587": {
     "book": "LUK",
@@ -56509,6 +60344,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "4a1a8e6b0ef403d2": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "6eacf63a3492915c": {
     "book": "LUK",
     "source_a": "TR",
@@ -56575,6 +60421,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "e3657bcf3d7a3279": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "555485f928269c2f": {
     "book": "LUK",
     "source_a": "TR",
@@ -56585,6 +60442,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "3f6c221bf5eca02c": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "5d6a9b7a2167a406": {
     "book": "LUK",
@@ -56706,6 +60574,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "9a42d24a36afb7b7": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "abf9765836775e0a": {
     "book": "LUK",
@@ -57081,6 +60960,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "b32791c24d412eb9": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "47f62e77dbd4242d": {
     "book": "LUK",
     "source_a": "TR",
@@ -57102,6 +60992,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "d88aa9fe23778f3c": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "7219b5fb7e2e3f15": {
     "book": "LUK",
@@ -57135,6 +61036,14 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "16bf8c2bfb3d52ca": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "dc312ee001f97f95": {
     "book": "LUK",
@@ -57224,6 +61133,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "aa2bcd0d2d18d371": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "0095fb8aca845f4b": {
     "book": "LUK",
     "source_a": "TR",
@@ -57289,6 +61209,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "99f3376d90fea456": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "e6a542e3d7c44baf": {
     "book": "LUK",
@@ -57444,6 +61375,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "b40a8466a7cb07bd": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "a6807379133eb422": {
     "book": "LUK",
     "source_a": "TR",
@@ -57542,6 +61484,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "5ff208a8a7e3014d": {
+    "book": "LUK",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "58366c142c46f868": {
     "book": "LUK",
@@ -58489,6 +62442,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "3c8d671dfcce80e4": {
+    "book": "JHN",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "025b1ff5b316136b": {
     "book": "JHN",
     "source_a": "GHT",
@@ -59380,6 +63344,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "ec92e501c6671592": {
+    "book": "JHN",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "5f93779d66cee698": {
     "book": "JHN",
     "source_a": "GHT",
@@ -59775,6 +63750,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "440c29ce3597bd9d": {
+    "book": "JHN",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "bc01226935940685": {
     "book": "JHN",
@@ -60931,6 +64917,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "a5c29c73e2b70b45": {
+    "book": "JHN",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "beb4d728747062de": {
     "book": "JHN",
     "source_a": "GHT",
@@ -61172,6 +65169,14 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "a4316c8a7fb2de0f": {
+    "book": "JHN",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "7daab09cf822c450": {
     "book": "JHN",
@@ -62449,6 +66454,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "999688a3faec29a4": {
+    "book": "JHN",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "e3db94d47f04f4c7": {
     "book": "JHN",
     "source_a": "RP",
@@ -62613,6 +66629,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "7c0fe1c099b5264a": {
+    "book": "JHN",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "8ea0a917bf764755": {
     "book": "JHN",
@@ -64242,6 +68269,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "38e206bd1edbf380": {
+    "book": "JHN",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "93b99d8f2301696c": {
     "book": "JHN",
     "source_a": "RP",
@@ -64483,6 +68521,14 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "28c32153693ff1ef": {
+    "book": "JHN",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "6a198bba3c554fc4": {
     "book": "JHN",
@@ -66596,6 +70642,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "97dff3f70f939948": {
+    "book": "JHN",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "fa68877c39dbd7dc": {
     "book": "JHN",
     "source_a": "TR",
@@ -66782,6 +70839,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "e2bc3534237ca9a5": {
+    "book": "JHN",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "2143250ffb7fd260": {
     "book": "JHN",
@@ -67024,6 +71092,14 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "0b82f81868ee297b": {
+    "book": "JHN",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "d211ae684eb149e9": {
     "book": "JHN",
@@ -68533,6 +72609,17 @@
     "words_swapped": 0
   },
   "ee4a0fb6839b2233": {
+    "book": "ACT",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 0
+  },
+  "85c56f587840fe66": {
     "book": "ACT",
     "source_a": "GHT",
     "source_b": "RP",
@@ -70391,6 +74478,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "00a80677471e24b9": {
+    "book": "ACT",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 0
+  },
   "4b49a8644cc0c8ef": {
     "book": "ACT",
     "source_a": "GHT",
@@ -70502,6 +74600,17 @@
     "words_swapped": 0
   },
   "a1dc639d4cbaad5b": {
+    "book": "ACT",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
+    "words_swapped": 0
+  },
+  "852c5a48bcbf90a2": {
     "book": "ACT",
     "source_a": "GHT",
     "source_b": "TR",
@@ -71070,6 +75179,17 @@
     "status": "automatic",
     "transpositions": 0,
     "words_added": 4,
+    "words_removed": 0,
+    "words_swapped": 0
+  },
+  "8cb58f1ddc6b9f5f": {
+    "book": "ACT",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
   },
@@ -71744,6 +75864,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "840e8bc67487992b": {
+    "book": "ACT",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "455d8f393f4d811f": {
     "book": "ACT",
     "source_a": "GHT",
@@ -71754,6 +75885,17 @@
     "words_added": 0,
     "words_removed": 2,
     "words_swapped": 0
+  },
+  "c07a27472b15aa9c": {
+    "book": "ACT",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "72cb44c8dc165d37": {
     "book": "ACT",
@@ -72195,6 +76337,14 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "894da4d2b1b9341b": {
+    "book": "ACT",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
   "5e6f05815243ddf3": {
     "book": "ACT",
     "source_a": "GHT",
@@ -72383,6 +76533,17 @@
     "words_swapped": 0
   },
   "5c91994c2dd807d3": {
+    "book": "ACT",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 0
+  },
+  "c1d11b5ee83aeb48": {
     "book": "ACT",
     "source_a": "GHT",
     "source_b": "SR",
@@ -73195,6 +77356,17 @@
     "words_added": 0,
     "words_removed": 27,
     "words_swapped": 0
+  },
+  "f297561862c7c1cd": {
+    "book": "ACT",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "fd676d896e9b1ec5": {
     "book": "ACT",
@@ -74472,6 +78644,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "f99138672de1cf21": {
+    "book": "ACT",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "145fb0ace7fedc7a": {
     "book": "ACT",
     "source_a": "RP",
@@ -74493,6 +78676,17 @@
     "words_added": 0,
     "words_removed": 2,
     "words_swapped": 0
+  },
+  "1aebe5442f587514": {
+    "book": "ACT",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "c928be81eb5a39b6": {
     "book": "ACT",
@@ -75032,6 +79226,14 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "817fbe3e1d2d7fd0": {
+    "book": "ACT",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "da829ced5f127d7b": {
     "book": "ACT",
@@ -77189,6 +81391,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "acc6161eeb677e4d": {
+    "book": "ACT",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "5db08ff721278525": {
     "book": "ACT",
     "source_a": "TR",
@@ -77199,6 +81412,17 @@
     "words_added": 0,
     "words_removed": 2,
     "words_swapped": 0
+  },
+  "12efb5000a1e98f7": {
+    "book": "ACT",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "3d6bd1abbd22ffe0": {
     "book": "ACT",
@@ -77782,6 +82006,14 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "065d23a8a063f42e": {
+    "book": "ACT",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
   },
   "b62f3f1414d04848": {
     "book": "ACT",
@@ -80071,6 +84303,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "a545fb0c77807ace": {
+    "book": "ROM",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "5b1c513a2e49eb57": {
     "book": "ROM",
     "source_a": "GHT",
@@ -80687,6 +84930,17 @@
     "words_removed": 9,
     "words_swapped": 0
   },
+  "a643da988988d217": {
+    "book": "ROM",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "37869bee7ae862f4": {
     "book": "ROM",
     "source_a": "GHT",
@@ -80884,6 +85138,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "c7ba543aebe04555": {
+    "book": "ROM",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "2ec090390934a3b1": {
     "book": "ROM",
@@ -81544,6 +85809,17 @@
     "words_added": 0,
     "words_removed": 9,
     "words_swapped": 0
+  },
+  "f071e59a261c397c": {
+    "book": "ROM",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "ca84884157625341": {
     "book": "ROM",
@@ -82557,6 +86833,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "6ddf9e15a5c58a72": {
+    "book": "1CO",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "c44c21c862577d20": {
     "book": "1CO",
     "source_a": "GHT",
@@ -82930,17 +87217,6 @@
     "words_added": 0,
     "words_removed": 0,
     "words_swapped": 1
-  },
-  "60bd2ee738428118": {
-    "book": "1CO",
-    "source_a": "GHT",
-    "source_b": "RP",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 0
   },
   "618070215e4296f0": {
     "book": "1CO",
@@ -83579,17 +87855,6 @@
     "words_added": 0,
     "words_removed": 0,
     "words_swapped": 1
-  },
-  "d5957d23f966c4e4": {
-    "book": "1CO",
-    "source_a": "GHT",
-    "source_b": "TR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 0
   },
   "84bfff2b06e90ac7": {
     "book": "1CO",
@@ -84877,6 +89142,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "26ec4a6a825891db": {
+    "book": "1CO",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "3018f9d7da28fda0": {
     "book": "1CO",
@@ -87067,6 +91343,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "f7752f0f52c40097": {
+    "book": "2CO",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "212bb1094606fc8e": {
     "book": "2CO",
     "source_a": "GHT",
@@ -87341,6 +91628,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "a2c8c1ab0473f47d": {
+    "book": "2CO",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "ce4e1a8a4b863aee": {
     "book": "2CO",
@@ -88156,6 +92454,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "44c2aaab5958bfb2": {
+    "book": "2CO",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "c3434c85fa51ea8b": {
     "book": "2CO",
     "source_a": "RP",
@@ -88727,6 +93036,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "d43e03fdfa2d336d": {
+    "book": "2CO",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "ff554c66c40db86c": {
     "book": "2CO",
@@ -93700,6 +98020,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "92661cd4f3506cb9": {
+    "book": "1TH",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "c6ebf5477d3da818": {
     "book": "1TH",
     "source_a": "GHT",
@@ -93809,6 +98140,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "3f7379340f21cffb": {
+    "book": "1TH",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "210b6132ab7101fa": {
     "book": "1TH",
@@ -94316,6 +98658,17 @@
     "words_removed": 0,
     "words_swapped": 1
   },
+  "11d8fd32da8d246f": {
+    "book": "1TH",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "bbca60fe30b4bbf9": {
     "book": "1TH",
     "source_a": "RP",
@@ -94601,6 +98954,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "e7b2f666422ae6bd": {
+    "book": "1TH",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "946e4105fa2c891f": {
     "book": "1TH",
@@ -94899,6 +99263,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "1f74da9a4b7e7ebb": {
+    "book": "2TH",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "c09e187557f6c053": {
     "book": "2TH",
     "source_a": "GHT",
@@ -94976,6 +99351,17 @@
     "words_removed": 2,
     "words_swapped": 0
   },
+  "c38e29a25a0c9867": {
+    "book": "2TH",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "43adcc7263eea991": {
     "book": "2TH",
     "source_a": "RP",
@@ -95030,6 +99416,17 @@
     "words_added": 0,
     "words_removed": 2,
     "words_swapped": 0
+  },
+  "7575824a71c09af3": {
+    "book": "2TH",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "20117d1fe816a543": {
     "book": "2TH",
@@ -95173,6 +99570,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "b6684549a8935199": {
+    "book": "1TI",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "95c4dabf59db9e19": {
     "book": "1TI",
@@ -95350,6 +99758,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "fcb33c21c93907b4": {
+    "book": "1TI",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "0ab518ddfe51b3b2": {
     "book": "1TI",
     "source_a": "RP",
@@ -95503,6 +99922,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "fcc680599edc6f66": {
+    "book": "1TI",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "82ffa0d1f6cca044": {
     "book": "1TI",
@@ -96747,6 +101177,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "4e77e8943271c6d9": {
+    "book": "HEB",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "96f785af9cdef8fb": {
     "book": "HEB",
     "source_a": "GHT",
@@ -96988,6 +101429,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "67e6dc3e1a2e1437": {
+    "book": "HEB",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "8512385a7b22adb4": {
     "book": "HEB",
@@ -98352,6 +102804,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "5a5d68bb71e62944": {
+    "book": "JAS",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "a89a65d9d7aac687": {
     "book": "JAS",
@@ -100630,6 +105093,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "3444e29cdb7a9141": {
+    "book": "2PE",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "9eda6d920384d034": {
     "book": "2PE",
     "source_a": "GHT",
@@ -100839,6 +105313,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "531cdc9205616f51": {
+    "book": "2PE",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "e99c270d888a59e8": {
     "book": "2PE",
     "source_a": "RP",
@@ -100893,6 +105378,17 @@
     "words_added": 0,
     "words_removed": 1,
     "words_swapped": 0
+  },
+  "47bd89d1d2d837e0": {
+    "book": "2PE",
+    "source_a": "RP",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "4d2b211beb7df6ad": {
     "book": "2PE",
@@ -102344,6 +106840,17 @@
     "transpositions": 0,
     "words_added": 0,
     "words_removed": 1,
+    "words_swapped": 0
+  },
+  "26207812c7048673": {
+    "book": "JUD",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 1,
+    "words_removed": 0,
     "words_swapped": 0
   },
   "aaeceb767113452f": {
@@ -104315,6 +108822,17 @@
     "words_removed": 1,
     "words_swapped": 0
   },
+  "c3cce01063409e6a": {
+    "book": "REV",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "d0e7d458e3ea273b": {
     "book": "REV",
     "source_a": "GHT",
@@ -106283,6 +110801,17 @@
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
+  },
+  "cbc2c8394cdeded0": {
+    "book": "REV",
+    "source_a": "RP",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
   },
   "704d4a89d0f0756a": {
     "book": "REV",
@@ -109727,6 +114256,17 @@
     "words_removed": 0,
     "words_swapped": 0
   },
+  "d02552e7f9505edf": {
+    "book": "REV",
+    "source_a": "TR",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
   "2bd9ff5e2ac7ebbe": {
     "book": "REV",
     "source_a": "TR",
@@ -110618,181 +115158,131 @@
     "words_removed": 1,
     "words_swapped": 0
   },
-  "f4c8468cfe12ec59": {
-    "book": "LUK",
+  "3487a476ec695929": {
+    "book": "MAT",
+    "source_a": "GHT",
+    "source_b": "RP",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
+  "a969bbaaad8dec50": {
+    "book": "MAT",
     "source_a": "GHT",
     "source_b": "RP",
     "stage1_decision": "textual_difference",
     "status": "automatic",
     "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 0
-  },
-  "fd76f77146787d36": {
-    "book": "LUK",
-    "source_a": "GHT",
-    "source_b": "RP",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 0
-  },
-  "047bad9834a4077e": {
-    "book": "LUK",
-    "source_a": "GHT",
-    "source_b": "TR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 0
-  },
-  "138d6ae650e39b56": {
-    "book": "LUK",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 0
-  },
-  "144d6a700880ebab": {
-    "book": "LUK",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 3,
-    "words_swapped": 0
-  },
-  "85c56f587840fe66": {
-    "book": "ACT",
-    "source_a": "GHT",
-    "source_b": "RP",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 0
-  },
-  "00a80677471e24b9": {
-    "book": "ACT",
-    "source_a": "GHT",
-    "source_b": "TR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 0
-  },
-  "852c5a48bcbf90a2": {
-    "book": "ACT",
-    "source_a": "GHT",
-    "source_b": "TR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 0
-  },
-  "8cb58f1ddc6b9f5f": {
-    "book": "ACT",
-    "source_a": "GHT",
-    "source_b": "TR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 0
-  },
-  "c1d11b5ee83aeb48": {
-    "book": "ACT",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 0
-  },
-  "26207812c7048673": {
-    "book": "JUD",
-    "source_a": "GHT",
-    "source_b": "RP",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 0
-  },
-  "4c9cd90c3437d689": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
     "words_added": 0,
     "words_removed": 0,
     "words_swapped": 1
   },
-  "a098502105205331": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
+  "727ed139a0196dae": {
+    "book": "MAT",
+    "source_a": "GHT",
+    "source_b": "TR",
     "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "5788502963f88f46": {
+    "book": "MAT",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 0
+  },
+  "772785b981bd6054": {
+    "book": "MAT",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
+  "33651bfb6b6effe7": {
+    "book": "MAT",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "007f09f58a86d139": {
+    "book": "MAT",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
     "words_added": 1,
     "words_removed": 0,
     "words_swapped": 0
   },
-  "358775c5b9c2946a": {
-    "book": "MRK",
-    "source_a": "RP",
+  "925d246d8ec9822e": {
+    "book": "MAT",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "b4fd9fc9a2277839": {
+    "book": "MAT",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 0,
+    "words_swapped": 1
+  },
+  "c9cd7c7acd28bac9": {
+    "book": "MAT",
+    "source_a": "GHT",
     "source_b": "SR",
     "stage1_decision": "textual_difference",
-    "status": "manual",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 0
+  },
+  "fa140bdbd0507f44": {
+    "book": "MAT",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
     "transpositions": 0,
     "words_added": 1,
     "words_removed": 0,
-    "words_swapped": 2
+    "words_swapped": 0
   },
-  "670d96ffb07aa464": {
-    "book": "MRK",
-    "source_a": "RP",
+  "b914ff399374ca66": {
+    "book": "MAT",
+    "source_a": "GHT",
     "source_b": "SR",
     "stage1_decision": "transposition",
-    "status": "manual",
-    "transpositions": 2
+    "status": "automatic",
+    "transpositions": 1
   },
-  "c7e3fa3ca4d26daa": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "80a009d0b4d1104e": {
-    "book": "MRK",
+  "e033d83316a7dcaa": {
+    "book": "MAT",
     "source_a": "GHT",
     "source_b": "SR",
     "stage1_decision": "textual_difference",
@@ -110800,1133 +115290,87 @@
     "transpositions": 1,
     "words_added": 0,
     "words_removed": 0,
-    "words_swapped": 0,
-    "linked_to": "a60caad6bede8531"
-  },
-  "a60caad6bede8531": {
-    "book": "MRK",
-    "source_a": "GHT",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "reused",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 0,
-    "linked_to": "80a009d0b4d1104e"
-  },
-  "234877fbde898849": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 0
-  },
-  "a86048e321d2176b": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "b60bf10b5a594c2a": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 3,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "4577fa9fa6b5d58b": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "0dcbbf6771215eea": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 2,
-    "words_swapped": 4
-  },
-  "74b5732ebee43df8": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "e43c03d7fcadbc62": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "transposition",
-    "status": "manual",
-    "transpositions": 1
-  },
-  "3b3be4e92e04e17b": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 2,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "b08604c79c1246e6": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 3
-  },
-  "d2b86678877bddf4": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 1,
-    "words_removed": 1,
-    "words_swapped": 0
-  },
-  "072635645ba07703": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 2,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 0
-  },
-  "452ba31edbef38d1": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 2,
-    "words_removed": 2,
     "words_swapped": 1
   },
-  "d94da45cf5e1ac25": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 2,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "01a7da85cbbaf928": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 2,
-    "words_swapped": 1
-  },
-  "f50985ee6e6512e1": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "b4b7942244fa67fc": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 3
-  },
-  "49ec8095e7327d7a": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 2,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1,
-    "linked_to": "c0fa12d0b95bf604"
-  },
-  "7e49b975d4942e90": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 1
-  },
-  "cf0a8b1a77aa0e2e": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "ac33bcb187450df6": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 1,
-    "words_swapped": 3
-  },
-  "6c4bccb885a5d89b": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 3,
-    "words_added": 0,
-    "words_removed": 3,
-    "words_swapped": 3
-  },
-  "79551583988b2383": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 5,
-    "words_swapped": 1
-  },
-  "82683eb92c825f12": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 4,
-    "words_swapped": 0
-  },
-  "483380965ad733f3": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 2,
-    "words_added": 2,
-    "words_removed": 4,
-    "words_swapped": 0
-  },
-  "844e1cfa36a08fb0": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 2,
-    "words_removed": 1,
-    "words_swapped": 1
-  },
-  "f15d27db5b6b4fd2": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 3,
-    "words_swapped": 1
-  },
-  "4fd03e1a225a2a97": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 2,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "0cc844c968f74c01": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 6,
-    "words_swapped": 1
-  },
-  "eab6bca0c76e8579": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "transposition",
-    "status": "manual",
-    "transpositions": 1
-  },
-  "9364741cf52569b2": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 0
-  },
-  "fe1cf841a1e846d3": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "transposition",
-    "status": "manual",
-    "transpositions": 1
-  },
-  "f4b2e5c2fcc5c91f": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 6,
-    "words_swapped": 0
-  },
-  "b0ec64e6e5a492ff": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 2,
-    "words_added": 0,
-    "words_removed": 2,
-    "words_swapped": 0
-  },
-  "47660c3878111e61": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 0
-  },
-  "d05c1dc91574f57a": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 2,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 1
-  },
-  "038a13c9bae21216": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 2,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "e9168c6e6fa2f469": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 2,
-    "words_swapped": 1
-  },
-  "c9593821ed2f8425": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "c74a79f55f8dccd4": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 1
-  },
-  "eaa1b53a80f96673": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 1
-  },
-  "a2eb17e4d4c46d00": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "1581f022c745cc1b": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "57260dd46331b46d": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "b9c971d8611c4aab": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 3,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "88738348b668eb7e": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 2,
-    "words_swapped": 4
-  },
-  "201d39bdc22a5db3": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 3
-  },
-  "55397f68883d5bf9": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 2,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 0
-  },
-  "7821c4fca435ea0d": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 2,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "a5f6c032cc714684": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 2,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1,
-    "linked_to": "b993e04e54900e0e"
-  },
-  "40e7a8603ff4d31e": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 1
-  },
-  "57b27384f9aa4ad0": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 4,
-    "words_swapped": 0
-  },
-  "64ce7aaf1164f1b8": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 3,
-    "words_swapped": 1
-  },
-  "1728a7517e81fb03": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 2,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "6e58060aae4bd93b": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 6,
-    "words_swapped": 1
-  },
-  "58a3dc1d33b5f2cd": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "transposition",
-    "status": "manual",
-    "transpositions": 1
-  },
-  "0ae15b17a53e4cd1": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 6,
-    "words_swapped": 0
-  },
-  "5d1005a00f0e8de7": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 2,
-    "words_added": 0,
-    "words_removed": 2,
-    "words_swapped": 0
-  },
-  "5c6ee791940b829b": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 1
-  },
-  "f0a2a2ffa7c64458": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 1
-  },
-  "2087d8746cb139fc": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "6e4a1a8210a86656": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "e56fb4969badb1f7": {
-    "book": "MRK",
-    "source_a": "RP",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "61cea3c045f9262c": {
-    "book": "LUK",
+  "4da4774b4ff44d8c": {
+    "book": "MAT",
     "source_a": "GHT",
     "source_b": "SR",
     "stage1_decision": "textual_difference",
     "status": "automatic",
     "transpositions": 0,
     "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
+    "words_removed": 1,
+    "words_swapped": 0
   },
-  "f0f06bb9b905e9cb": {
-    "book": "LUK",
-    "source_a": "RP",
+  "6073b30e0dff6529": {
+    "book": "MAT",
+    "source_a": "GHT",
     "source_b": "SR",
     "stage1_decision": "textual_difference",
     "status": "automatic",
     "transpositions": 0,
     "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "83f2e24c6b53f5fa": {
-    "book": "LUK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "automatic",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "388a4d9d69a685ab": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
     "words_removed": 1,
-    "words_swapped": 1
-  },
-  "33d090949c1e26a8": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 2,
-    "words_swapped": 3
-  },
-  "9462c7b26db4cc87": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 5,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "19895f85a54421b7": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 2,
-    "words_swapped": 1
-  },
-  "6fa679eeba089b72": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 4
-  },
-  "dd6130808abf4091": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "0a3fc64a7984e186": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 3
-  },
-  "388a85f58546103b": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 0,
     "words_swapped": 0
   },
-  "cb59b816820d78fe": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "c19c7f49416a8997": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "d881fd125781c2f1": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 2
-  },
-  "fc8ac6a3e4e5d8e4": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 2,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 0
-  },
-  "ea6b18a39c600991": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 3,
-    "words_swapped": 0
-  },
-  "9da551dd8baf5f8c": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "f90e77bdf296c357": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "b9283d6c582b4dcb": {
-    "book": "MRK",
-    "source_a": "TR",
+  "4c15d2b1589bb3da": {
+    "book": "MAT",
+    "source_a": "GHT",
     "source_b": "SR",
     "stage1_decision": "transposition",
-    "status": "manual",
+    "status": "automatic",
+    "transpositions": 1
+  },
+  "4f658bfb649c6415": {
+    "book": "MAT",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 1,
+    "words_swapped": 0
+  },
+  "57fc4c111c47c90a": {
+    "book": "MAT",
+    "source_a": "GHT",
+    "source_b": "SR",
+    "stage1_decision": "textual_difference",
+    "status": "automatic",
+    "transpositions": 0,
+    "words_added": 0,
+    "words_removed": 4,
+    "words_swapped": 0
+  },
+  "2267615a3b4926d0": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
+  "369ff107c55bcf65": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
+    "transpositions": 1
+  },
+  "957fe4ee4483ba61": {
+    "book": "LUK",
+    "source_a": "GHT",
+    "source_b": "TR",
+    "stage1_decision": "transposition",
+    "status": "automatic",
     "transpositions": 2
   },
-  "5cf43cd61c415fbc": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 3,
-    "words_swapped": 0
-  },
-  "f47656a45f5b2db0": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 2,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "a5eb6dfd2718449c": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 2,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "2ddbb57663295de7": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 1
-  },
-  "0cfef51237f38a52": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 2,
-    "words_swapped": 0
-  },
-  "f919046b268d5d1d": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 2,
-    "words_swapped": 2
-  },
-  "09996562daedcade": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 2,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "9c6283f363261abd": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "e8226f9600f6a978": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 1,
-    "words_removed": 1,
-    "words_swapped": 2
-  },
-  "079d56c1ca0ecfb5": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 3,
-    "words_swapped": 0
-  },
-  "aa21eaa77b2646b9": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "70b3d11d0640e27e": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 0
-  },
-  "d3361f35642074b4": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 6,
-    "words_swapped": 1
-  },
-  "bd50d4d34e370f49": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "b83c54caf343f97c": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 3,
-    "words_added": 1,
-    "words_removed": 5,
-    "words_swapped": 1
-  },
-  "6e4deb890ee77fcf": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 0
-  },
-  "bb455a563b3b2335": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 0
-  },
-  "a2d8fe4d4926a081": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "96802c1f7631cad8": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 2
-  },
-  "21a720e309d8d6d0": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 2,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 1
-  },
-  "456dcb6119353116": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "80595663000ef666": {
-    "book": "MRK",
-    "source_a": "TR",
+  "13aad127603487e5": {
+    "book": "LUK",
+    "source_a": "GHT",
     "source_b": "SR",
     "stage1_decision": "textual_difference",
     "status": "automatic",
@@ -111935,59 +115379,15 @@
     "words_removed": 0,
     "words_swapped": 1
   },
-  "9104422d25870da6": {
-    "book": "MRK",
-    "source_a": "TR",
+  "28f5a9f279c1402a": {
+    "book": "LUK",
+    "source_a": "GHT",
     "source_b": "SR",
     "stage1_decision": "textual_difference",
-    "status": "manual",
+    "status": "automatic",
     "transpositions": 0,
     "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 1
-  },
-  "e8a640fcfaaa63ce": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 2,
-    "words_added": 0,
-    "words_removed": 1,
-    "words_swapped": 1
-  },
-  "847b397ee62a4b91": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 0,
-    "words_swapped": 3
-  },
-  "877630555fd56e47": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 1,
-    "words_added": 1,
-    "words_removed": 0,
-    "words_swapped": 1
-  },
-  "1f00d7d785ed8710": {
-    "book": "MRK",
-    "source_a": "TR",
-    "source_b": "SR",
-    "stage1_decision": "textual_difference",
-    "status": "manual",
-    "transpositions": 0,
-    "words_added": 0,
-    "words_removed": 1,
+    "words_removed": 2,
     "words_swapped": 0
   }
 }
