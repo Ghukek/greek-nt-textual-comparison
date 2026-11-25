@@ -7,6 +7,7 @@ from src.ght_parser import parse_ght
 from src.rp_parser import parse_rp
 from src.tr_parser import parse_tr
 from src.sr_parser import parse_sr
+from src.sbl_parser import parse_sblgnt
 from src.scrivener_parser import parse_scrivener
 from tests.test_normalization import normalize_word
 
