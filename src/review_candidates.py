@@ -15,38 +15,38 @@ from tests.test_normalization import normalize_word
 root = Path("sources")
 
 books = {
-    "MAT": ("40MATGHTG.usfm", "MAT.xml", "41-MAT.usfm"),
-    "MRK": ("41MRKGHTG.usfm", "MAR.xml", "42-MRK.usfm"),
-    "LUK": ("42LUKGHTG.usfm", "LUK.xml", "43-LUK.usfm"),
-    "JHN": ("43JHNGHTG.usfm", "JOH.xml", "44-JHN.usfm"),
-    "ACT": ("44ACTGHTG.usfm", "ACT.xml", "45-ACT.usfm"),
-    "ROM": ("45ROMGHTG.usfm", "ROM.xml", "46-ROM.usfm"),
-    "1CO": ("461COGHTG.usfm", "1CO.xml", "47-1CO.usfm"),
-    "2CO": ("472COGHTG.usfm", "2CO.xml", "48-2CO.usfm"),
-    "GAL": ("48GALGHTG.usfm", "GAL.xml", "49-GAL.usfm"),
-    "EPH": ("49EPHGHTG.usfm", "EPH.xml", "50-EPH.usfm"),
-    "PHP": ("50PHPGHTG.usfm", "PHP.xml", "51-PHP.usfm"),
-    "COL": ("51COLGHTG.usfm", "COL.xml", "52-COL.usfm"),
-    "1TH": ("521THGHTG.usfm", "1TH.xml", "53-1TH.usfm"),
-    "2TH": ("532THGHTG.usfm", "2TH.xml", "54-2TH.usfm"),
-    "1TI": ("541TIGHTG.usfm", "1TI.xml", "55-1TI.usfm"),
-    "2TI": ("552TIGHTG.usfm", "2TI.xml", "56-2TI.usfm"),
-    "TIT": ("56TITGHTG.usfm", "TIT.xml", "57-TIT.usfm"),
-    "PHM": ("57PHMGHTG.usfm", "PHM.xml", "58-PHM.usfm"),
-    "HEB": ("58HEBGHTG.usfm", "HEB.xml", "59-HEB.usfm"),
-    "JAS": ("59JASGHTG.usfm", "JAM.xml", "60-JAS.usfm"),
-    "1PE": ("601PEGHTG.usfm", "1PE.xml", "61-1PE.usfm"),
-    "2PE": ("612PEGHTG.usfm", "2PE.xml", "62-2PE.usfm"),
-    "1JN": ("621JNGHTG.usfm", "1JO.xml", "63-1JN.usfm"),
-    "2JN": ("632JNGHTG.usfm", "2JO.xml", "64-2JN.usfm"),
-    "3JN": ("643JNGHTG.usfm", "3JO.xml", "65-3JN.usfm"),
-    "JUD": ("65JUDGHTG.usfm", "JUD.xml", "66-JUD.usfm"),
-    "REV": ("66REVGHTG.usfm", "REV.xml", "67-REV.usfm"),
+    "MAT": ("40MATGHTG.usfm", "MAT.xml", "41-MAT.usfm", "Matt.xml"),
+    "MRK": ("41MRKGHTG.usfm", "MAR.xml", "42-MRK.usfm", "Mark.xml"),
+    "LUK": ("42LUKGHTG.usfm", "LUK.xml", "43-LUK.usfm", "Luke.xml"),
+    "JHN": ("43JHNGHTG.usfm", "JOH.xml", "44-JHN.usfm", "John.xml"),
+    "ACT": ("44ACTGHTG.usfm", "ACT.xml", "45-ACT.usfm", "Acts.xml"),
+    "ROM": ("45ROMGHTG.usfm", "ROM.xml", "46-ROM.usfm", "Rom.xml"),
+    "1CO": ("461COGHTG.usfm", "1CO.xml", "47-1CO.usfm", "1Cor.xml"),
+    "2CO": ("472COGHTG.usfm", "2CO.xml", "48-2CO.usfm", "2Cor.xml"),
+    "GAL": ("48GALGHTG.usfm", "GAL.xml", "49-GAL.usfm", "Gal.xml"),
+    "EPH": ("49EPHGHTG.usfm", "EPH.xml", "50-EPH.usfm", "Eph.xml"),
+    "PHP": ("50PHPGHTG.usfm", "PHP.xml", "51-PHP.usfm", "Phil.xml"),
+    "COL": ("51COLGHTG.usfm", "COL.xml", "52-COL.usfm", "Col.xml"),
+    "1TH": ("521THGHTG.usfm", "1TH.xml", "53-1TH.usfm", "1Thess.xml"),
+    "2TH": ("532THGHTG.usfm", "2TH.xml", "54-2TH.usfm", "2Thess.xml"),
+    "1TI": ("541TIGHTG.usfm", "1TI.xml", "55-1TI.usfm", "1Tim.xml"),
+    "2TI": ("552TIGHTG.usfm", "2TI.xml", "56-2TI.usfm", "2Tim.xml"),
+    "TIT": ("56TITGHTG.usfm", "TIT.xml", "57-TIT.usfm", "Titus.xml"),
+    "PHM": ("57PHMGHTG.usfm", "PHM.xml", "58-PHM.usfm", "Phlm.xml"),
+    "HEB": ("58HEBGHTG.usfm", "HEB.xml", "59-HEB.usfm", "Heb.xml"),
+    "JAS": ("59JASGHTG.usfm", "JAM.xml", "60-JAS.usfm", "Jas.xml"),
+    "1PE": ("601PEGHTG.usfm", "1PE.xml", "61-1PE.usfm", "1Pet.xml"),
+    "2PE": ("612PEGHTG.usfm", "2PE.xml", "62-2PE.usfm", "2Pet.xml"),
+    "1JN": ("621JNGHTG.usfm", "1JO.xml", "63-1JN.usfm", "1John.xml"),
+    "2JN": ("632JNGHTG.usfm", "2JO.xml", "64-2JN.usfm", "2John.xml"),
+    "3JN": ("643JNGHTG.usfm", "3JO.xml", "65-3JN.usfm", "3John.xml"),
+    "JUD": ("65JUDGHTG.usfm", "JUD.xml", "66-JUD.usfm", "Jude.xml"),
+    "REV": ("66REVGHTG.usfm", "REV.xml", "67-REV.usfm", "Rev.xml"),
 }
 
 sources = {}
 
-for book, (ght_file, rp_file, sr_file) in books.items():
+for book, (ght_file, rp_file, sr_file, sbl_file) in books.items():
     sources[book] = {
         "GHT": parse_ght(root / "ght" / "ghtg_usfm" / ght_file),
         "RP": parse_rp(
@@ -64,6 +64,9 @@ for book, (ght_file, rp_file, sr_file) in books.items():
         "SR": parse_sr(
             root / "statistical-restoration" / "SR usfm.zip",
             member=sr_file,
+        ),
+        "SBL": parse_sblgnt(
+            root / "SBLGNT" / "data" / "sblgnt" / "xml" / sbl_file
         ),
     }
 
@@ -264,9 +267,13 @@ pairs = [
     ("GHT", "RP"),
     ("GHT", "TR"),
     ("GHT", "SR"),
+    ("GHT", "SBL"),
     ("RP", "TR"),
     ("RP", "SR"),
+    ("RP", "SBL"),
     ("TR", "SR"),
+    ("TR", "SBL"),
+    ("SR", "SBL")
 ]
 
 for book in books:

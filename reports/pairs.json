@@ -1,0 +1,3138 @@
+[
+  {
+    "book": "MAT",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.0687757174157004
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.0527440816544649
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 3.9811895473734835
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 3.9811895473734835
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.9710809945576779
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 4.695336676982179
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 4.663323017820937
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 4.853489611081513
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 4.842834310069259
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 1.0921203516627531
+      }
+    ]
+  },
+  {
+    "book": "MAT",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.287874739485919
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.2718431037246836
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 4.56367231336504
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 4.531609041842569
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 1.0191014832995413
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 5.431650837690748
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 5.4049727883897125
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 5.620671283963772
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 5.583377730420884
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 1.1958717850707148
+      }
+    ]
+  },
+  {
+    "book": "MRK",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.3420509291121816
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.3764624913971095
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 9.901927047487955
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 8.947006194081212
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 1.0673093475641247
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 10.569805474264072
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 9.605784128077122
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 10.686695278969957
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 9.793991416309012
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 3.134570347685102
+      }
+    ]
+  },
+  {
+    "book": "MRK",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.6775636613902272
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.6861665519614588
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 11.484858912594632
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 10.538540949759119
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 1.1533826820451023
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 12.489240833189879
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 11.525219487002927
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 12.618025751072961
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 11.742489270386267
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 3.3237254548729958
+      }
+    ]
+  },
+  {
+    "book": "LUK",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.8990908634286001
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.9041137174142347
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.586769802601838
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 2.606861218544377
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.8954623201529328
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.766877955528725
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 2.6763255860750577
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.887797052040509
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 2.812594003810288
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.7114869045163951
+      }
+    ]
+  },
+  {
+    "book": "LUK",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.0598221909689085
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.1401878547390627
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.7776382540559545
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 2.7826611080415895
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 1.0262601871415635
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 3.0636884998490794
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 2.9580440688198006
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 3.178582171864033
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 3.09836558708513
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.7269540111363167
+      }
+    ]
+  },
+  {
+    "book": "JHN",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.7543848620104356
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.6663732947758848
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.8859621550260892
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.9425410196768715
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.5977850490812987
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.0576390636798387
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 2.0135917442738482
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.095226146414905
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 2.1328649394642745
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 1.5423498153068498
+      }
+    ]
+  },
+  {
+    "book": "JHN",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.7921041051109575
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.6915194568428994
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.9173948576098572
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.9676871817438861
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.6418323684872892
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.107978857286685
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 2.0576390636798387
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.1391380716391692
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 2.170503732513644
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 1.5812325837599637
+      }
+    ]
+  },
+  {
+    "book": "ACT",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.37842602981247
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.1433456216273976
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.544050862851953
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.4692525511567025
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.8569439237319908
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.6389052541374325
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.6067698569974826
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.967666453945969
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.9517124016166774
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.24991850483537975
+      }
+    ]
+  },
+  {
+    "book": "ACT",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.3997969760111129
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.1647165678260405
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.5654218090505958
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.4959662339050062
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.8569439237319908
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.6496170531840821
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.6228375555674575
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.972984471389066
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.9623484365028716
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.24991850483537975
+      }
+    ]
+  },
+  {
+    "book": "ROM",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.8209619127050318
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.3892132332499305
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.5985543508479287
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 2.168473728106756
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 1.622746185852982
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.3578363384188625
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 2.3855755894590844
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.8320610687022902
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 2.4011103400416376
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.22516183506895582
+      }
+    ]
+  },
+  {
+    "book": "ROM",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.8209619127050318
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.3892132332499305
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.6124548234639977
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 2.1823742007228244
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 1.622746185852982
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.371705963938974
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 2.3994452149791954
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.845940319222762
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 2.4149895905621097
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.22516183506895582
+      }
+    ]
+  },
+  {
+    "book": "1CO",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.1762997386000582
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.0455997676444961
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.3069997095556203
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.263433052570433
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.3176436615651169
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.891423621137742
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.8625469246318223
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.8911505702324238
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.920023098022232
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.4398182084738308
+      }
+    ]
+  },
+  {
+    "book": "1CO",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.1762997386000582
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.0455997676444961
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.4231774615161197
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.3650885855358699
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.3176436615651169
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.9636153624025412
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.9347386658966212
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.963331889706944
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.992204417496752
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.4544788154229585
+      }
+    ]
+  },
+  {
+    "book": "2CO",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.6447309915518008
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.7114273010226767
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.1560693641618496
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.1560693641618496
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.24406478810738852
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.3534501885955181
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.3534501885955181
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.6175493020163971
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.5953910923997343
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.2236636099306643
+      }
+    ]
+  },
+  {
+    "book": "2CO",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.6447309915518008
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.7336594041796354
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.1560693641618496
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.1560693641618496
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.44375416019525177
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.3534501885955181
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.3534501885955181
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.6397075116330602
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.6175493020163971
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.2236636099306643
+      }
+    ]
+  },
+  {
+    "book": "GAL",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.6224988883948421
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.5335704757670076
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.0226767452200978
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 0.9337483325922632
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.08880994671403197
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.4653641207815276
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.1989342806394316
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.4209591474245116
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.1989342806394316
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.2244165170556553
+      }
+    ]
+  },
+  {
+    "book": "GAL",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.6669630947087595
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.5780346820809248
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.0226767452200978
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 0.9337483325922632
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.08880994671403197
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.4653641207815276
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.2433392539964476
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.4209591474245116
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.2433392539964476
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.2244165170556553
+      }
+    ]
+  },
+  {
+    "book": "EPH",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.7331975560081466
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.8553971486761711
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.7922606924643585
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.670061099796334
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.40666937779585194
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.074013826758845
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.9926799511996744
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.2330491270807955
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 2.1518473406414937
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.2071251035625518
+      }
+    ]
+  },
+  {
+    "book": "EPH",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.7331975560081466
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.8553971486761711
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.8329938900203666
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.670061099796334
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.40666937779585194
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.1146807645384302
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.9926799511996744
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.2736500203004466
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 2.1518473406414937
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.2071251035625518
+      }
+    ]
+  },
+  {
+    "book": "PHP",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.2789281364190013
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.2789281364190013
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.3142509135200973
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.1571254567600486
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.2437538086532602
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.218769043266301
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.7062766605728215
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.340645947592931
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.8281535648994516
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 1.5950920245398774
+      }
+    ]
+  },
+  {
+    "book": "PHP",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.2789281364190013
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.2789281364190013
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.3142509135200973
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.1571254567600486
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.2437538086532602
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.218769043266301
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.7062766605728215
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.340645947592931
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.8281535648994516
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 1.5950920245398774
+      }
+    ]
+  },
+  {
+    "book": "COL",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.9322560596643878
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.8079552517091362
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.175264139216905
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.4916096954630205
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.5576208178438662
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.3543990086741013
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.6109045848822798
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.5925925925925926
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.8518518518518516
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.9487666034155597
+      }
+    ]
+  },
+  {
+    "book": "COL",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.9322560596643878
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.8079552517091362
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.237414543194531
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.5537600994406464
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.5576208178438662
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.3543990086741013
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.6109045848822798
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.5925925925925926
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.8518518518518516
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.9487666034155597
+      }
+    ]
+  },
+  {
+    "book": "1TH",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.8684034736138945
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.002004008016032
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.070808283233133
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.736806947227789
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.5344021376085505
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.404809619238477
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 2.2044088176352705
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.5418060200668897
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 2.608695652173913
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.8124576844955992
+      }
+    ]
+  },
+  {
+    "book": "1TH",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.8684034736138945
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.002004008016032
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.070808283233133
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.736806947227789
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.5344021376085505
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.404809619238477
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 2.2044088176352705
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.5418060200668897
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 2.608695652173913
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.8124576844955992
+      }
+    ]
+  },
+  {
+    "book": "2TH",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.6024096385542169
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.6024096385542169
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.7228915662650602
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 0.48192771084337355
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.24009603841536614
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.9603841536614646
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 0.7202881152460985
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 0.9569377990430622
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 0.9569377990430622
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.6067961165048543
+      }
+    ]
+  },
+  {
+    "book": "2TH",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.6024096385542169
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.6024096385542169
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.7228915662650602
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 0.48192771084337355
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.24009603841536614
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.9603841536614646
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 0.7202881152460985
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 0.9569377990430622
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 0.9569377990430622
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.6067961165048543
+      }
+    ]
+  },
+  {
+    "book": "1TI",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.31036623215394166
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.4965859714463066
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.1173184357541899
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.3656114214773432
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.1850709438618137
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.2954966070326959
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.4805675508945095
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.416256157635468
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.600985221674877
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.18832391713747645
+      }
+    ]
+  },
+  {
+    "book": "1TI",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.31036623215394166
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.4965859714463066
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.1173184357541899
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.3656114214773432
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.1850709438618137
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.2954966070326959
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.4805675508945095
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.416256157635468
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.600985221674877
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.18832391713747645
+      }
+    ]
+  },
+  {
+    "book": "2TI",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.24096385542168677
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.24096385542168677
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.4016064257028112
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 0.8032128514056224
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.07993605115907274
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.6394884092725819
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 0.8792965627498002
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 0.6389776357827476
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 0.8785942492012779
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.3228410008071025
+      }
+    ]
+  },
+  {
+    "book": "2TI",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.24096385542168677
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.24096385542168677
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.4016064257028112
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 0.8032128514056224
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.07993605115907274
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.6394884092725819
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 0.8792965627498002
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 0.6389776357827476
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 0.8785942492012779
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.3228410008071025
+      }
+    ]
+  },
+  {
+    "book": "TIT",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.3021148036253776
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.1510574018126888
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.0574018126888218
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 0.906344410876133
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.15060240963855423
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.2048192771084338
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.0542168674698795
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.0526315789473684
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 0.9022556390977444
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.1519756838905775
+      }
+    ]
+  },
+  {
+    "book": "TIT",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.3021148036253776
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.1510574018126888
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.0574018126888218
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 0.906344410876133
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.15060240963855423
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.2048192771084338
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.0542168674698795
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.0526315789473684
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 0.9022556390977444
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.1519756838905775
+      }
+    ]
+  },
+  {
+    "book": "PHM",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.0
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.29411764705882354
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.4705882352941175
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.7647058823529411
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.29411764705882354
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.1764705882352942
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.4705882352941175
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.1799410029498525
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.4749262536873156
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.8928571428571428
+      }
+    ]
+  },
+  {
+    "book": "PHM",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.0
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.29411764705882354
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.4705882352941175
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.7647058823529411
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.29411764705882354
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.1764705882352942
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.4705882352941175
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.1799410029498525
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.4749262536873156
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.8928571428571428
+      }
+    ]
+  },
+  {
+    "book": "HEB",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.5805805805805806
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.34034034034034033
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.0210210210210209
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.1411411411411412
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.4611991177060357
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.8822939643071986
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.0226589131742532
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.0806483890334202
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.2207324394636783
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.32336297493936944
+      }
+    ]
+  },
+  {
+    "book": "HEB",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.5805805805805806
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.34034034034034033
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.0210210210210209
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.1411411411411412
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.4611991177060357
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.8822939643071986
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.0226589131742532
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.0806483890334202
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.2207324394636783
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.32336297493936944
+      }
+    ]
+  },
+  {
+    "book": "JAS",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.2478729438457177
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.191151446398185
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.3613159387407827
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.191151446398185
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.5681818181818182
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.6477272727272725
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.7045454545454544
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.9263456090651558
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.9830028328611897
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.11514104778353484
+      }
+    ]
+  },
+  {
+    "book": "JAS",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.2478729438457177
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.191151446398185
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.3613159387407827
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.191151446398185
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.5681818181818182
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.6477272727272725
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.7045454545454544
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.9263456090651558
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.9830028328611897
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.11514104778353484
+      }
+    ]
+  },
+  {
+    "book": "1PE",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.2237762237762237
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.048951048951049
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.331002331002331
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 2.272727272727273
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.4653868528214078
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.326934264107039
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 2.4432809773123907
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.4347826086956523
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 2.3768115942028984
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.29832935560859186
+      }
+    ]
+  },
+  {
+    "book": "1PE",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.2237762237762237
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.048951048951049
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.331002331002331
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 2.272727272727273
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.4653868528214078
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.326934264107039
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 2.4432809773123907
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.4347826086956523
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 2.3768115942028984
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.29832935560859186
+      }
+    ]
+  },
+  {
+    "book": "2PE",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.5424954792043399
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.5424954792043399
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.9041591320072333
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.2658227848101267
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.3626473254759746
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.087941976427924
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.4505893019038985
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.1754068716094033
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.5370705244122964
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.9115770282588878
+      }
+    ]
+  },
+  {
+    "book": "2PE",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.5424954792043399
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.5424954792043399
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.9041591320072333
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.2658227848101267
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.3626473254759746
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.087941976427924
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.4505893019038985
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.1754068716094033
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.5370705244122964
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.9115770282588878
+      }
+    ]
+  },
+  {
+    "book": "1JN",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.6481481481481481
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.990740740740741
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.25
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.2962962962962963
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 1.906090190609019
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.394700139470014
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.394700139470014
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.8349336991312297
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 2.9263831732967533
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.18717828731867103
+      }
+    ]
+  },
+  {
+    "book": "1JN",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.6481481481481481
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.990740740740741
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.25
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.2962962962962963
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 1.906090190609019
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.394700139470014
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.394700139470014
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.8349336991312297
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 2.9263831732967533
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.18717828731867103
+      }
+    ]
+  },
+  {
+    "book": "2JN",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.2195121951219512
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.2195121951219512
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.40650406504065045
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 0.40650406504065045
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.0
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.6064257028112447
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.6064257028112447
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.6064257028112447
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.6064257028112447
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.0
+      }
+    ]
+  },
+  {
+    "book": "2JN",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.2195121951219512
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.2195121951219512
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.40650406504065045
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 0.40650406504065045
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.0
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.6064257028112447
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.6064257028112447
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.6064257028112447
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.6064257028112447
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.0
+      }
+    ]
+  },
+  {
+    "book": "3JN",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.0
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.9174311926605505
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.9174311926605505
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 0.9174311926605505
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.9216589861751152
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.9216589861751152
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 0.9216589861751152
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.36986301369863
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.82648401826484
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.0
+      }
+    ]
+  },
+  {
+    "book": "3JN",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 0.0
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 0.9174311926605505
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.9174311926605505
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 0.9174311926605505
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.9216589861751152
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 0.9216589861751152
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 0.9216589861751152
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.36986301369863
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 1.82648401826484
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.0
+      }
+    ]
+  },
+  {
+    "book": "JUD",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 3.036876355748373
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 2.386117136659436
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.0845986984815619
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.0845986984815619
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.8888888888888888
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.888888888888889
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 2.888888888888889
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 1.9823788546255507
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 2.2026431718061676
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.0
+      }
+    ]
+  },
+  {
+    "book": "JUD",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 3.470715835140998
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 2.8199566160520604
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 1.0845986984815619
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 1.0845986984815619
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.8888888888888888
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 3.3333333333333335
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 3.3333333333333335
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.4229074889867843
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 2.643171806167401
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.0
+      }
+    ]
+  },
+  {
+    "book": "REV",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.1263318112633183
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 2.0395738203957383
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.9741248097412482
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 0.852359208523592
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 2.2228958270182884
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.465090431443872
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.4246741436799029
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.36924003614095
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 2.28892681457685
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.5093205663644698
+      }
+    ]
+  },
+  {
+    "book": "REV",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.1770674784373416
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 2.1106037544393708
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 0.9944190766108575
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 0.8726534753932014
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 2.323936546428211
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 1.5055067192078406
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 1.4448822875618874
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 2.4997490211826126
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 2.4194357996185123
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.5093205663644698
+      }
+    ]
+  },
+  {
+    "book": "NT",
+    "metric": "textual",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.0491906243754818
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.007080252376738
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.658663316869843
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 2.578724983584092
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.8861996874754726
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 2.9960970110382523
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 2.8890680632755137
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 3.177673783480079
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 3.1257556576533005
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.8677863440132206
+      }
+    ]
+  },
+  {
+    "book": "NT",
+    "metric": "total",
+    "pairs": [
+      {
+        "source_a": "GHT",
+        "source_b": "RP",
+        "value": 1.1419761897964427
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "TR",
+        "value": 1.109144374339795
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SR",
+        "value": 2.9106118137436834
+      },
+      {
+        "source_a": "GHT",
+        "source_b": "SBL",
+        "value": 2.8235361292717047
+      },
+      {
+        "source_a": "RP",
+        "source_b": "TR",
+        "value": 0.9368600560831686
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SR",
+        "value": 3.3121891700975388
+      },
+      {
+        "source_a": "RP",
+        "source_b": "SBL",
+        "value": 3.202306117061128
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SR",
+        "value": 3.5034066825028805
+      },
+      {
+        "source_a": "TR",
+        "source_b": "SBL",
+        "value": 3.448643727863676
+      },
+      {
+        "source_a": "SR",
+        "source_b": "SBL",
+        "value": 0.9041867779063927
+      }
+    ]
+  }
+]

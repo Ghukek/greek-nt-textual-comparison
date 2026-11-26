@@ -1,0 +1,420 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Variant Pair Viewer</title>
+<style>
+  :root { color-scheme: light dark; --bg:#f5f6f8; --panel:#fff; --text:#17202a; --muted:#5b6572; --line:#d5dbe3; --accent:#2864dc; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#15191f; --panel:#20262e; --text:#edf2f7; --muted:#aab4c0; --line:#3b4653; --accent:#8bb3ff; }
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; font:15px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif; background:var(--bg); color:var(--text); }
+  main { max-width:1200px; margin:0 auto; padding:22px; }
+  h1 { font-size:1.5rem; margin:0 0 5px; }
+  .intro { color:var(--muted); margin:0 0 18px; }
+  .controls { display:flex; flex-wrap:wrap; gap:12px; align-items:end; padding:14px; background:var(--panel); border:1px solid var(--line); border-radius:12px; }
+  label { display:flex; flex-direction:column; gap:5px; font-weight:600; font-size:.9rem; }
+  select,button,input[type=file] { font:inherit; color:var(--text); background:var(--panel); border:1px solid var(--line); border-radius:7px; padding:8px 10px; }
+  button { cursor:pointer; }
+  button:hover { border-color:var(--accent); }
+  .rotation-control { min-width:150px; gap:3px; }
+  .rotation-control input { width:150px; padding:0; accent-color:var(--accent); }
+  .rotation-control output { color:var(--muted); font-size:.8rem; font-weight:400; }
+  .check-control { display:flex; flex-direction:row; align-items:center; gap:7px; padding:8px 2px; white-space:nowrap; }
+  .check-control input { accent-color:var(--accent); }
+  #status { color:var(--muted); margin-left:auto; min-width:180px; }
+  .layout { display:grid; grid-template-columns:minmax(0,1fr) 280px; gap:14px; margin-top:14px; }
+  .viewer,.details { background:var(--panel); border:1px solid var(--line); border-radius:12px; overflow:hidden; }
+  #scene { display:block; width:100%; height:min(68vh,680px); min-height:390px; touch-action:none; }
+  .hint { padding:0 14px 13px; color:var(--muted); font-size:.85rem; }
+  .fit-status { margin:0; padding:10px 14px; border-bottom:1px solid var(--line); font-weight:700; }
+  .fit-status.exact { color:#18794e; }
+  .fit-status.approx { color:#b45309; }
+  .details { padding:16px; }
+  .details h2 { font-size:1rem; margin:0 0 10px; }
+  #pairList { display:flex; flex-direction:column; gap:8px; }
+  .pair { display:grid; grid-template-columns:auto 1fr auto; align-items:center; gap:8px; padding-bottom:7px; border-bottom:1px solid var(--line); }
+  .pair-toggle { width:16px; height:16px; margin:0; accent-color:var(--accent); }
+  .pair-name { color:var(--muted); }
+  .pair-value { font-variant-numeric:tabular-nums; font-weight:650; }
+  .note { color:var(--muted); font-size:.85rem; margin-top:14px; }
+  .error { color:#c0392b; }
+  @media (max-width:850px) { main{padding:12px}.layout{grid-template-columns:1fr}#scene{height:56vh;min-height:340px}#status{margin-left:0;width:100%} }
+</style>
+</head>
+<body>
+<main>
+  <h1>Variant Pair Viewer</h1>
+  <p class="intro">Explore the ten pairwise variance values among five Greek text sources.</p>
+  <section class="controls" aria-label="Viewer controls">
+    <label>Book
+      <select id="bookSelect" disabled><option>Load data first</option></select>
+    </label>
+    <label>Metric
+      <select id="metricSelect" disabled>
+        <option value="textual">Textual variance</option>
+        <option value="total">Total variance</option>
+      </select>
+    </label>
+    <label>Load pairs.json
+      <input id="fileInput" type="file" accept=".json,application/json">
+    </label>
+    <label class="rotation-control">Rotate X <output id="rotateXValue">-20°</output>
+      <input id="rotateX" type="range" min="-180" max="180" value="-20" step="1">
+    </label>
+    <label class="rotation-control">Rotate Y <output id="rotateYValue">32°</output>
+      <input id="rotateY" type="range" min="-180" max="180" value="32" step="1">
+    </label>
+    <label class="rotation-control">Rotate Z <output id="rotateZValue">0°</output>
+      <input id="rotateZ" type="range" min="-180" max="180" value="0" step="1">
+    </label>
+    <label class="check-control"><input id="showLabels" type="checkbox" checked> Show labels</label>
+    <label class="check-control"><input id="showEdgeLabels" type="checkbox" checked> Edge labels</label>
+    <label class="check-control"><input id="showVertexLabels" type="checkbox" checked> Vertex labels</label>
+    <button id="resetView" type="button">Reset view</button>
+    <div id="status" role="status">Choose pairs.json to begin.</div>
+  </section>
+
+  <section class="layout">
+    <div class="viewer">
+      <p id="fitStatus" class="fit-status" role="status">Load data to check whether the distances fit exactly in 3D.</p>
+      <canvas id="scene" aria-label="Interactive three-dimensional pentahedron"></canvas>
+      <div class="hint">Left-drag to rotate around X and Y · Right-drag to pan · Use the Z slider to rotate around the viewing axis · Scroll to zoom. Use the checkboxes beside pairwise values to hide individual edges, such as interior diagonals. Perspective makes nearer vertices and edges appear larger.</div>
+    </div>
+    <aside class="details">
+      <h2>Pairwise values</h2>
+      <div id="pairList"></div>
+      <p class="note" id="fitNote">Load a JSON file to display the pairwise values.</p>
+    </aside>
+  </section>
+</main>
+<script>
+(() => {
+  "use strict";
+  const SOURCES = ["GHT", "RP", "TR", "SR", "SBL"];
+  const PAIRS = [
+    ["GHT","RP"], ["GHT","TR"], ["GHT","SR"], ["GHT","SBL"],
+    ["RP","TR"], ["RP","SR"], ["RP","SBL"],
+    ["TR","SR"], ["TR","SBL"], ["SR","SBL"]
+  ];
+  const $ = id => document.getElementById(id);
+  const canvas = $("scene"), ctx = canvas.getContext("2d");
+  let data = [], current = null, points = [], angleX = -20 * Math.PI / 180, angleY = 32 * Math.PI / 180, angleZ = 0, zoom = 1;
+  let dragging = false, dragMode = "rotate", lastX = 0, lastY = 0, panX = 0, panY = 0;
+  let fitRms = 0, fitRelative = 0, exactFit = false;
+  const visibleEdges = PAIRS.map(() => true);
+  const bookSelect = $("bookSelect"), metricSelect = $("metricSelect");
+
+  function setStatus(message, isError=false) {
+    $("status").textContent = message;
+    $("status").classList.toggle("error", isError);
+  }
+  function parseData(json) {
+    if (!Array.isArray(json)) throw new Error("Expected pairs.json to contain a JSON array.");
+    const cleaned = json.map(entry => {
+      if (!entry || typeof entry.book !== "string" || typeof entry.metric !== "string" || !Array.isArray(entry.pairs))
+        throw new Error("Each entry must contain book, metric, and pairs fields.");
+      const map = new Map();
+      for (const pair of entry.pairs) {
+        if (!pair || typeof pair.source_a !== "string" || typeof pair.source_b !== "string" || !Number.isFinite(Number(pair.value)))
+          throw new Error("A pair has a missing source name or invalid numeric value.");
+        const key = [pair.source_a, pair.source_b].sort().join("|");
+        map.set(key, Number(pair.value));
+      }
+      for (const [a,b] of PAIRS) {
+        if (!map.has([a,b].sort().join("|"))) throw new Error(`${entry.book}/${entry.metric} is missing pair ${a}-${b}.`);
+      }
+      return { book: entry.book, metric: entry.metric, values: PAIRS.map(([a,b]) => map.get([a,b].sort().join("|"))) };
+    });
+    return cleaned;
+  }
+  function loadData(json) {
+    data = parseData(json);
+    const books = [...new Set(data.map(x => x.book))];
+    bookSelect.replaceChildren(...books.map(book => {
+      const opt = document.createElement("option"); opt.value = book; opt.textContent = book; return opt;
+    }));
+    bookSelect.disabled = false;
+    metricSelect.disabled = false;
+    const metrics = [...new Set(data.map(x => x.metric))];
+    for (const option of metricSelect.options) option.hidden = !metrics.includes(option.value);
+    if (!metrics.includes(metricSelect.value)) metricSelect.value = metrics[0] || "textual";
+    renderSelection();
+    setStatus(`Loaded ${data.length} book/metric combinations.`);
+  }
+  function selectedEntry() {
+    return data.find(x => x.book === bookSelect.value && x.metric === metricSelect.value)
+      || data.find(x => x.book === bookSelect.value) || null;
+  }
+
+  // Check whether the ten distances admit an exact realization in 3D using
+  // classical multidimensional scaling. If not, fit the points approximately.
+  function exactCoordinates(targets) {
+    const n = SOURCES.length;
+    const d2 = Array.from({length:n}, () => Array(n).fill(0));
+    for (let k=0; k<PAIRS.length; k++) {
+      const [a,b] = PAIRS[k], i=SOURCES.indexOf(a), j=SOURCES.indexOf(b);
+      d2[i][j] = d2[j][i] = targets[k] ** 2;
+    }
+    const rowMeans = d2.map(row => row.reduce((sum,v)=>sum+v,0)/n);
+    const grandMean = rowMeans.reduce((sum,v)=>sum+v,0)/n;
+    const gram = d2.map((row,i)=>row.map((v,j)=>(rowMeans[i]+rowMeans[j]-v-grandMean)/2));
+    // Jacobi eigen-decomposition for this small real symmetric 5x5 matrix.
+    const a = gram.map(row=>row.slice());
+    const vectors = Array.from({length:n},(_,i)=>Array.from({length:n},(_,j)=>i===j?1:0));
+    for(let iter=0;iter<200;iter++) {
+      let p=0,q=1,max=0;
+      for(let i=0;i<n;i++) for(let j=i+1;j<n;j++) if(Math.abs(a[i][j])>max){max=Math.abs(a[i][j]);p=i;q=j;}
+      if(max<1e-12) break;
+      const theta=0.5*Math.atan2(2*a[p][q],a[q][q]-a[p][p]);
+      const c=Math.cos(theta), sn=Math.sin(theta);
+      const app=c*c*a[p][p]-2*sn*c*a[p][q]+sn*sn*a[q][q];
+      const aqq=sn*sn*a[p][p]+2*sn*c*a[p][q]+c*c*a[q][q];
+      for(let k=0;k<n;k++) if(k!==p&&k!==q) {
+        const akp=a[k][p], akq=a[k][q];
+        a[k][p]=a[p][k]=c*akp-sn*akq; a[k][q]=a[q][k]=sn*akp+c*akq;
+      }
+      a[p][p]=app; a[q][q]=aqq; a[p][q]=a[q][p]=0;
+      for(let k=0;k<n;k++) { const vkp=vectors[k][p], vkq=vectors[k][q]; vectors[k][p]=c*vkp-sn*vkq; vectors[k][q]=sn*vkp+c*vkq; }
+    }
+    const eigen = Array.from({length:n},(_,i)=>({value:a[i][i],vector:vectors.map(row=>row[i])})).sort((x,y)=>y.value-x.value);
+    const scale=Math.max(...eigen.map(e=>Math.abs(e.value)),1);
+    const tolerance=scale*1e-8;
+    const psd=eigen.every(e=>e.value>=-tolerance);
+    const rank=eigen.filter(e=>e.value>tolerance).length;
+    const isExact=psd&&rank<=3;
+    const coords=Array.from({length:n},(_,i)=>[0,0,0]);
+    for(let axis=0;axis<Math.min(3,n);axis++) {
+      const e=eigen[axis], magnitude=Math.sqrt(Math.max(0,e.value));
+      for(let i=0;i<n;i++) coords[i][axis]=e.vector[i]*magnitude;
+    }
+    return {coords,isExact};
+  }
+  function approximateCoordinates(targets, initial) {
+    const maxD = Math.max(...targets, 1e-6);
+    const p = initial.map(v=>v.slice());
+    const rate = 0.012;
+    for (let step = 0; step < 12000; step++) {
+      const g = p.map(() => [0,0,0]);
+      for (let k=0; k<PAIRS.length; k++) {
+        const [a,b] = PAIRS[k], i = SOURCES.indexOf(a), j = SOURCES.indexOf(b);
+        const dx=p[i][0]-p[j][0], dy=p[i][1]-p[j][1], dz=p[i][2]-p[j][2];
+        const d=Math.max(Math.hypot(dx,dy,dz),1e-9), err=d-targets[k];
+        const factor=2*err/d;
+        for(let axis=0;axis<3;axis++) { const delta=(p[i][axis]-p[j][axis])*factor; g[i][axis]+=delta; g[j][axis]-=delta; }
+      }
+      const lr=rate / maxD * (1 - 0.65*step/12000);
+      for(let i=0;i<p.length;i++) for(let axis=0;axis<3;axis++) p[i][axis]-=lr*g[i][axis];
+    }
+    return p;
+  }
+  function fitPoints(targets) {
+    const exact = exactCoordinates(targets);
+    exactFit = exact.isExact;
+    let p = exact.coords;
+    if (!exactFit) {
+      const seed=[[-0.55,0,0.55],[0.55,0,0.55],[0,0.65,-0.4],[0,-0.65,-0.4],[0,0,0.85]];
+      const maxD=Math.max(...targets,1e-6);
+      p=approximateCoordinates(targets,seed.map(v=>v.map(n=>n*maxD)));
+    }
+    let sum=0,targetSum=0;
+    for(let k=0;k<PAIRS.length;k++) {
+      const [a,b]=PAIRS[k],i=SOURCES.indexOf(a),j=SOURCES.indexOf(b);
+      const d=Math.hypot(p[i][0]-p[j][0],p[i][1]-p[j][1],p[i][2]-p[j][2]);
+      sum+=(d-targets[k])**2; targetSum+=targets[k]**2;
+    }
+    fitRms=Math.sqrt(sum/PAIRS.length); fitRelative=targetSum?Math.sqrt(sum/targetSum):0;
+    const scale=Math.max(...p.map(v=>Math.hypot(...v)),1e-9);
+    return p.map(v=>v.map(n=>n/scale));
+  }
+  function rotate(p) {
+    const [x,y,z]=p;
+    const cx=Math.cos(angleX), sx=Math.sin(angleX);
+    const cy=Math.cos(angleY), sy=Math.sin(angleY);
+    const cz=Math.cos(angleZ), sz=Math.sin(angleZ);
+    const y1=y*cx-z*sx, z1=y*sx+z*cx;
+    const x2=x*cy+z1*sy, z2=-x*sy+z1*cy;
+    return [x2*cz-y1*sz, x2*sz+y1*cz, z2];
+  }
+  function syncRotationControls() {
+    for (const [axis, angle] of [["X",angleX],["Y",angleY],["Z",angleZ]]) {
+      const degrees=Math.round(angle*180/Math.PI);
+      $("rotate"+axis).value=degrees;
+      $("rotate"+axis+"Value").textContent=degrees+"°";
+    }
+  }
+  function project(p, w, h) {
+    const [x,y,z]=rotate(p);
+    const cameraDistance = 3.2;
+    const perspective = cameraDistance / (cameraDistance - z);
+    const scale = Math.min(w,h) * 0.34 * zoom * perspective;
+    return {x:w/2+panX+x*scale, y:h/2+panY-y*scale, z, perspective};
+  }
+  function resizeCanvas() {
+    const rect=canvas.getBoundingClientRect(), dpr=window.devicePixelRatio||1;
+    canvas.width=Math.round(rect.width*dpr); canvas.height=Math.round(rect.height*dpr);
+    ctx.setTransform(dpr,0,0,dpr,0,0);
+    draw();
+  }
+  function draw() {
+    const w=canvas.clientWidth, h=canvas.clientHeight;
+    if(!w||!h) return;
+    ctx.clearRect(0,0,w,h);
+    ctx.fillStyle=getComputedStyle(document.body).getPropertyValue("--panel").trim(); ctx.fillRect(0,0,w,h);
+    if(!current || points.length!==5) {
+      ctx.fillStyle="#788391"; ctx.textAlign="center"; ctx.font="16px system-ui";
+      ctx.fillText("Load pairs.json to render the pentahedron",w/2,h/2); return;
+    }
+    const projected=points.map(p=>project(p,w,h));
+    const edges=PAIRS.map(([a,b],k)=>({a,b,k,pa:projected[SOURCES.indexOf(a)],pb:projected[SOURCES.indexOf(b)]})).filter(e=>visibleEdges[e.k]);
+    edges.sort((u,v)=>(u.pa.z+u.pb.z)-(v.pa.z+v.pb.z));
+    const style=getComputedStyle(document.body), text=style.getPropertyValue("--text").trim(), muted=style.getPropertyValue("--muted").trim(), line=style.getPropertyValue("--line").trim(), accent=style.getPropertyValue("--accent").trim();
+    const panel=style.getPropertyValue("--panel").trim();
+    for(const e of edges) {
+      const depth=(e.pa.z+e.pb.z)/2;
+      ctx.strokeStyle=depth < -0.2 ? line : accent;
+      ctx.globalAlpha=depth < -0.2 ? 0.55 : 0.95;
+      ctx.lineWidth=depth < -0.2 ? 1.5 : 2.1;
+      ctx.beginPath(); ctx.moveTo(e.pa.x,e.pa.y); ctx.lineTo(e.pb.x,e.pb.y); ctx.stroke();
+      ctx.globalAlpha=1;
+    }
+    if ($("showLabels").checked && $("showEdgeLabels").checked) {
+      // Place edge labels beyond the pentahedron's projected centroid and draw
+      // leader lines from each label box back to the corresponding edge.
+      const center={
+        x:projected.reduce((sum,p)=>sum+p.x,0)/projected.length,
+        y:projected.reduce((sum,p)=>sum+p.y,0)/projected.length
+      };
+      const obstacles=projected.map((p,i)=>({x:p.x-4,y:p.y-12,w:Math.max(42,SOURCES[i].length*9+12),h:24}));
+      const labelItems=edges.map(e=>{
+        const mx=(e.pa.x+e.pb.x)/2,my=(e.pa.y+e.pb.y)/2;
+        const dx=e.pb.x-e.pa.x,dy=e.pb.y-e.pa.y,len=Math.max(Math.hypot(dx,dy),1);
+        let ox=mx-center.x,oy=my-center.y,olen=Math.max(Math.hypot(ox,oy),1);
+        return {...e,mx,my,ux:ox/olen,uy:oy/olen,tx:-dy/len,ty:dx/len,label:`${current.values[e.k].toFixed(3)}%`};
+      }).sort((a,b)=>b.label.length-a.label.length);
+      const placed=[];
+      for(const e of labelItems) {
+        ctx.font="12px system-ui";
+        const tw=ctx.measureText(e.label).width+12, th=20;
+        const candidates=[];
+        for(const distance of [48,62,78,96,116]) {
+          for(const tangent of [0,-32,32,-58,58,-84,84]) {
+            candidates.push({x:e.mx+e.ux*distance+e.tx*tangent,y:e.my+e.uy*distance+e.ty*tangent});
+          }
+        }
+        let best=null,bestScore=Infinity;
+        for(const pos of candidates) {
+          const box={x:pos.x-tw/2,y:pos.y-th/2,w:tw,h:th};
+          let score=0;
+          for(const other of obstacles.concat(placed)) {
+            const overlapX=Math.max(0,Math.min(box.x+box.w,other.x+other.w)-Math.max(box.x,other.x));
+            const overlapY=Math.max(0,Math.min(box.y+box.h,other.y+other.h)-Math.max(box.y,other.y));
+            score+=overlapX*overlapY*20;
+          }
+          if(box.x<4)score+=(4-box.x)*150;
+          if(box.y<4)score+=(4-box.y)*150;
+          if(box.x+box.w>w-4)score+=(box.x+box.w-w+4)*150;
+          if(box.y+box.h>h-28)score+=(box.y+box.h-h+28)*150;
+          score+=Math.hypot(pos.x-e.mx,pos.y-e.my)*0.04;
+          if(score<bestScore){bestScore=score;best={...pos,box};}
+        }
+        placed.push(best.box);
+        // Connect the edge midpoint to the nearest point on the label box.
+        const lx=Math.max(best.box.x,Math.min(e.mx,best.box.x+best.box.w));
+        const ly=Math.max(best.box.y,Math.min(e.my,best.box.y+best.box.h));
+        ctx.strokeStyle=line; ctx.lineWidth=1; ctx.globalAlpha=0.9;
+        ctx.beginPath(); ctx.moveTo(e.mx,e.my); ctx.lineTo(lx,ly); ctx.stroke();
+        ctx.globalAlpha=1;
+        ctx.fillStyle=panel; ctx.fillRect(best.box.x,best.box.y,best.box.w,best.box.h);
+        ctx.strokeStyle=line; ctx.lineWidth=0.75; ctx.strokeRect(best.box.x,best.box.y,best.box.w,best.box.h);
+        ctx.fillStyle=text; ctx.textAlign="center"; ctx.textBaseline="middle"; ctx.fillText(e.label,best.x,best.y);
+      }
+    }
+    const vertexOrder=projected.map((p,i)=>({p,i})).sort((a,b)=>a.p.z-b.p.z);
+    for(const item of vertexOrder) {
+      const {p,i}=item;
+      const radius = 6.5 * p.perspective;
+      ctx.beginPath(); ctx.arc(p.x,p.y,radius,0,Math.PI*2);
+      ctx.fillStyle=accent; ctx.fill(); ctx.strokeStyle=style.getPropertyValue("--panel").trim(); ctx.lineWidth=2 * p.perspective; ctx.stroke();
+      if ($("showLabels").checked && $("showVertexLabels").checked) {
+        ctx.fillStyle=text; ctx.font=`bold ${13 * p.perspective}px system-ui`; ctx.textAlign="left"; ctx.textBaseline="middle";
+        ctx.fillText(SOURCES[i],p.x+radius+4*p.perspective,p.y);
+      }
+    }
+    ctx.fillStyle=muted; ctx.font="12px system-ui"; ctx.textAlign="left"; ctx.textBaseline="bottom";
+    ctx.fillText(`${exactFit ? "Exact 3D fit" : "Approximate 3D fit"} · RMS ${fitRms.toFixed(4)} pp`,12,h-10);
+  }
+  function renderSelection() {
+    current=selectedEntry();
+    if(!current) { points=[]; $("pairList").replaceChildren(); $("fitNote").textContent="No matching book/metric entry."; draw(); return; }
+    points=fitPoints(current.values);
+    const list=$("pairList"); list.replaceChildren();
+    PAIRS.forEach(([a,b],i)=>{
+      const row=document.createElement("div"); row.className="pair";
+      const toggle=document.createElement("input"); toggle.type="checkbox"; toggle.className="pair-toggle"; toggle.checked=visibleEdges[i]; toggle.title=`Show ${a}–${b} edge`; toggle.setAttribute("aria-label",`Show ${a}–${b} edge`);
+      toggle.addEventListener("change",()=>{visibleEdges[i]=toggle.checked;draw();});
+      const name=document.createElement("span"); name.className="pair-name"; name.textContent=`${a} – ${b}`;
+      const value=document.createElement("span"); value.className="pair-value"; value.textContent=`${current.values[i].toFixed(3)}%`;
+      row.append(toggle,name,value); list.append(row);
+    });
+    const fitStatus=$("fitStatus");
+    fitStatus.textContent=exactFit
+      ? `Exact fit in 3D · all ten distances are mutually compatible (RMS error ${fitRms.toExponential(2)}).`
+      : `Approximation · the ten distances cannot all be represented exactly in 3D (RMS error ${fitRms.toFixed(4)} percentage points; ${ (fitRelative*100).toFixed(2) }% relative).`;
+    fitStatus.classList.toggle("exact",exactFit);
+    fitStatus.classList.toggle("approx",!exactFit);
+    $("fitNote").textContent=exactFit
+      ? "Exact fit: the ten supplied distances are represented in 3D within numerical tolerance. Visible edge labels show the original values; use the checkboxes to hide diagonal or other edges."
+      : `Approximate fit: the 3D points minimize distance errors, but not all ten values can be matched exactly. RMS error: ${fitRms.toFixed(4)} percentage points (${(fitRelative*100).toFixed(2)}% relative). Visible edge labels show the original values; use the checkboxes to hide diagonal or other edges.`;
+    draw();
+  }
+  $("fileInput").addEventListener("change", async event => {
+    const file=event.target.files && event.target.files[0]; if(!file) return;
+    try { loadData(JSON.parse(await file.text())); }
+    catch(err) { setStatus(err.message || "Could not read JSON.",true); }
+  });
+  bookSelect.addEventListener("change",renderSelection);
+  metricSelect.addEventListener("change",renderSelection);
+  $("resetView").addEventListener("click",()=>{angleX=-20*Math.PI/180;angleY=32*Math.PI/180;angleZ=0;zoom=1;panX=0;panY=0;syncRotationControls();draw();});
+  for (const id of ["showLabels","showEdgeLabels","showVertexLabels"]) $(id).addEventListener("change",draw);
+  for (const axis of ["X","Y","Z"]) {
+    $("rotate"+axis).addEventListener("input",event=>{
+      const angle=Number(event.target.value)*Math.PI/180;
+      if(axis==="X") angleX=angle;
+      else if(axis==="Y") angleY=angle;
+      else angleZ=angle;
+      $("rotate"+axis+"Value").textContent=event.target.value+"°";
+      draw();
+    });
+  }
+  canvas.addEventListener("contextmenu",e=>e.preventDefault());
+  canvas.addEventListener("pointerdown",e=>{
+    if (e.button !== 0 && e.button !== 2) return;
+    dragging=true;
+    dragMode = e.button === 2 ? "pan" : "rotate";
+    lastX=e.clientX; lastY=e.clientY;
+    canvas.setPointerCapture(e.pointerId);
+    e.preventDefault();
+  });
+  canvas.addEventListener("pointermove",e=>{
+    if(!dragging)return;
+    const dx=e.clientX-lastX, dy=e.clientY-lastY;
+    if (dragMode === "pan") { panX += dx; panY += dy; }
+    else { angleY += dx*0.008; angleX += dy*0.008; syncRotationControls(); }
+    lastX=e.clientX; lastY=e.clientY; draw();
+  });
+  canvas.addEventListener("pointerup",()=>{dragging=false;});
+  canvas.addEventListener("pointercancel",()=>{dragging=false;});
+  canvas.addEventListener("wheel",e=>{e.preventDefault();zoom=Math.min(2.5,Math.max(0.55,zoom*(e.deltaY<0?1.08:0.92)));draw();},{passive:false});
+  window.addEventListener("resize",resizeCanvas);
+  syncRotationControls();
+  resizeCanvas();
+  // Try the conventional adjacent pairs.json path when served over HTTP.
+  fetch("pairs.json").then(r=>{if(!r.ok)throw new Error();return r.json();})
+    .then(loadData).catch(()=>{ /* File picker remains available, including under file://. */ });
+})();
+</script>
+</body>
+</html>

@@ -314,7 +314,7 @@ def main():
                     if other_id in decisions:
                         continue
 
-                    matched_label = matches_rule(other, rules)
+                    matched_label = matches_rule(other, [rules[-1]])
 
                     if matched_label:
                         decisions[other_id] = {
@@ -322,8 +322,6 @@ def main():
                             "note": "Automatically classified by reusable rule",
                             "automatic_rule": True,
                         }
-
-                save_decisions(decisions)
 
         save_decisions(decisions)
 
